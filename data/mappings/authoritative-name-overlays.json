@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "overlays": [
+    {
+      "type": "DivisionalSecretariat",
+      "dcsCode": "5225",
+      "sinhala": "සෙයින්තමරතු",
+      "tamil": "சாய்ந்தமருது",
+      "sourceOrganization": "Ministry of Home Affairs (MOHA LIFe) — Sainthamaruthu-labelled rows only; corroborated by Ministry of Public Administration Ampara DS list",
+      "evidence": "DCS English for 5225 is Sainthamaruthu. MOHA LIFe segment 5-2-25 mixes Sainthamarathu and Kalmunai North Sub Office labels (raw TRANSLATION_CONFLICT). PubAd Ampara list names Saindamarudu and Kalmunai North as separate DS units. Overlay uses the single agreed Sinhala/Tamil pair from MOHA rows whose DS English is spelling-compatible with Sainthamaruthu (Sainthamarathu), excluding Kalmunai North Sub Office rows. Not majority vote; not first-row selection across the mixed segment.",
+      "evidenceUrl": "https://pubad.gov.lk/web/index.php?Itemid=116&id=106&lang=en&option=com_content&view=article",
+      "retrievedOrPublishedDate": "2026-08-16",
+      "reviewNote": "Phase 3.8. DCS English remains Sainthamaruthu. Raw MOHA conflict retained in join reports. GN children under 5225 already exact-join for Si/Ta."
+    },
+    {
+      "type": "DivisionalSecretariat",
+      "dcsCode": "5221",
+      "sinhala": "කල්මුණ උතුර උප කාර්යාලය",
+      "tamil": "கல்முனை வடக்கு உப பிரதேச செயலகம்",
+      "sourceOrganization": "Ministry of Home Affairs (MOHA LIFe) — Kalmunai North Sub Office-labelled rows; corroborated by Ministry of Public Administration Ampara DS list",
+      "evidence": "DCS lists Kalmunai North Sub as DS 5221 (no MOHA HierarchicalDsCode 5221). PubAd Ampara list includes Kalmunai North as a distinct DS from Saindamarudu. MOHA publishes Sinhala/Tamil for 'Kalmunai North Sub Office' on LIFe 5-2-25 rows that are not Sainthamaruthu-labelled. Overlay applies those official DS-label names to DCS 5221. DCS English remains Kalmunai North Sub (Office is MOHA wording).",
+      "evidenceUrl": "https://pubad.gov.lk/web/index.php?Itemid=116&id=106&lang=en&option=com_content&view=article",
+      "retrievedOrPublishedDate": "2026-08-16",
+      "reviewNote": "Phase 3.8. DS-level overlay only. GN mappings for 5221* not confirmed: MOHA Kalmunai-labelled GNs use LIFe codes 5225150+ which do not match DCS 5221*; English similarity alone is insufficient."
+    },
+    {
+      "type": "DivisionalSecretariat",
+      "dcsCode": "3136",
+      "sinhala": "හික්කඩුව",
+      "tamil": "ஹிக்கடுவை",
+      "sourceOrganization": "Ministry of Home Affairs (MOHA LIFe) — HierarchicalDsCode 3136 Hikkaduwa rows",
+      "evidence": "DCS and MOHA both use DS code 3136 for Hikkaduwa with exact English name. After the 2019 Cabinet-approved split of the former Hikkaduwa area into Hikkaduwa/Ratgama/Madampagama, all 27 current DCS GN codes under 3136 fail LIFe exact-join (GN components renumbered), so matched-row DS aggregation yields no Si/Ta. MOHA still publishes a single agreed trilingual DS label on all 27 LIFe 3-1-36-* rows: Sinhala හික්කඩුව / Tamil ஹிக்கடுவை / English Hikkaduwa. Overlay reuses those official DS-label names for the same DCS code. GN children remain unresolved pending Gazette GN code lists.",
+      "evidenceUrl": "http://moha.gov.lk:8090/lifecode/views/rpt_gn_list.php",
+      "retrievedOrPublishedDate": "2026-08-16",
+      "reviewNote": "Phase 3.8. Same-code DS identity (not a MOHA to DCS recode mapping). DCS English remains Hikkaduwa. Does not approve GN mappings from English similarity alone."
+    }
+  ]
+}

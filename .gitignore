@@ -1,0 +1,72 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio / IDE
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.rsuser
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+coverage*/
+
+## OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Secrets / local env
+.env
+.env.*
+!.env.example
+*.pfx
+*.snk
+secrets.json
+appsettings.*.local.json
+
+## Temporary / download scratch (do not commit uncontrolled downloads)
+data/source/_tmp/
+data/generated/_tmp/
+*.tmp
+*.temp
+
+## Authoritative DCS source binaries (redistribution terms unclear; commit provenance only)
+data/source/*.xlsx
+data/source/*.xls
+data/source/*.pdf
+!data/source/sources.json
+
+## MOHA LIFe snapshots (no open-data licence identified; commit provenance only)
+data/source/moha-life/reports/
+data/source/moha-life/manifest.json
+data/source/*.html
+
+## Rider / JetBrains
+*.DotSettings.user
+
+## Publish output
+publish/
+out/

@@ -1,0 +1,61 @@
+# EditorConfig for LankaLens
+# Prefer Microsoft/.NET conventions over a custom style dialect.
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+[*.{csproj,props,targets,json,yml,yaml,md,xml}]
+indent_size = 2
+
+[*.cs]
+indent_size = 4
+
+# Organize usings
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = false
+
+# Prefer file-scoped namespaces
+csharp_style_namespace_declarations = file_scoped:suggestion
+
+# Prefer braces
+csharp_prefer_braces = true:suggestion
+
+# Prefer explicit types for built-in types (readability)
+csharp_style_var_for_built_in_types = false:suggestion
+csharp_style_var_when_type_is_apparent = true:suggestion
+csharp_style_var_elsewhere = false:suggestion
+
+# Unused usings
+dotnet_diagnostic.IDE0005.severity = warning
+
+# Naming: interfaces I*, types PascalCase
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+dotnet_naming_style.interface_style.capitalization = pascal_case
+dotnet_naming_style.interface_style.required_prefix = I
+
+dotnet_naming_rule.interfaces_should_be_i_prefixed.severity = suggestion
+dotnet_naming_rule.interfaces_should_be_i_prefixed.symbols = interface_symbols
+dotnet_naming_rule.interfaces_should_be_i_prefixed.style = interface_style
+
+dotnet_naming_symbols.interface_symbols.applicable_kinds = interface
+dotnet_naming_symbols.interface_symbols.applicable_accessibilities = *
+
+dotnet_naming_rule.types_should_be_pascal_case.severity = suggestion
+dotnet_naming_rule.types_should_be_pascal_case.symbols = type_symbols
+dotnet_naming_rule.types_should_be_pascal_case.style = pascal_case
+
+dotnet_naming_symbols.type_symbols.applicable_kinds = class, struct, enum, delegate
+dotnet_naming_symbols.type_symbols.applicable_accessibilities = *
+
+# Newline preferences
+csharp_new_line_before_open_brace = all
+csharp_new_line_before_else = true
+csharp_new_line_before_catch = true
+csharp_new_line_before_finally = true

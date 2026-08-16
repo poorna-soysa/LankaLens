@@ -1,0 +1,50 @@
+﻿python : C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\reader\workbook.py:118: UserWarning: Print 
+area cannot be set to Defined name: GNDList!$A:$M.
+At C:\Users\Poorna Soysa\AppData\Local\Temp\ps-script-021121c0-39fa-40b3-9060-249d849221b1.ps1:108 char:63
++ ... c:\My Works\Projects\LankaLens"; pip install openpyxl -q; python -c "
++                                                               ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\Poorna... GNDList!$A:$M.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  warn(f"Print area cannot be set to Defined name: {defn.value}.")
+C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\worksheet\header_footer.py:48: UserWarning: 
+Cannot parse header or footer so it will be ignored
+  warn("""Cannot parse header or footer so it will be ignored""")
+--- Kothmale West membership by English ---
+DCS n 49 MOHA n 49
+intersection 38
+only DCS ['Godamaditta', 'Hedunuwewa', 'Hunugaloya', 'Ketabulawa', 'Kottunugoda', 'Methagama', 'Rojersangama North', 'Rojersangama South', 'Thispane Kanda', 'Udagama', 'Wijayabahu Kanda']
+only MOHA ['Godamadiththa', 'Hedunuwewe', 'Hunugalloya', 'Kataboola', 'Koththunugoda', 'Meathagama', 'Rojasangama North', 'Rojasangama South', 'Thispanekanda', 'Udagammedda', 'Vijayabahu Kanda']
+MOHA 2304 labels: {'4: α╢Üα╖£α╢¡α╖èα╢╕α╢╜α╖Ü (α╢╢α╢ºα╖äα╖Æα╢╗)/ α«òα»èα«ñα»ìα««α«▓α»ê(α««α»çα«▒α»ìα«òα»ü)\n/ Kothmale (West)'}
+--- Norwood membership by English ---
+DCS n 35 MOHA n 35 inter 18
+only DCS ['Aulton Watta', 'Bagawanthalawa South', 'Brownswick', 'Gawarawila', 'Injustry', 'Lethant', 'Loinon', 'Maussakele', 'Moca', 'Moray', 'New Weligama', 'Panmur', 'Rosella', 'Shanon', 'Strathspey']
+only MOHA ['Alten', 'Bogawanthalawa South', 'Brunswick', 'Gouravilla', 'Ingestre', 'Lethenty', 'Loinorn', 'Mocha', 'Morray', 'Mousakelle', 'New Valley Gama', 'Panmor', 'Rozella', 'Shannon', 'Sthrathspey']
+--- 5225 DS label variants (repr) ---
+Sainthamaruthu label variants 1
+ S '25: α╖âα╖Öα╢║α╖Æα╢▒α╖èα╢¡α╢╕α╢╗α╢¡α╖ö/ α«Üα«╛α«»α»ìα«¿α»ìα«ñα««α«░α»üα«ñα»ü/ Sainthamarathu'
+Kalmunai North label variants 1
+ K '25: α╢Üα╢╜α╖èα╢╕α╖öα╢½ α╢ïα╢¡α╖öα╢╗ α╢ïα╢┤ α╢Üα╖Åα╢╗α╖èα╢║α╖Åα╢╜α╢║\u200b/ α«òα«▓α»ìα««α»üα«⌐α»ê α«╡α«ƒα«òα»ìα«òα»ü α«ëα«¬ α«¬α«┐α«░α«ñα»çα«Ü α«Üα»åα«»α«▓α«òα««α»ì/ Kalmunai North Sub Office'
+--- DCS 5225 / 5221 ---
+5225 Sainthamaruthu n 17
+ comps ['005', '010', '015', '020', '025', '030', '035', '040', '045', '050', '055', '060', '065', '070', '075', '080', '085']
+ ens ['Sainthamaruthu 01', 'Sainthamaruthu 02', 'Sainthamaruthu 03', 'Sainthamaruthu 04', 'Sainthamaruthu 05', 'Sainthamaruthu 06', 'Sainthamaruthu 07', 'Sainthamaruthu 08', 'Sainthamaruthu 09', 'Sainthamaruthu 10', 'Sainthamaruthu 11', 'Sainthamaruthu 12', 'Sainthamaruthu 13', 'Sainthamaruthu 14', 'Sainthamaruthu 15', 'Sainthamaruthu 16', 'Sainthamaruthu 17']
+5221 Kalmunai North Sub n 29
+ ens ['Chenaikudiyiruppu 01', 'Chenaikudiyiruppu 01A', 'Chenaikudiyiruppu 01B', 'Kalmunai  01', 'Kalmunai  01A', 'Kalmunai  01B', 'Kalmunai  01C', 'Kalmunai  01D', 'Kalmunai  01E', 'Kalmunai  02', 'Kalmunai  02A', 'Kalmunai  02B', 'Kalmunai  03', 'Kalmunai  03A', 'Natpiddimunai (T.P ) 01', 'Natpiddimunai (T.P ) 02', 'Natpiddimunai (T.P ) 03', 'Pandiruppu 01', 'Pandiruppu 01A', 'Pandiruppu 01B', 'Pandiruppu 01C', 'Pandiruppu 02A', 'Pandiruppu 02B', 'Pandiruppu 02C', 'Pandiruppu 02_x000D_', 'Periyaneelavanai  01', 'Periyaneelavanai  01A', 'Periyaneelavanai  01B', 'Periyaneelavanai  02']
+--- Mount Lavinia DCS ---
+('1131005', 'Mount Lavinia', 'Ratmalana', '005')
+--- Mathurata 2307 same-DS English rename candidates ---
+DCS 52 MOHA 52 same comps 4
+English-matched different component pairs 46
+  ('110', 'Happawara', '115', 'Happawara', '2-3-07-115')
+  ('210', 'Illagolla', '100', 'Illagolla', '2-3-07-100')
+  ('215', 'Rammalakandura', '110', 'Rammalakandura', '2-3-07-110')
+  ('220', 'Moragolla', '105', 'Moragolla', '2-3-07-105')
+  ('305', 'Udawela Pathana', '060', 'Udawela Pathana', '2-3-07-060')
+  ('310', 'Welampagoda', '055', 'Welampagoda', '2-3-07-055')
+  ('315', 'Denike', '045', 'Denike', '2-3-07-045')
+  ('325', 'Alawattegama', '010', 'Alawattegama', '2-3-07-010')
+  ('340', 'Bogamuwa', '080', 'Bogamuwa', '2-3-07-080')
+  ('350', 'Bodhiwela', '095', 'Bodhiwela', '2-3-07-095')

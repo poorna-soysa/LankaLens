@@ -1,0 +1,94 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore
+        run: dotnet restore LankaLens.sln
+
+      - name: Build
+        run: dotnet build LankaLens.sln -c Release --no-restore
+
+      - name: Test
+        run: dotnet test LankaLens.sln -c Release --no-build --verbosity normal
+
+      - name: Pack
+        run: dotnet pack src/LankaLens.AdministrativeDivisions/LankaLens.AdministrativeDivisions.csproj -c Release --no-build
+
+      - name: Validate package contents
+        shell: pwsh
+        run: |
+          $packages = Get-ChildItem artifacts/packages -Filter "*.nupkg" -ErrorAction Stop
+          if ($packages.Count -lt 1) {
+            throw "Expected at least one .nupkg in artifacts/packages"
+          }
+
+          $symbols = Get-ChildItem artifacts/packages -Filter "*.snupkg" -ErrorAction SilentlyContinue
+          if ($symbols.Count -lt 1) {
+            throw "Expected at least one .snupkg in artifacts/packages"
+          }
+
+          foreach ($pkg in $packages) {
+            $extractDir = Join-Path $env:RUNNER_TEMP ("nupkg-" + [guid]::NewGuid().ToString("n"))
+            New-Item -ItemType Directory -Path $extractDir | Out-Null
+            Copy-Item $pkg.FullName (Join-Path $extractDir "package.zip")
+            Expand-Archive (Join-Path $extractDir "package.zip") -DestinationPath $extractDir
+
+            $dll = Join-Path $extractDir "lib/net8.0/LankaLens.AdministrativeDivisions.dll"
+            if (-not (Test-Path $dll)) {
+              throw "Package missing lib/net8.0/LankaLens.AdministrativeDivisions.dll: $($pkg.Name)"
+            }
+
+            $readme = Join-Path $extractDir "README.md"
+            if (-not (Test-Path $readme)) {
+              throw "Package missing README.md: $($pkg.Name)"
+            }
+
+            $forbidden = @(
+              "tools/",
+              "tests/",
+              "samples/",
+              "data/source/",
+              "moha-life",
+              ".xlsx",
+              ".xls",
+              ".html"
+            )
+            $allFiles = Get-ChildItem $extractDir -Recurse -File | ForEach-Object {
+              $_.FullName.Substring($extractDir.Length).TrimStart('\','/').Replace('\','/')
+            }
+            foreach ($pattern in $forbidden) {
+              $hit = $allFiles | Where-Object { $_ -like "*$pattern*" }
+              if ($hit) {
+                throw "Package unexpectedly contains '$pattern': $($hit -join ', ')"
+              }
+            }
+
+            Add-Type -AssemblyName System.Reflection
+            $asm = [System.Reflection.Assembly]::LoadFrom($dll)
+            $resourceName = "LankaLens.AdministrativeDivisions.Data.administrative-divisions.json"
+            $resourceNames = $asm.GetManifestResourceNames()
+            if ($resourceNames -notcontains $resourceName) {
+              throw "Package DLL missing embedded resource '$resourceName'. Found: $($resourceNames -join ', ')"
+            }
+
+            Write-Host "Validated $($pkg.Name)"
+          }

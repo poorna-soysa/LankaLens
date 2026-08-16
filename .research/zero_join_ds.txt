@@ -1,0 +1,24 @@
+﻿python : C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\reader\workbook.py:118: UserWarning: Print 
+area cannot be set to Defined name: GNDList!$A:$M.
+At C:\Users\Poorna Soysa\AppData\Local\Temp\ps-script-49b96b9e-aca1-4ecd-b8fc-c9bd0a4e7d60.ps1:108 char:38
++ cd "c:\My Works\Projects\LankaLens"; python -c "
++                                      ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\Poorna... GNDList!$A:$M.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  warn(f"Print area cannot be set to Defined name: {defn.value}.")
+C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\worksheet\header_footer.py:48: UserWarning: 
+Cannot parse header or footer so it will be ignored
+  warn("""Cannot parse header or footer so it will be ignored""")
+Traceback (most recent call last):
+  File "<string>", line 50, in <module>
+    print(z[0], 'dcs', z[1], 'moha', z[2], 'label', z[3][:80])
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Poorna Soysa\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 4-11: character maps to <undefined>
+DS with zero GN joins but MOHA DS rows:
+3136 dcs 27 moha 27 label 

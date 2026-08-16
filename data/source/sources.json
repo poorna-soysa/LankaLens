@@ -1,0 +1,50 @@
+{
+  "sources": [
+    {
+      "id": "dcs-administrative-division-codes",
+      "organization": "Department of Census and Statistics, Sri Lanka",
+      "title": "Administrative Division Codes (GND List / MRCB-2024)",
+      "url": "https://www.statistics.gov.lk/qlink/AdminDivCodes_Excel",
+      "pageUrl": "https://www.statistics.gov.lk/qlink/AdminDivCode",
+      "retrievedDate": "2026-08-16",
+      "publishedOrUpdatedDate": "2024-03-19",
+      "originalServerFileName": "GNDList_Final.xlsx",
+      "fileName": "dcs-gndlist-final-2024-03-19.xlsx",
+      "sha256": "C4D40C4478B306EEBABA4ABA3A0BF9BE30D5F589D4D05440040BE14524F363E0",
+      "byteLength": 1287027,
+      "purpose": "Administrative codes, English names, and Province → District → DS → GN hierarchy",
+      "notes": "Sheet GNDList. Source footnote: Master Registry of Census Blocks (MRCB-2024), Cartography Division. As at 19th March 2024. English names only; no Sinhala or Tamil columns."
+    },
+    {
+      "id": "dcs-no-of-gn-by-ds",
+      "organization": "Department of Census and Statistics, Sri Lanka",
+      "title": "No. of GN Divisions by DS Division and District",
+      "url": "https://www.statistics.gov.lk/ref/GNbyDistrict",
+      "pageUrl": "https://www.statistics.gov.lk/ref/GNbyDistrict",
+      "retrievedDate": "2026-08-16",
+      "publishedOrUpdatedDate": "2024-03-19",
+      "originalServerFileName": "NoofGNbyDS.xlsx",
+      "fileName": "dcs-no-of-gn-by-ds-2024-03-19.xlsx",
+      "sha256": "223DEA3EAB9923DD8ABEF80E34DD4E0B243DC954026129F2D984E638306DABDF",
+      "byteLength": 26546,
+      "purpose": "Official DS and GN count cross-checks by district",
+      "notes": "Sheets: 'No. of GNDs by DSD & District' and 'No. of GNDs & DSDs by District'. As at 19th March 2024. English labels only."
+    },
+    {
+      "id": "moha-life-location-codes",
+      "organization": "Ministry of Home Affairs, Sri Lanka — Home Affairs Division (IT Unit)",
+      "title": "LIFe Location Codes (Grama Niladhari Division List)",
+      "url": "http://moha.gov.lk:8090/lifecode/views/rpt_gn_list.php",
+      "pageUrl": "http://moha.gov.lk:8090/lifecode/",
+      "retrievedDate": "2026-08-16",
+      "originalServerFileName": "rpt_gn_list.php",
+      "fileName": "moha-life/manifest.json",
+      "sha256": "31D1BB35A3D30CC810A061A5EC65CCCC9EBE3FDF6F5A5F5637C1E3B80240CFC8",
+      "byteLength": 6789783,
+      "acquisitionMechanism": "Official generated HTML GN report (POST /lifecode/views/rpt_gn_list.php) per district; cascade IDs from POST /lifecode/views/fetch.php",
+      "reportIdentifier": "POST /lifecode/views/rpt_gn_list.php (per district)",
+      "purpose": "Authoritative Sinhala/Tamil administrative names for DCS codes joinable via LIFe → GND_UID (national validation incomplete for recoded DS/GN units)",
+      "notes": "No published source date on the LIFe UI or GN reports. Raw HTML is gitignored. Reproduce with: dotnet run --project tools/LankaLens.DataBuilder -- acquire-moha. DataBuilder validate/build never fetch live MOHA."
+    }
+  ]
+}

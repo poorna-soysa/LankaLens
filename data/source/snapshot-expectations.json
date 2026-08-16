@@ -1,0 +1,19 @@
+{
+  "description": "Expected counts and multilingual coverage for the current DCS + MOHA source snapshot. Update deliberately when authoritative coverage increases with provenance.",
+  "counts": {
+    "provinces": 9,
+    "districts": 25,
+    "divisionalSecretariats": 340,
+    "gramaNiladhariDivisions": 14008
+  },
+  "coverage": {
+    "provinceSinhala": 9,
+    "provinceTamil": 9,
+    "districtSinhala": 25,
+    "districtTamil": 25,
+    "divisionalSecretariatSinhala": 340,
+    "divisionalSecretariatTamil": 340,
+    "gramaNiladhariSinhala": 13723,
+    "gramaNiladhariTamil": 13723
+  }
+}

@@ -1,0 +1,109 @@
+=== COLOMBO: Ratmalana / 1131 / 1139 ===
+rows: 13
+  1-1-39-005 | gn=005 | en=Mount Lavinia | si=ගල්කිස්ස | ta=மனிட்லாவனியா | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-010 | gn=010 | en=Kawdana West | si=කවුඩාන බටහිර | ta=கவ்டாணா ‍மேற்கு | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-015 | gn=015 | en=Watarappala | si=වටරප්පල | ta=வட்டராப்பல | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-020 | gn=020 | en=Wathumulla | si=වතුමුල්ල | ta=வத்துமுள்ள | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-025 | gn=025 | en=Katukurunduwatta | si=කටුකුරුඳුවත්ත | ta=கட்டுகுருத்த | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-030 | gn=030 | en=Attidiya North | si=අත්තිඩිය උතුර | ta=அத்திடிய வடக்கு | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-035 | gn=035 | en=Attidiya South | si=අත්තිඩිය දකුණ | ta=அத்திடிய ‎தெற்கு | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-040 | gn=040 | en=Piriwena | si=පිරිවෙන | ta=பிரி‎வெண | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-045 | gn=045 | en=Wedikanda | si=වෙඩිකන්ද | ta=‎வெடிகந்த | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-050 | gn=050 | en=Vihara | si=විහාර | ta=விஹார‍ | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-055 | gn=055 | en=Rathmalana West | si=රත්මලාන බටහිර | ta=இரத்மளாணை ‍மேற்கு | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-060 | gn=060 | en=Rathmalana East | si=රත්මලාන  නැගෙනහිර | ta=இரத்மளாணை கிழக்கு | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+  1-1-31-065 | gn=065 | en=Kandawala | si=කඳවල | ta=கந்தவள | ds=31: රත්මලාන/ இரத்மழா‍ணை/ Ratmalana
+
+=== AMPARA: Kalmunai / Sainthamaruthu / 5221 / 5224 / 5225 ===
+DS 5224: n=30
+  label: 24: කල්මුණ/ கல்முனை/ Kalmunai
+  5-2-24-005 | en=Periyaneelavanai Muslim Section 01 | si=පෙරියනීලාවනි මුස්ලිම් කොටස 01 | ta=‎பெரியநீலவ‍ணை முஸ்லீம் பிரிவு  01
+  5-2-24-010 | en=Periyaneelavanai Muslim Section 02 | si=පෙරියනීලාවනී මුස්ලිම් කොටස 02 | ta=‎பெரியநீலவ‍ணை முஸ்லிம் பிரிவு.02
+  5-2-24-015 | en=Maruthamunai 01 | si=මරුදමූනේ  01 | ta=மருதமு‍னை  01
+  5-2-24-020 | en=Maruthamunai 02 | si=මරුදමූනේ 02 | ta=மருதமு‍னை 02
+  5-2-24-025 | en=Maruthamunai 03 | si=මරුදමූනේ 03 | ta=மருதமு‍னை 03
+  5-2-24-030 | en=Maruthamunai 04 | si=මරුදුමුනේ 04 | ta=மருதமு‍னை 04
+  5-2-24-035 | en=Maruthamunai 05 | si=මරුදුමුනේ 05 | ta=மருதமு‍னை 05
+  5-2-24-040 | en=Maruthamunai 06 | si=මරුදමූනේ 06 | ta=மருதமு‍னை 06
+  5-2-24-070 | en=Islamabad & Kalmunai Town | si=ඉස්ලාමාබාත් සහ කල්මුණේ නගරය | ta=இஸ்லாமாபாத் & கல்மு‍ணை னகரம்
+  5-2-24-055 | en=Natpittimunai Muslim Division 01 | si=නට්පිටිමුනේ මුස්ලිම් කොටස 01 | ta=நற்பிட்டிமு‍னை முஸ்லீம் பிரிவு 01
+  5-2-24-050 | en=Natpittimunai Muslim Division 02 | si=නට්පිටිමූනේ මුස්ලිම් කොටස 02 | ta=நற்பிட்டிமு‍னை முஸ்லிம் பிரிவு 02
+  5-2-24-045 | en=Natpittimanai Muslim Division 03 | si=නට්පිටිමුනේ මුස්ලිම් කොටස 03 | ta=நற்பிட்டிமு‍னை முஸ்லிம் பிரிவு 03
+  5-2-24-065 | en=Natpittimunai Muslim Division 04 | si=නට්පිටිමුනේ මුස්ලිම් කොටස 04 | ta=நற்பிட்டிமு‍னை முஸ்லிம் பிரிவு 04
+  5-2-24-060 | en=Natpittimunai Muslim Division 05 | si=නට්පිටිමුනේ මුස්ලිම් කොටස 05 | ta=நற்பிட்டிமு‍னை முஸ்லிம் பிரிவு 05
+  5-2-24-075 | en=Kalmunai Muslim Section | si=කල්මුනේ මුස්ලිම් කොටස | ta=கல்மு‍னை முஸ்லீம் பிரிவு
+  5-2-24-080 | en=Kalmunaikudy 01 | si=කල්මුනේකුඩි 01 | ta=கல்மு‍னைக்குடி 01
+  5-2-24-090 | en=Kalmunaikudy 02 | si=කල්මුනේකුඩි 02 | ta=கல்மு‍னைக்குடி 02
+  5-2-24-095 | en=Kalmunaikudy 04 | si=කල්මුනේකුඩි 04 | ta=கல்மு‍னைக்குடி 04
+  5-2-24-085 | en=Kalmunaikudy 03 | si=කල්මුනේකුඩි 03 | ta=கல்மு‍னைக்குடி 03
+  5-2-24-100 | en=Kalmunaikudy 05 | si=කල්මුනේකුඩි 05 | ta=கல்மு‍னைக்குடி 05
+  5-2-24-105 | en=Kalmunaikudy 06 | si=කල්මුනේකුඩි 06 | ta=கல்மு‍னைக்குடி 06
+  5-2-24-120 | en=Kalmunaikudy 07 | si=කල්මුනේකුඩි 07 | ta=கல்மு‍னைக்குடி 07
+  5-2-24-110 | en=Kalmunaikudy 08 | si=කල්මුනේකුඩි 08 | ta=கல்மு‍னைக்குடி 08
+  5-2-24-115 | en=Kalmunaikudy 09 | si=කල්මුනේකුඩි 09 | ta=கல்மு‍னைக்குடி 09
+  5-2-24-125 | en=Kalmunaikudy 10 | si=කල්මුනේකුඩි 10 | ta=கல்மு‍னைக்குடி 10
+  5-2-24-130 | en=Kalmunaikudy 11 | si=කල්මුනේකුඩි 11 | ta=கல்மு‍னைக்குடி 11
+  5-2-24-135 | en=Kalmunaikudy 12 | si=කල්මුනේකුඩි 12 | ta=கல்மு‍னைக்குடி 12
+  5-2-24-140 | en=Kalmunaikudy 13 | si=කල්මුනේකුඩි 13 | ta=கல்மு‍னைக்குடி 13
+  5-2-24-145 | en=Kalmunaikudy 14 | si=කල්මුනේකුඩි 14 | ta=கல்மு‍னைக்குடி 14
+  5-2-24-205 | en=Pandirippu‐1 | si=පන්දිරිප්පු-1 | ta=பன்டிருப்பு
+DS 5225: n=45
+  label: 25: කල්මුණ උතුර උප කාර්යාලය​/ கல்முனை வடக்கு உப பிரதேச செயலகம்/ Kalmunai North Sub Office
+  label: 25: සෙයින්තමරතු/ சாய்ந்தமருது/ Sainthamarathu
+  5-2-25-005 | en=Sainthamaruthu 1 | si=සායින්දමරුදු 1 | ta=சாய்ந்தமருது 1
+  5-2-25-010 | en=Sainthamaruthu 2 | si=සායින්දමරුදු 2 | ta=சாய்ந்தமருது 2
+  5-2-25-015 | en=Sainthamaruthu 3 | si=සායින්දමරුදු 3 | ta=சாய்ந்தமருது 3
+  5-2-25-020 | en=Sainthamaruthu 4 | si=සායින්දමරුදු 4 | ta=சாய்ந்தமருது 4
+  5-2-25-025 | en=Sainthamaruthu 5 | si=සායින්දමරුදු 5 | ta=சாய்ந்தமருது 5
+  5-2-25-030 | en=Sainthamaruthu 6 | si=සායින්දමරුදු 6 | ta=சாய்ந்தமருது 6
+  5-2-25-035 | en=Sainthamaruthu 7 | si=සායින්දමරුදු 7 | ta=சாய்ந்தமருது 7
+  5-2-25-040 | en=Sainthamaruthu 8 | si=සායින්දමරුදු 8 | ta=சாய்ந்தமருது 8
+  5-2-25-045 | en=Sainthamaruthu 9 | si=සායින්දමරුදු 9 | ta=சாய்ந்தமருது 9
+  5-2-25-050 | en=Sainthamaruthu 10 | si=සායින්දමරුදු 10 | ta=சாய்ந்தமருது 10
+  5-2-25-055 | en=Sainthamaruthu 11 | si=සායින්දමරුදු 11 | ta=சாய்ந்தமருது 11
+  5-2-25-060 | en=Sainthamaruthu 13 | si=සායින්දමරුදු 13 | ta=சாய்ந்தமருது 13
+  5-2-25-065 | en=Sainthamaruthu 12 | si=සායින්දමරුදු 12 | ta=சாய்ந்தமருது 12
+  5-2-25-070 | en=Sainthamaruthu 17 | si=සායින්දමරුදු 17 | ta=சாய்ந்தமருது 17
+  5-2-25-075 | en=Sainthamaruthu 14 | si=සායින්දමරුදු 14 | ta=சாய்ந்தமருது 14
+  5-2-25-080 | en=Sainthamaruthu 15 | si=සායින්දමරුදු 15 | ta=சாய்ந்தமருது 15
+  5-2-25-085 | en=Sainthamaruthu 16 | si=සායින්දමරුදු 16 | ta=சாய்ந்தமருது 16
+  5-2-25-150 | en=Kalmunai‐1 | si=කල්මුණ-1 | ta=கல்முனை -1
+  5-2-25-155 | en=Kalmunai‐1A | si=කල්මුණ-1A | ta=கல்முனை-1 A
+  5-2-25-160 | en=Kalmunai‐1B | si=කල්මුණ-1B | ta=கல்முனை -1B
+  5-2-25-165 | en=Kalmunai‐1C | si=කල්මුණ-1C | ta=கல்முனை-C
+  5-2-25-170 | en=Kalmunai‐1D | si=කල්මුණ-1D | ta=கல்முனை -1D
+  5-2-25-175 | en=Kalmunai‐1E | si=කල්මුණ-1E | ta=கல்முனை-1E
+  5-2-25-180 | en=Kalmunai‐2 | si=කල්මුණ-2 | ta=கல்முனை-2
+  5-2-25-185 | en=Kalmunai‐2A | si=කල්මුණ-2A | ta=கல்முனை-2A
+  5-2-25-190 | en=Kalmunai‐2B | si=කල්මුණ-2B | ta=கல்முனை-2B
+  5-2-25-195 | en=Kalmunai‐3 | si=කල්මුණ-3 | ta=கல்முனை -3
+  5-2-25-200 | en=Kalmunai‐3A | si=කල්මුණ-3A | ta=கல்முனை -3A
+  5-2-25-210 | en=Pandirippu‐1A | si=පන්දිරිප්පු-1A | ta=பன்டிருப்பு-1A
+  5-2-25-215 | en=Pandirippu‐1B | si=පන්දිරිප්පු-1B | ta=பண்டிருப்பு-1B
+  5-2-25-220 | en=Pandirippu‐1C | si=පන්දිරිප්පු-1C | ta=பண்டிருப்பு -1C
+  5-2-25-225 | en=Pandirippu‐2 | si=පන්දිරිප්පු-2 | ta=பண்டிருப்பு -2
+  5-2-25-230 | en=Pandirippu‐2A | si=පන්දිරිප්පු-2A | ta=பண்டிருப்பு -2A
+  5-2-25-235 | en=Pandirippu‐2B | si=පන්දිරිප්පු-2B | ta=பண்டிருப்பு -2B
+  5-2-25-240 | en=Pandirippu‐2C | si=පන්දිරිප්පු-2C | ta=பண்டிருப்பு -2C
+  5-2-25-245 | en=Natpaddimunai TD 1 | si=නට්පඩ්ඩිමුනාඉ TD 1 | ta=நட்பட்டிமுனை TD 1
+  5-2-25-250 | en=Natpaddimunai TD 2 | si=නට්පඩ්ඩිමුනාඉ TD 2 | ta=நட்பட்டிமுனை TD 2
+  5-2-25-255 | en=Natpaddimunai TD 3 | si=නට්පඩ්ඩිමුනාඉ TD 3 | ta=நட்பட்டிமுனை TD 3
+  5-2-25-260 | en=Chennaipendirippu‐1 | si=චෙන්නෛපෙන්ඩිරිප්පු-1 | ta=சென்னைபெண்டிருப்பு -1
+  5-2-25-265 | en=Chennaipendirippu‐1A | si=චෙන්නෛපෙන්ඩිරිප්පු-1A | ta=சென்னைபென்டிருப்பு -1A
+  5-2-25-270 | en=Chennaipendirippu‐1B | si=චෙන්නෛපෙන්ඩිරිප්පු-1B | ta=சென்னைபென்டிருப்பு- 1B
+  5-2-25-275 | en=Periyaneelavanai‐1 | si=පෙරියනීලවනෛ-1 | ta=பெரியநீலாவணை -1
+  5-2-25-280 | en=Periyaneelavanai‐1A | si=පෙරියනීලවනෛ-1A | ta=பெரியநீலாவணை -1A
+  5-2-25-285 | en=Periyaneelavanai‐1B | si=පෙරියනීලවනෛ-1B | ta=பெரியநீலாவணை -1B
+  5-2-25-290 | en=Periyaneelavanai‐2 | si=පෙරියනීලවනෛ-2 | ta=பெரியநீலாவணை -2
+
+=== NUWARA ELIYA: Kothmale / Norwood ===
+DS 2303: n=47 labels=['3: කොත්මලේ/ \u200e\u200eகொத்ம\u200dலை/ Kothmale']
+  comps=['040', '045', '050', '055', '060', '065', '070', '075', '080', '085', '090', '095', '100', '105', '110', '195', '205', '215', '220', '225', '230', '235', '240', '245', '250', '255', '350', '355', '360', '365', '370', '375', '380', '385', '390', '395', '400', '405', '410', '415', '420', '425', '430', '435', '440', '475', '480']
+  ens=['Ambathalawa', 'Bogahawela', 'Dansinan', 'Delta Gemunupura', 'Delunthalamada', 'Dunukedeniya', 'Egodawela', 'Gomburuoya', 'Halpola', 'Helboda', 'Helsirigama', 'Kadadorapitiya', 'Karagahayatathenna', 'Karagasthalawa', 'Katukithula', 'Kikiliyamana', 'Kiridiwela', 'Kosgaha Pathana', 'Kothmalgama', 'Kudaoya', 'Kumbaloluwa', 'Labukele', 'Madakumbura', 'Malhewa', 'Maswela', 'Mawela East', 'Mawela Kanda', 'Mawela West', 'Medakanda', 'Medakumbura North', 'Nawa Kadadora', 'Nawamorape', 'Niyamgamdora', 'Palagolla', 'Panamgammana', 'Protoft', 'Pundaluoya North', 'Pundaluoya South', 'Raja Ela', 'Ramboda', 'Rambodagama', 'Saman Eliya', 'Sangilipalama', 'Sheen', 'Sheengama', 'Wedamulla', 'Wewahinna']
+DS 2304: n=49 labels=['4: කොත්මලේ (බටහිර)/ கொத்மலை(மேற்கு)\n/ Kothmale (West)']
+  comps=['005', '010', '015', '020', '025', '030', '035', '040', '045', '050', '055', '060', '065', '070', '075', '080', '085', '090', '095', '100', '105', '110', '115', '120', '125', '130', '135', '140', '145', '150', '155', '160', '165', '170', '175', '180', '185', '190', '195', '200', '205', '210', '215', '220', '225', '230', '235', '240', '245']
+  ens=['Beramana', 'Beramana North', 'Beramana South', 'Dambagolla', 'Dombagasthalawa', 'Doruwadeniya', 'Godamadiththa', 'Halgolla', 'Hapugasthalawa', 'Harangala', 'Harangala South', 'Hedunuwewe', 'Hunugalloya', 'Ihala Gorakaoya', 'Kadadora', 'Kalapitiya East', 'Kalapitiya West', 'Kaludemada', 'Kataboola', 'Katarandana', 'Katugolla', 'Kirimetiyawa', 'Kolapathana', 'Kotagepitiya North', 'Kotagepitiya South', 'Koththunugoda', 'Maldeniya', 'Mallanda', 'Meathagama', 'Nawangama', 'Nayapana', 'Pahala Gorakaoya', 'Polwathura', 'Queensberry', 'Ranwanthalawa', 'Rawanagoda East', 'Rawanagoda West', 'Rojasangama North', 'Rojasangama South', 'Ruwanpura', 'Thelissagala', 'Thispanekanda', 'Udagammedda', 'Vijayabahu Kanda', 'Wataddara', 'Weerapura', 'Weerasekarapura', 'Werella Pathana', 'Wethalawa']
+DS 2316: n=35 labels=['16: නෝර්වුඩ්/ நோர்வூட்/ Norwood']
+  comps=['005', '010', '015', '020', '025', '030', '035', '040', '045', '050', '055', '060', '065', '070', '075', '080', '085', '090', '095', '100', '105', '110', '115', '120', '125', '130', '135', '140', '145', '150', '155', '160', '165', '170', '175']
+  ens=['Alten', 'Annfield', 'Bogawana', 'Bogawanthalawa South', 'Brownlow', 'Brunswick', 'Dickoya', 'Dickoya South', 'Gouravilla', 'Hatton East', 'Hatton North', 'Hatton South', 'Hatton West', 'Ingestre', 'Kirkoswald', 'Kotiyagala', 'Lethenty', 'Loinorn', 'Mahanelu', 'Maskeliya', 'Mocha', 'Morray', 'Mousakelle', 'New Valley Gama', 'Norwood', 'Panmor', 'Rozella', 'Ruwanpura', 'Seethagangula', 'Shannon', 'Sthrathspey', 'Tillerie', 'Vellioya', 'Venture', 'Wanarajah']
+openpyxl missing; skip DCS dump

@@ -1,0 +1,20 @@
+﻿python : C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\reader\workbook.py:118: UserWarning: Print 
+area cannot be set to Defined name: GNDList!$A:$M.
+At C:\Users\Poorna Soysa\AppData\Local\Temp\ps-script-d1813a42-e564-4698-9898-0639eb35cda2.ps1:108 char:38
++ cd "c:\My Works\Projects\LankaLens"; python -c "
++                                      ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\Poorna... GNDList!$A:$M.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  warn(f"Print area cannot be set to Defined name: {defn.value}.")
+C:\Users\Poorna 
+Soysa\AppData\Local\Programs\Python\Python313\Lib\site-packages\openpyxl\worksheet\header_footer.py:48: UserWarning: 
+Cannot parse header or footer so it will be ignored
+  warn("""Cannot parse header or footer so it will be ignored""")
+DCS 3136 n 27 name Hikkaduwa
+MOHA 3136 n 27
+label variants 1
+27 '36: α╖äα╖Æα╢Üα╖èα╢Üα╢⌐α╖öα╖Ç/ α«╣α«┐α«òα»ìα«òα«ƒα»üα«╡α»ê/ Hikkaduwa'
+exact matched codes 0 dcs only 27 moha only 27
+matched labels 0

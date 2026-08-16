@@ -1,0 +1,11093 @@
+# English name differences (DCS canonical vs MOHA LIFe)
+
+Review artifact only. MOHA English must not overwrite DCS English.
+
+- Exact: 11614
+- Formatting-only (case / whitespace / punctuation): 278
+- Spelling or substantive: 2048
+
+## Province
+
+- Code: `6`
+  - DCS English: North Western
+  - MOHA English: North-Western
+  - Difference classification: Punctuation
+- Code: `7`
+  - DCS English: North Central
+  - MOHA English: North-Central
+  - Difference classification: Punctuation
+
+## District
+
+No differences.
+
+## DS
+
+- Code: `5136`
+  - DCS English: Manmunai South & Eruvil pattu
+  - MOHA English: Manmunai South & Eruvil Pattu
+  - Difference classification: CaseOnly
+- Code: `2302`
+  - DCS English: Kothmale West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314`
+  - DCS English: Norwood
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134`
+  - DCS English: Gonapeenuwala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135`
+  - DCS English: Madampagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325`
+  - DCS English: Walasmulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104`
+  - DCS English: Karainagar
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104`
+  - DCS English: Koralai Pattu Central
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110`
+  - DCS English: Koralai Pattu South (Kiran)
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221`
+  - DCS English: Kalmunai North Sub
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5225`
+  - DCS English: Sainthamaruthu
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4139`
+  - DCS English: Island South (Velanai)
+  - MOHA English: Island South ,Velanai
+  - Difference classification: Punctuation
+- Code: `8127`
+  - DCS English: Uva Paranagama
+  - MOHA English: Uva-Paranagama
+  - Difference classification: Punctuation
+- Code: `2106`
+  - DCS English: Pujapitiya
+  - MOHA English: Poojapitiya
+  - Difference classification: Spelling
+- Code: `2148`
+  - DCS English: Deltota
+  - MOHA English: Delthota
+  - Difference classification: Spelling
+- Code: `2313`
+  - DCS English: Thalawakelle
+  - MOHA English: Thalawakale
+  - Difference classification: Spelling
+- Code: `3103`
+  - DCS English: Bentota
+  - MOHA English: Benthota
+  - Difference classification: Spelling
+- Code: `3128`
+  - DCS English: Wanduramba
+  - MOHA English: Waduramba
+  - Difference classification: Spelling
+- Code: `3309`
+  - DCS English: Thissamaharama
+  - MOHA English: Tissamaharama
+  - Difference classification: Spelling
+- Code: `4118`
+  - DCS English: Valikamam East (Kopay)
+  - MOHA English: valikamam-East(kopayi)
+  - Difference classification: Spelling
+- Code: `4121`
+  - DCS English: Vadamaradchi South-West (Karaveddy)
+  - MOHA English: Vadamaradchy South-West, Karaveddy
+  - Difference classification: Spelling
+- Code: `4212`
+  - DCS English: Nanattan
+  - MOHA English: Nanaddan
+  - Difference classification: Spelling
+- Code: `4215`
+  - DCS English: Musali
+  - MOHA English: Musalai
+  - Difference classification: Spelling
+- Code: `4409`
+  - DCS English: Puthukkudiyiruppu
+  - MOHA English: Puthukudiyiruppu
+  - Difference classification: Spelling
+- Code: `5216`
+  - DCS English: Navithanveli
+  - MOHA English: Navithanvelly
+  - Difference classification: Spelling
+- Code: `5227`
+  - DCS English: Karaitheevu
+  - MOHA English: Karaitivu
+  - Difference classification: Spelling
+- Code: `5233`
+  - DCS English: Addalachchenai
+  - MOHA English: Addalaichenai
+  - Difference classification: Spelling
+- Code: `5327`
+  - DCS English: Muttur
+  - MOHA English: Muthur
+  - Difference classification: Spelling
+- Code: `5330`
+  - DCS English: Seruvila
+  - MOHA English: Seruwila
+  - Difference classification: Spelling
+- Code: `6145`
+  - DCS English: Panduwasnuwara West
+  - MOHA English: Panduwasnuwara
+  - Difference classification: Spelling
+- Code: `6148`
+  - DCS English: Panduwasnuwara East
+  - MOHA English: Paduwasnuwara East
+  - Difference classification: Spelling
+- Code: `6206`
+  - DCS English: Vanathawilluwa
+  - MOHA English: Vanathavilluwa
+  - Difference classification: Spelling
+- Code: `7112`
+  - DCS English: Mahawilachchiya
+  - MOHA English: Mahavilachchiya
+  - Difference classification: Spelling
+- Code: `7136`
+  - DCS English: Nachchaduwa
+  - MOHA English: Nachchadoowa
+  - Difference classification: Spelling
+- Code: `9119`
+  - DCS English: Kaltota
+  - MOHA English: Kalthota
+  - Difference classification: Spelling
+- Code: `9121`
+  - DCS English: Opanayake
+  - MOHA English: Opanayaka
+  - Difference classification: Spelling
+- Code: `1115`
+  - DCS English: Seethawaka
+  - MOHA English: Hanwella
+  - Difference classification: Substantive
+- Code: `1130`
+  - DCS English: Dehiwala
+  - MOHA English: Dehiwala-Mount Lavinia
+  - Difference classification: Substantive
+- Code: `2303`
+  - DCS English: Kothmale East
+  - MOHA English: Kothmale
+  - Difference classification: Substantive
+- Code: `2315`
+  - DCS English: Ambagamuwa Koralaya
+  - MOHA English: Ambagamuwa
+  - Difference classification: Substantive
+- Code: `3242`
+  - DCS English: Matara Four Gravets
+  - MOHA English: Four Gravets
+  - Difference classification: Substantive
+- Code: `4124`
+  - DCS English: Vadamaradchi East
+  - MOHA English: Vadamaradchi East (Maruthnkerny)
+  - Difference classification: Substantive
+- Code: `5103`
+  - DCS English: Koralai Pattu North (Vaharai)
+  - MOHA English: Koralai Pattu North
+  - Difference classification: Substantive
+- Code: `5127`
+  - DCS English: Manmunai Pattu (Araipattai)
+  - MOHA English: Manmunai Pattu (Arayampathy
+  - Difference classification: Substantive
+- Code: `5321`
+  - DCS English: Kanthale
+  - MOHA English: Kantalai
+  - Difference classification: Substantive
+- Code: `5333`
+  - DCS English: Verugal (Eachchilampattu)
+  - MOHA English: Verugal
+  - Difference classification: Substantive
+- Code: `6124`
+  - DCS English: Maho
+  - MOHA English: Mahawa
+  - Difference classification: Substantive
+- Code: `6218`
+  - DCS English: Mundel
+  - MOHA English: Mundalama
+  - Difference classification: Substantive
+
+## GN
+
+- Code: `1112405`
+  - DCS English: weniwelkola
+  - MOHA English: Weniwelkola
+  - Difference classification: CaseOnly
+- Code: `1136315`
+  - DCS English: Makandana west
+  - MOHA English: Makandana West
+  - Difference classification: CaseOnly
+- Code: `1136360`
+  - DCS English: Regidel watta
+  - MOHA English: Regidel Watta
+  - Difference classification: CaseOnly
+- Code: `1215310`
+  - DCS English: Polwatta west
+  - MOHA English: Polwatta West
+  - Difference classification: CaseOnly
+- Code: `1227265`
+  - DCS English: Katuwasgoda West
+  - MOHA English: Katuwasgoda west
+  - Difference classification: CaseOnly
+- Code: `1230420`
+  - DCS English: udugama
+  - MOHA English: Udugama
+  - Difference classification: CaseOnly
+- Code: `2103110`
+  - DCS English: Galagedara Madige South
+  - MOHA English: Galagedara Madige south
+  - Difference classification: CaseOnly
+- Code: `2139175`
+  - DCS English: Alapalawala west
+  - MOHA English: Alapalawala West
+  - Difference classification: CaseOnly
+- Code: `2139355`
+  - DCS English: Werawala east
+  - MOHA English: Werawala East
+  - Difference classification: CaseOnly
+- Code: `2157040`
+  - DCS English: Balanthota North
+  - MOHA English: Balanthota north
+  - Difference classification: CaseOnly
+- Code: `2206200`
+  - DCS English: Yakkuragala south
+  - MOHA English: Yakkuragala South
+  - Difference classification: CaseOnly
+- Code: `2218215`
+  - DCS English: Hulangamuwa south
+  - MOHA English: Hulangamuwa South
+  - Difference classification: CaseOnly
+- Code: `3103150`
+  - DCS English: DombagahaWatta
+  - MOHA English: Dombagahawatta
+  - Difference classification: CaseOnly
+- Code: `3109195`
+  - DCS English: Kurundugaha hethekma
+  - MOHA English: Kurundugaha Hethekma
+  - Difference classification: CaseOnly
+- Code: `3151165`
+  - DCS English: MalalgodaPitiya
+  - MOHA English: Malalgodapitiya
+  - Difference classification: CaseOnly
+- Code: `3151215`
+  - DCS English: Thittagalla west
+  - MOHA English: Thittagalla West
+  - Difference classification: CaseOnly
+- Code: `3203020`
+  - DCS English: Dangala West
+  - MOHA English: Dangala west
+  - Difference classification: CaseOnly
+- Code: `3230035`
+  - DCS English: Pananwela west
+  - MOHA English: Pananwela West
+  - Difference classification: CaseOnly
+- Code: `3321080`
+  - DCS English: Malhewage Ayna
+  - MOHA English: Malhewage ayna
+  - Difference classification: CaseOnly
+- Code: `3333100`
+  - DCS English: Vitharandeniya South
+  - MOHA English: Vitharandeniya south
+  - Difference classification: CaseOnly
+- Code: `3333275`
+  - DCS English: Kadurupokuna west
+  - MOHA English: Kadurupokuna West
+  - Difference classification: CaseOnly
+- Code: `4139120`
+  - DCS English: Pungudutivu Centre West
+  - MOHA English: Pungudutivu Centre west
+  - Difference classification: CaseOnly
+- Code: `4412040`
+  - DCS English: koolamurippu
+  - MOHA English: Koolamurippu
+  - Difference classification: CaseOnly
+- Code: `4506005`
+  - DCS English: Elephant pass
+  - MOHA English: Elephant Pass
+  - Difference classification: CaseOnly
+- Code: `4506055`
+  - DCS English: Puthiya punnaineeravi
+  - MOHA English: Puthiya Punnaineeravi
+  - Difference classification: CaseOnly
+- Code: `4506070`
+  - DCS English: Tharmapuram west
+  - MOHA English: Tharmapuram West
+  - Difference classification: CaseOnly
+- Code: `5112140`
+  - DCS English: Arumugathan kudiyiruppu 2
+  - MOHA English: Arumugathan Kudiyiruppu 2
+  - Difference classification: CaseOnly
+- Code: `5124010`
+  - DCS English: Kattankudy 1 South
+  - MOHA English: Kattankudy 1 south
+  - Difference classification: CaseOnly
+- Code: `5124080`
+  - DCS English: Kattankudy 6 West
+  - MOHA English: Kattankudy 6 west
+  - Difference classification: CaseOnly
+- Code: `5224070`
+  - DCS English: Islamabad & kalmunai Town
+  - MOHA English: Islamabad & Kalmunai Town
+  - Difference classification: CaseOnly
+- Code: `6130010`
+  - DCS English: Kimbulwana Oya
+  - MOHA English: Kimbulwana oya
+  - Difference classification: CaseOnly
+- Code: `6149070`
+  - DCS English: Pahala Kolamunna
+  - MOHA English: Pahala kolamunna
+  - Difference classification: CaseOnly
+- Code: `6184100`
+  - DCS English: waduwawa
+  - MOHA English: Waduwawa
+  - Difference classification: CaseOnly
+- Code: `8139060`
+  - DCS English: Pahala kadurugamuwa
+  - MOHA English: Pahala Kadurugamuwa
+  - Difference classification: CaseOnly
+- Code: `8203115`
+  - DCS English: Egoda Kotagama
+  - MOHA English: Egoda kotagama
+  - Difference classification: CaseOnly
+- Code: `9124125`
+  - DCS English: pelmadulla Town
+  - MOHA English: Pelmadulla Town
+  - Difference classification: CaseOnly
+- Code: `9203010`
+  - DCS English: Dombemada west
+  - MOHA English: Dombemada West
+  - Difference classification: CaseOnly
+- Code: `9206355`
+  - DCS English: Kehelpannala West
+  - MOHA English: Kehelpannala west
+  - Difference classification: CaseOnly
+- Code: `1131005`
+  - DCS English: Mount Lavinia
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2124315`
+  - DCS English: Rambukwella East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2209235`
+  - DCS English: Andawala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2209240`
+  - DCS English: Opalgala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2209245`
+  - DCS English: Ambana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2209250`
+  - DCS English: Moragolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2209255`
+  - DCS English: Galboda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302005`
+  - DCS English: Doruwadeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302010`
+  - DCS English: Polwathura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302015`
+  - DCS English: Pahala Gorakaoya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302020`
+  - DCS English: Dambagolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302025`
+  - DCS English: Nayapana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302030`
+  - DCS English: Kadadora
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302035`
+  - DCS English: Kotagepitiya North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302115`
+  - DCS English: Kotagepitiya South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302120`
+  - DCS English: Ranwanthalawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302125`
+  - DCS English: Thispane Kanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302130`
+  - DCS English: Harangala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302135`
+  - DCS English: Hapugasthalawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302140`
+  - DCS English: Kaludemada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302145`
+  - DCS English: Ihala Gorakaoya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302150`
+  - DCS English: Mallanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302155`
+  - DCS English: Ruwanpura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302160`
+  - DCS English: Werella Pathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302165`
+  - DCS English: Halgolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302170`
+  - DCS English: Harangala South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302175`
+  - DCS English: Kirimetiyawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302180`
+  - DCS English: Hunugaloya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302185`
+  - DCS English: Godamaditta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302190`
+  - DCS English: Wataddara
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302200`
+  - DCS English: Nawangama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302210`
+  - DCS English: Wethalawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302260`
+  - DCS English: Hedunuwewa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302265`
+  - DCS English: Kalapitiya East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302270`
+  - DCS English: Kottunugoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302275`
+  - DCS English: Kalapitiya West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302280`
+  - DCS English: Weerasekarapura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302285`
+  - DCS English: Rojersangama South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302290`
+  - DCS English: Rojersangama North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302295`
+  - DCS English: Dombagasthalawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302300`
+  - DCS English: Katugolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302305`
+  - DCS English: Thelissagala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302310`
+  - DCS English: Ketabulawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302315`
+  - DCS English: Wijayabahu Kanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302320`
+  - DCS English: Rawanagoda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302325`
+  - DCS English: Udagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302330`
+  - DCS English: Rawanagoda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302335`
+  - DCS English: Methagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302340`
+  - DCS English: Maldeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302345`
+  - DCS English: Katarandana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302445`
+  - DCS English: Beramana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302450`
+  - DCS English: Beramana North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302455`
+  - DCS English: Kolapathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302460`
+  - DCS English: Queensberry
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302465`
+  - DCS English: Beramana South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2302470`
+  - DCS English: Weerapura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307305`
+  - DCS English: Udawela Pathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307310`
+  - DCS English: Welampagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307315`
+  - DCS English: Denike
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307325`
+  - DCS English: Alawattegama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307330`
+  - DCS English: Uda Makuruppa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307335`
+  - DCS English: Palle Makuruppa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307340`
+  - DCS English: Bogamuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307350`
+  - DCS English: Bodhiwela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307355`
+  - DCS English: Pallewela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307360`
+  - DCS English: Kaluattanagolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307365`
+  - DCS English: Wadawala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307370`
+  - DCS English: Udalumada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307470`
+  - DCS English: Ehelamalpe
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307475`
+  - DCS English: Rathukurusa Janapadaya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307480`
+  - DCS English: Wilwala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307485`
+  - DCS English: Dehipe
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307490`
+  - DCS English: Deniyagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307495`
+  - DCS English: Bodhimalkada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307500`
+  - DCS English: Welapahala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307505`
+  - DCS English: Uda Padiyapelella
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307510`
+  - DCS English: Okandagala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307525`
+  - DCS English: Rathyaya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307530`
+  - DCS English: Godigamuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307535`
+  - DCS English: Manakola
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307540`
+  - DCS English: Marthuwela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307545`
+  - DCS English: Idampitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307550`
+  - DCS English: Mathurata
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307555`
+  - DCS English: Udagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307560`
+  - DCS English: Merrygold
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307565`
+  - DCS English: Ketayapathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307570`
+  - DCS English: Gonakele
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307575`
+  - DCS English: Gonapitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307580`
+  - DCS English: Bomellagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307585`
+  - DCS English: Dunukebedda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307590`
+  - DCS English: Wellagiriya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307595`
+  - DCS English: Ampitigoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307600`
+  - DCS English: Wewathenna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307605`
+  - DCS English: Metibembiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307610`
+  - DCS English: Goodwood
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307615`
+  - DCS English: Hunukotuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307620`
+  - DCS English: Medawela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307625`
+  - DCS English: Labuhenwala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307630`
+  - DCS English: Ketahira
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307635`
+  - DCS English: Deegalahinna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307640`
+  - DCS English: Elamulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307645`
+  - DCS English: Udawela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307650`
+  - DCS English: Mandaram Nuwara
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2307655`
+  - DCS English: Malsara Nuwara
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310400`
+  - DCS English: Thibbatugoda South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310405`
+  - DCS English: Goradiyagolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310410`
+  - DCS English: Denambure
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310415`
+  - DCS English: Purankumbura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310420`
+  - DCS English: Hegama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310425`
+  - DCS English: Dambagolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310430`
+  - DCS English: Demataarawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310435`
+  - DCS English: Madulla South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310440`
+  - DCS English: Morahela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310445`
+  - DCS English: Meepanawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310450`
+  - DCS English: Roopaha East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310455`
+  - DCS English: Pallewela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310460`
+  - DCS English: Palugama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310465`
+  - DCS English: Kotambe
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310470`
+  - DCS English: Karandagolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310475`
+  - DCS English: Udagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310480`
+  - DCS English: Kumbukwela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310530`
+  - DCS English: Roopaha
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310535`
+  - DCS English: Mathetilla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310540`
+  - DCS English: Embulampaha
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310545`
+  - DCS English: Maliyadda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310550`
+  - DCS English: Kurupanawela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310555`
+  - DCS English: Wathulanda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310560`
+  - DCS English: Wathulanda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310565`
+  - DCS English: Ambaliyadda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310570`
+  - DCS English: Galkadapathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310600`
+  - DCS English: Delmar
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310605`
+  - DCS English: Sooriyagahapathana Ihala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310610`
+  - DCS English: Sooriyagahapathana Pahala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310615`
+  - DCS English: Udapussellawa South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310620`
+  - DCS English: St. Magret
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2310625`
+  - DCS English: Udapussellawa North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313255`
+  - DCS English: Nagasena
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313260`
+  - DCS English: Eildonhall
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313265`
+  - DCS English: Rahanwatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313270`
+  - DCS English: Balmoral
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313275`
+  - DCS English: Hallbrook
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313280`
+  - DCS English: Henfold
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313285`
+  - DCS English: Thangakele
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313315`
+  - DCS English: Lippakelle
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313320`
+  - DCS English: Dayagama West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313325`
+  - DCS English: Sandrinham
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313330`
+  - DCS English: Glasgow
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313335`
+  - DCS English: Braemore
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313340`
+  - DCS English: Albian
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313345`
+  - DCS English: Elbedda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313350`
+  - DCS English: Agarapathana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313355`
+  - DCS English: Weverly
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2313360`
+  - DCS English: Dayagama East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314165`
+  - DCS English: Rosella
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314170`
+  - DCS English: Welioya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314175`
+  - DCS English: Maussakele
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314180`
+  - DCS English: Lethant
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314185`
+  - DCS English: Shanon
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314190`
+  - DCS English: Hatton East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314195`
+  - DCS English: Hatton South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314200`
+  - DCS English: Panmur
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314205`
+  - DCS English: Ruwanpura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314210`
+  - DCS English: Hatton West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314215`
+  - DCS English: Hatton North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314220`
+  - DCS English: Dickoya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314225`
+  - DCS English: Annfield
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314230`
+  - DCS English: Dickoya South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314235`
+  - DCS English: Injustry
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314240`
+  - DCS English: Wanarajah
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314245`
+  - DCS English: New Weligama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314250`
+  - DCS English: Norwood
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314255`
+  - DCS English: Maskeliya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314260`
+  - DCS English: Brownlow
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314265`
+  - DCS English: Seethagangula
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314270`
+  - DCS English: Moray
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314275`
+  - DCS English: Moca
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314280`
+  - DCS English: Brownswick
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314285`
+  - DCS English: Gawarawila
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314290`
+  - DCS English: Mahanelu
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314295`
+  - DCS English: Venture
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314300`
+  - DCS English: Tillary
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314305`
+  - DCS English: Kirkoswald
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314310`
+  - DCS English: Bogawana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314315`
+  - DCS English: Loinon
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314320`
+  - DCS English: Kotiyagala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314325`
+  - DCS English: Bagawanthalawa South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314330`
+  - DCS English: Aulton Watta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `2314335`
+  - DCS English: Strathspey
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3106080`
+  - DCS English: Middaramulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127115`
+  - DCS English: Mahalapitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127125`
+  - DCS English: Thilaka Udagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127130`
+  - DCS English: Ganegama East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127205`
+  - DCS English: Thelikada Nagaraya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127210`
+  - DCS English: Balagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127215`
+  - DCS English: Adurathvila
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127220`
+  - DCS English: Kohombanadeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127225`
+  - DCS English: Walpita South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127230`
+  - DCS English: Gonapura
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127235`
+  - DCS English: Horagampita Central
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3127240`
+  - DCS English: Horagampita
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134005`
+  - DCS English: Karuwalabedda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134010`
+  - DCS English: Manampita
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134015`
+  - DCS English: Dangaragaha Udumulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134020`
+  - DCS English: Banwelgodella
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134025`
+  - DCS English: Iriyagahamulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134030`
+  - DCS English: Aluthwala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134035`
+  - DCS English: Mahagangoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134040`
+  - DCS English: Kirindiela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134045`
+  - DCS English: Thilakagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134050`
+  - DCS English: Henagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134055`
+  - DCS English: Gonapeenuwala Central
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134060`
+  - DCS English: Woodland Watta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134065`
+  - DCS English: Berathuduwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134070`
+  - DCS English: Hikkaduwa East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134075`
+  - DCS English: Arachchikanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134080`
+  - DCS English: Gonapeenuwala East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134085`
+  - DCS English: Gonapeenuwala West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134090`
+  - DCS English: Dodankahavila
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3134095`
+  - DCS English: Kaluwagaha Janapadaya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135005`
+  - DCS English: Urawatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135010`
+  - DCS English: Dewagoda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135015`
+  - DCS English: Dewagoda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135020`
+  - DCS English: Deldoowa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135025`
+  - DCS English: Idanthota
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135030`
+  - DCS English: Kuleegoda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135035`
+  - DCS English: Galagoda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135040`
+  - DCS English: Galagoda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135045`
+  - DCS English: Kuleegoda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135050`
+  - DCS English: Wellabada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135055`
+  - DCS English: Usmudulawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135060`
+  - DCS English: wenamulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135065`
+  - DCS English: Dimbuldoowa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135070`
+  - DCS English: Andurangoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135075`
+  - DCS English: Galdoowa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135080`
+  - DCS English: Akurala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135085`
+  - DCS English: Akurala North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135090`
+  - DCS English: Akurala South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135095`
+  - DCS English: Uduwaragoda North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135100`
+  - DCS English: Uduwaragoda South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135105`
+  - DCS English: Kahawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135110`
+  - DCS English: Weragoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135115`
+  - DCS English: Delmar Colony
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135120`
+  - DCS English: Harannagala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135125`
+  - DCS English: Godagama South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135130`
+  - DCS English: Godagama North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135135`
+  - DCS English: Daluwathumulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135140`
+  - DCS English: Thelwatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135145`
+  - DCS English: Pereliya North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135150`
+  - DCS English: Pereliya South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135155`
+  - DCS English: Seenigama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135160`
+  - DCS English: seenigama East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135165`
+  - DCS English: Malawenna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135170`
+  - DCS English: Kalupe
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135175`
+  - DCS English: Udumulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135180`
+  - DCS English: Medagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135185`
+  - DCS English: Werellana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3135190`
+  - DCS English: Thotagamuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136005`
+  - DCS English: Wellawatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136010`
+  - DCS English: Nakanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136015`
+  - DCS English: Hikkaduwa Central
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136020`
+  - DCS English: Hikkaduwa West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136025`
+  - DCS English: Hikkaduwa Nagarikaya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136030`
+  - DCS English: Wavulagoda West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136035`
+  - DCS English: Wavulagoda East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136040`
+  - DCS English: Nalagasdeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136045`
+  - DCS English: Millagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136050`
+  - DCS English: Wewala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136055`
+  - DCS English: Pannamgoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136060`
+  - DCS English: Narigama Wellabada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136065`
+  - DCS English: Narigama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136070`
+  - DCS English: Kuda Wewala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136075`
+  - DCS English: Delgahadoowa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136080`
+  - DCS English: Katukoliha
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136085`
+  - DCS English: Thiranagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136090`
+  - DCS English: Thiranagama Wellabada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136095`
+  - DCS English: Patuwatha
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136100`
+  - DCS English: Gammaduwatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136105`
+  - DCS English: Hennathota
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136110`
+  - DCS English: Pinkanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136115`
+  - DCS English: Handaudumulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136120`
+  - DCS English: Dodandugoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136125`
+  - DCS English: Modara Patuwatha
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136130`
+  - DCS English: Dodandoowa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3136135`
+  - DCS English: Uduhalpitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325005`
+  - DCS English: Rammala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325010`
+  - DCS English: Saputhanthirikanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325015`
+  - DCS English: Warapitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325020`
+  - DCS English: Keredeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325025`
+  - DCS English: Haggitha kanda North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325030`
+  - DCS English: Konkarahena
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325035`
+  - DCS English: Mapitakanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325040`
+  - DCS English: Radani Ara
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325045`
+  - DCS English: Namaneliya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325050`
+  - DCS English: Udahagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325055`
+  - DCS English: Weedikanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325060`
+  - DCS English: Galwadiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325065`
+  - DCS English: Uda Julampitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325070`
+  - DCS English: Julampitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325075`
+  - DCS English: Palle Julampitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325080`
+  - DCS English: Pahala Obada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325085`
+  - DCS English: Bowala North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325090`
+  - DCS English: Bowala West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325095`
+  - DCS English: Welandagoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325100`
+  - DCS English: Batagassa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325105`
+  - DCS English: Pahalawatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325110`
+  - DCS English: Pathegama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325115`
+  - DCS English: Thalapathkanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325120`
+  - DCS English: Dehigahahena
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325125`
+  - DCS English: Veedapola
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325130`
+  - DCS English: Mathuwakanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325135`
+  - DCS English: Handugala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325140`
+  - DCS English: Kebellaketiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325145`
+  - DCS English: Egodabedda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325150`
+  - DCS English: Kekiriobada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325155`
+  - DCS English: Agalabada
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325160`
+  - DCS English: Bowala South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325165`
+  - DCS English: Ihala Muruthawela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325170`
+  - DCS English: Muruthawela Pahala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325175`
+  - DCS English: Galahitiya North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325180`
+  - DCS English: Omara East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325185`
+  - DCS English: Omara West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325190`
+  - DCS English: Ethpitiya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325195`
+  - DCS English: Wattehengoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325200`
+  - DCS English: Horewela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325205`
+  - DCS English: Pissubedda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325210`
+  - DCS English: Medagamgoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325215`
+  - DCS English: Yahalmulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325220`
+  - DCS English: Ihala Walasmulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325225`
+  - DCS English: Pahala walasmulla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325230`
+  - DCS English: Galahitiya South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325235`
+  - DCS English: Galahitiya East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325240`
+  - DCS English: Koholana
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325245`
+  - DCS English: Walasmulla East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325250`
+  - DCS English: Walasmulla North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325255`
+  - DCS English: Walasmulla West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325260`
+  - DCS English: Walasmulla South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3325265`
+  - DCS English: Daluwakgoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `3330345`
+  - DCS English: Nakulugamuwa West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104005`
+  - DCS English: Karainagar North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104010`
+  - DCS English: Karainagar North East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104015`
+  - DCS English: Karainagar East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104020`
+  - DCS English: Karainagar Centre
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104025`
+  - DCS English: Karainagar North West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104030`
+  - DCS English: Karainagar West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104035`
+  - DCS English: Karainagar South East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104040`
+  - DCS English: Karainagar South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `4104045`
+  - DCS English: Karainagar South West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104005`
+  - DCS English: Punanai East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104010`
+  - DCS English: Thiyavattavan
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104015`
+  - DCS English: Valaichchenai 5 Muslim
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104020`
+  - DCS English: Valaichchenai 4 Muslim
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104025`
+  - DCS English: Valaichchenai 5 Muslim South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104030`
+  - DCS English: Brynthuraichenai North
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104035`
+  - DCS English: Brynthuraichenai South
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104040`
+  - DCS English: Mavadichenai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5104045`
+  - DCS English: Chemmann Odai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110005`
+  - DCS English: Punanai West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110010`
+  - DCS English: Vahaneri
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110015`
+  - DCS English: Muruthanai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110020`
+  - DCS English: Uthuchenai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110025`
+  - DCS English: Kallichchai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110030`
+  - DCS English: Vadamunai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110035`
+  - DCS English: Kudumpimalai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110040`
+  - DCS English: Perillaveli
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110045`
+  - DCS English: Poolakadu
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110050`
+  - DCS English: Kiran East
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110055`
+  - DCS English: Kiran West
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110060`
+  - DCS English: Korakallimadu
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110065`
+  - DCS English: Santhiveli
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110070`
+  - DCS English: Palaiyadithona
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110075`
+  - DCS English: Thevapuram
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110080`
+  - DCS English: Murakkottanchenai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110085`
+  - DCS English: Thihilivaddai
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5110090`
+  - DCS English: Koraveli
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5112110`
+  - DCS English: Iyankerny Muslim
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5112120`
+  - DCS English: Mich Nagar
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5115040`
+  - DCS English: Eravur 02A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221005`
+  - DCS English: Periyaneelavanai 01B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221010`
+  - DCS English: Periyaneelavanai 01A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221015`
+  - DCS English: Periyaneelavanai 01
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221020`
+  - DCS English: Periyaneelavanai 02
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221025`
+  - DCS English: Chenaikudiyiruppu 01A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221030`
+  - DCS English: Pandiruppu 01
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221035`
+  - DCS English: Pandiruppu 01B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221040`
+  - DCS English: Pandiruppu 01C
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221045`
+  - DCS English: Pandiruppu 01A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221050`
+  - DCS English: Pandiruppu 02
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221055`
+  - DCS English: Pandiruppu 02B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221060`
+  - DCS English: Pandiruppu 02C
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221065`
+  - DCS English: Pandiruppu 02A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221070`
+  - DCS English: Kalmunai 01D
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221075`
+  - DCS English: Kalmunai 01B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221080`
+  - DCS English: Kalmunai 01A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221085`
+  - DCS English: Kalmunai 01
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221090`
+  - DCS English: Natpiddimunai (T.P ) 03
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221095`
+  - DCS English: Natpiddimunai (T.P ) 02
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221100`
+  - DCS English: Natpiddimunai (T.P ) 01
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221105`
+  - DCS English: Chenaikudiyiruppu 01B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221110`
+  - DCS English: Chenaikudiyiruppu 01
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221115`
+  - DCS English: Kalmunai 01C
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221120`
+  - DCS English: Kalmunai 01E
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221125`
+  - DCS English: Kalmunai 02B
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221130`
+  - DCS English: Kalmunai 02A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221135`
+  - DCS English: Kalmunai 02
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221140`
+  - DCS English: Kalmunai 03
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `5221145`
+  - DCS English: Kalmunai 03A
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6145226`
+  - DCS English: Moragolla
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6145227`
+  - DCS English: Rideekanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6145228`
+  - DCS English: Thengodagedara
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6148120`
+  - DCS English: Anukkanhena
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6148190`
+  - DCS English: Hindawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6148195`
+  - DCS English: Kanoyaya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6154175`
+  - DCS English: Theliyagonna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `6154180`
+  - DCS English: Udawalpola
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `7145095`
+  - DCS English: Thambuttegama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `8130195`
+  - DCS English: Welikadagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118060`
+  - DCS English: Rajawaka
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118065`
+  - DCS English: Bowatta
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118070`
+  - DCS English: Vikiliya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118075`
+  - DCS English: Thotupalathenna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118080`
+  - DCS English: Kirimetithenna
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118085`
+  - DCS English: Dehigasthalawa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118090`
+  - DCS English: Balangoda Town
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118095`
+  - DCS English: Balangoda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9118100`
+  - DCS English: Jahinkanda
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9206345`
+  - DCS English: Palliporuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9212090`
+  - DCS English: Pallewela
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9218175`
+  - DCS English: Ethnawala
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9218180`
+  - DCS English: Dummaladeniya
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9218210`
+  - DCS English: Niwatuwa
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9218305`
+  - DCS English: Algama Ihalagama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `9218320`
+  - DCS English: Kandegama
+  - MOHA English: (missing)
+  - Difference classification: MissingMohaEnglish
+- Code: `1106055`
+  - DCS English: Maha Buthgamuwa B
+  - MOHA English: Mahabuthgamuwa B
+  - Difference classification: Punctuation
+- Code: `1112235`
+  - DCS English: Mattegoda Central 'A'
+  - MOHA English: Mattegoda Central A
+  - Difference classification: Punctuation
+- Code: `1112310`
+  - DCS English: Mattegoda Central 'B'
+  - MOHA English: Mattegoda Central B
+  - Difference classification: Punctuation
+- Code: `1203075`
+  - DCS English: Wellaweediya
+  - MOHA English: Wella Weediya
+  - Difference classification: Punctuation
+- Code: `1203080`
+  - DCS English: Wellaweediya East
+  - MOHA English: Wella Weediya East
+  - Difference classification: Punctuation
+- Code: `1203105`
+  - DCS English: Wellaweediya South
+  - MOHA English: Wella Weediya South
+  - Difference classification: Punctuation
+- Code: `1221050`
+  - DCS English: Vishakawatta
+  - MOHA English: Vishaka Watta
+  - Difference classification: Punctuation
+- Code: `1224240`
+  - DCS English: Pahala Yagoda
+  - MOHA English: Pahalayagoda
+  - Difference classification: Punctuation
+- Code: `1227420`
+  - DCS English: Etha Udakanda
+  - MOHA English: Ethaudakanda
+  - Difference classification: Punctuation
+- Code: `1309255`
+  - DCS English: Gal Edandugoda
+  - MOHA English: Galedandugoda
+  - Difference classification: Punctuation
+- Code: `1330175`
+  - DCS English: Welipenna East South
+  - MOHA English: Welipenna East-South
+  - Difference classification: Punctuation
+- Code: `2103090`
+  - DCS English: Palukopi Watta
+  - MOHA English: Palukopiwatta
+  - Difference classification: Punctuation
+- Code: `2109155`
+  - DCS English: Palle Deegala
+  - MOHA English: Palledeegala
+  - Difference classification: Punctuation
+- Code: `2118020`
+  - DCS English: Pusseela
+  - MOHA English: Pusse Ela
+  - Difference classification: Punctuation
+- Code: `2121015`
+  - DCS English: Thotillagas Ella
+  - MOHA English: Thotillagasella
+  - Difference classification: Punctuation
+- Code: `2130080`
+  - DCS English: Poorna Watta West
+  - MOHA English: Poornawatta West
+  - Difference classification: Punctuation
+- Code: `2130200`
+  - DCS English: Uda Bowala
+  - MOHA English: Udabowala
+  - Difference classification: Punctuation
+- Code: `2136425`
+  - DCS English: Uda Eriyagama West
+  - MOHA English: Uda Eriyagama West]
+  - Difference classification: Punctuation
+- Code: `2151195`
+  - DCS English: Nawadevita
+  - MOHA English: Nawa Devita
+  - Difference classification: Punctuation
+- Code: `2203060`
+  - DCS English: Pahala Wewa
+  - MOHA English: Pahalawewa
+  - Difference classification: Punctuation
+- Code: `2206005`
+  - DCS English: Siyambala Wewa
+  - MOHA English: Siyambalawewa
+  - Difference classification: Punctuation
+- Code: `2206075`
+  - DCS English: Pol Attawa
+  - MOHA English: Polattawa
+  - Difference classification: Punctuation
+- Code: `2206145`
+  - DCS English: Wewala Wewa
+  - MOHA English: Wewalawewa
+  - Difference classification: Punctuation
+- Code: `2206165`
+  - DCS English: Pahala Wewa
+  - MOHA English: Pahalawewa
+  - Difference classification: Punctuation
+- Code: `2206180`
+  - DCS English: Haluapullana Wewa
+  - MOHA English: Haluapullanawewa
+  - Difference classification: Punctuation
+- Code: `2206195`
+  - DCS English: Rathmalgaha Ela
+  - MOHA English: Rathmalgaha-Ela
+  - Difference classification: Punctuation
+- Code: `2206215`
+  - DCS English: Kalogaha Ela
+  - MOHA English: Kalogaha-Ela
+  - Difference classification: Punctuation
+- Code: `2206250`
+  - DCS English: Puwak Attawala
+  - MOHA English: Puwakattawala
+  - Difference classification: Punctuation
+- Code: `2209035`
+  - DCS English: Helambagahawatta
+  - MOHA English: Helambagaha Watta
+  - Difference classification: Punctuation
+- Code: `2218105`
+  - DCS English: Owala Polwatta
+  - MOHA English: Owalapolwatta
+  - Difference classification: Punctuation
+- Code: `2224075`
+  - DCS English: Divulgas Pathana
+  - MOHA English: Divulgaspathana
+  - Difference classification: Punctuation
+- Code: `2303040`
+  - DCS English: Nawa Morape
+  - MOHA English: Nawamorape
+  - Difference classification: Punctuation
+- Code: `2303050`
+  - DCS English: Deltagemunupura
+  - MOHA English: Delta Gemunupura
+  - Difference classification: Punctuation
+- Code: `2303385`
+  - DCS English: Samaneliya
+  - MOHA English: Saman Eliya
+  - Difference classification: Punctuation
+- Code: `2306080`
+  - DCS English: Ganga Udagama
+  - MOHA English: Gangaudagama
+  - Difference classification: Punctuation
+- Code: `2309255`
+  - DCS English: Egodakanda
+  - MOHA English: Egoda Kanda
+  - Difference classification: Punctuation
+- Code: `2309360`
+  - DCS English: Alakolawewa
+  - MOHA English: Alakola Wewa
+  - Difference classification: Punctuation
+- Code: `2309380`
+  - DCS English: High Forest
+  - MOHA English: Highforest
+  - Difference classification: Punctuation
+- Code: `2309395`
+  - DCS English: Werellapathana
+  - MOHA English: Werella Pathana
+  - Difference classification: Punctuation
+- Code: `2312070`
+  - DCS English: Nuwara Eliya West
+  - MOHA English: Nuwaraeliya West
+  - Difference classification: Punctuation
+- Code: `2312165`
+  - DCS English: Nuwara Eliya
+  - MOHA English: Nuwaraeliya
+  - Difference classification: Punctuation
+- Code: `2312170`
+  - DCS English: Nuwara Eliya Central
+  - MOHA English: Nuwaraeliya Central
+  - Difference classification: Punctuation
+- Code: `3103160`
+  - DCS English: Kahawegammedda
+  - MOHA English: Kahawe Gammedda
+  - Difference classification: Punctuation
+- Code: `3106015`
+  - DCS English: Pelegas Palatha
+  - MOHA English: pelegaspalatha
+  - Difference classification: Punctuation
+- Code: `3124035`
+  - DCS English: Aluth Thanayamgoda Ihala South
+  - MOHA English: Aluth Thanayamgoda Ihala ( South )
+  - Difference classification: Punctuation
+- Code: `3130030`
+  - DCS English: Nambara Atta
+  - MOHA English: Nambaraatta
+  - Difference classification: Punctuation
+- Code: `3142150`
+  - DCS English: Abeysundarawatta
+  - MOHA English: Abeysundara Watta
+  - Difference classification: Punctuation
+- Code: `3306005`
+  - DCS English: Maha Aluth Gam Ara
+  - MOHA English: Mahaaluthgamara
+  - Difference classification: Punctuation
+- Code: `3312070`
+  - DCS English: Udaberagama
+  - MOHA English: Uda Beragama
+  - Difference classification: Punctuation
+- Code: `3312100`
+  - DCS English: Sisilasagama
+  - MOHA English: Sisilasa Gama
+  - Difference classification: Punctuation
+- Code: `3315200`
+  - DCS English: Bataatha North
+  - MOHA English: Bata Atha North
+  - Difference classification: Punctuation
+- Code: `3315205`
+  - DCS English: Bataatha South
+  - MOHA English: Bata Atha South
+  - Difference classification: Punctuation
+- Code: `3318230`
+  - DCS English: Gurunnehege Ara
+  - MOHA English: Gurunnehegeara
+  - Difference classification: Punctuation
+- Code: `3321015`
+  - DCS English: Heellage Ayna
+  - MOHA English: Heellageayna
+  - Difference classification: Punctuation
+- Code: `3321065`
+  - DCS English: Kuda Bibula North
+  - MOHA English: Kudabibula North
+  - Difference classification: Punctuation
+- Code: `3324040`
+  - DCS English: Ambagas Ara
+  - MOHA English: Ambagasara
+  - Difference classification: Punctuation
+- Code: `3324115`
+  - DCS English: Ritigaha Yaya
+  - MOHA English: Ritigahayaya
+  - Difference classification: Punctuation
+- Code: `3324265`
+  - DCS English: Puwakgas Ara
+  - MOHA English: Puwakgasara
+  - Difference classification: Punctuation
+- Code: `3327125`
+  - DCS English: Pallewawwa
+  - MOHA English: Palle Wawwa
+  - Difference classification: Punctuation
+- Code: `3333230`
+  - DCS English: Kotuwegoda
+  - MOHA English: Kotuwe Goda
+  - Difference classification: Punctuation
+- Code: `3333300`
+  - DCS English: Moraketi Ara East
+  - MOHA English: Moraketiara East
+  - Difference classification: Punctuation
+- Code: `3333305`
+  - DCS English: Moraketi Ara West
+  - MOHA English: Moraketiara West
+  - Difference classification: Punctuation
+- Code: `4124030`
+  - DCS English: Nagarkovil East
+  - MOHA English: Nagar Kovil East
+  - Difference classification: Punctuation
+- Code: `4124035`
+  - DCS English: Nagarkovil West
+  - MOHA English: Nagar Kovil West
+  - Difference classification: Punctuation
+- Code: `4124040`
+  - DCS English: Nagarkovil South
+  - MOHA English: Nagar Kovil South
+  - Difference classification: Punctuation
+- Code: `4130115`
+  - DCS English: Thenmadduvil
+  - MOHA English: Then Madduvil
+  - Difference classification: Punctuation
+- Code: `4130285`
+  - DCS English: Thavalai- Iyattalai
+  - MOHA English: Thavalai Iyattalai
+  - Difference classification: Punctuation
+- Code: `4133105`
+  - DCS English: Sangiliyan Thoppu
+  - MOHA English: Sangiliyanthoppu
+  - Difference classification: Punctuation
+- Code: `4133200`
+  - DCS English: Kokuvil Centre (West)
+  - MOHA English: Kokuvil Centre West
+  - Difference classification: Punctuation
+- Code: `4203030`
+  - DCS English: Kaddukarankudiyiruppu
+  - MOHA English: Kaddukaran Kudiyiruppu
+  - Difference classification: Punctuation
+- Code: `4203060`
+  - DCS English: Periyakarisal
+  - MOHA English: Periya Karisal
+  - Difference classification: Punctuation
+- Code: `4209045`
+  - DCS English: Periya-Pandivirichchan East
+  - MOHA English: Periya Pandivirichchan East
+  - Difference classification: Punctuation
+- Code: `4209050`
+  - DCS English: Periya-Pandivirichchan West
+  - MOHA English: Periya Pandivirichchan West
+  - Difference classification: Punctuation
+- Code: `4209085`
+  - DCS English: Matha Kiramam
+  - MOHA English: Mathakiramam
+  - Difference classification: Punctuation
+- Code: `5133155`
+  - DCS English: Mandur 1 &2 (North part)
+  - MOHA English: Mandur 1, 2 (North Part)
+  - Difference classification: Punctuation
+- Code: `5136100`
+  - DCS English: kaluwanchikudy South
+  - MOHA English: Kaluwanchikudy - South
+  - Difference classification: Punctuation
+- Code: `5136130`
+  - DCS English: Kurumanvely 12
+  - MOHA English: Kurumanvely - 12
+  - Difference classification: Punctuation
+- Code: `5136165`
+  - DCS English: Mahiloor Munai
+  - MOHA English: Mahiloormunai
+  - Difference classification: Punctuation
+- Code: `5215110`
+  - DCS English: Namaloya ( i )
+  - MOHA English: Namal Oya (i)
+  - Difference classification: Punctuation
+- Code: `5236040`
+  - DCS English: Akkaraipattu 16
+  - MOHA English: Akkaraipattu-16
+  - Difference classification: Punctuation
+- Code: `5236045`
+  - DCS English: Akkaraipattu 15
+  - MOHA English: Akkaraipattu-15
+  - Difference classification: Punctuation
+- Code: `5236050`
+  - DCS English: Akkaraipattu 14
+  - MOHA English: Akkaraipattu-14
+  - Difference classification: Punctuation
+- Code: `5236055`
+  - DCS English: Akkaraipattu 13
+  - MOHA English: Akkaraipattu-13
+  - Difference classification: Punctuation
+- Code: `5236060`
+  - DCS English: Akkaraipattu 12
+  - MOHA English: Akkaraipattu-12
+  - Difference classification: Punctuation
+- Code: `5236065`
+  - DCS English: Akkaraipattu 11
+  - MOHA English: Akkaraipattu-11
+  - Difference classification: Punctuation
+- Code: `5236080`
+  - DCS English: Akkaraipattu 10
+  - MOHA English: Akkaraipattu-10
+  - Difference classification: Punctuation
+- Code: `5236100`
+  - DCS English: Akkaraipattu 17
+  - MOHA English: Akkaraipattu-17
+  - Difference classification: Punctuation
+- Code: `5236105`
+  - DCS English: Akkaraipattu 18
+  - MOHA English: Akkaraipattu-18
+  - Difference classification: Punctuation
+- Code: `5236110`
+  - DCS English: Akkaraipattu 20
+  - MOHA English: Akkaraipattu-20
+  - Difference classification: Punctuation
+- Code: `5236115`
+  - DCS English: Akkaraipattu 21
+  - MOHA English: Akkaraipattu-21
+  - Difference classification: Punctuation
+- Code: `5236125`
+  - DCS English: Akkaraipattu 19
+  - MOHA English: Akkaraipattu-19
+  - Difference classification: Punctuation
+- Code: `5242140`
+  - DCS English: 18A Janapadaya
+  - MOHA English: 18A . Janapadaya
+  - Difference classification: Punctuation
+- Code: `5248045`
+  - DCS English: Pothuvil 02/Unit II
+  - MOHA English: Pothuvil 02 - Unit II
+  - Difference classification: Punctuation
+- Code: `5248055`
+  - DCS English: Pothuvil 01/Unit II
+  - MOHA English: Pothuvil 01 - Unit II
+  - Difference classification: Punctuation
+- Code: `5303010`
+  - DCS English: Gemunupura
+  - MOHA English: Gemunu Pura
+  - Difference classification: Punctuation
+- Code: `5303020`
+  - DCS English: Lassanagama
+  - MOHA English: Lassana Gama
+  - Difference classification: Punctuation
+- Code: `5303030`
+  - DCS English: Parana Medawachchiya
+  - MOHA English: Paranamedawachchiya
+  - Difference classification: Punctuation
+- Code: `5303050`
+  - DCS English: Jayanthiwewa
+  - MOHA English: Jayanthi Wewa
+  - Difference classification: Punctuation
+- Code: `5306065`
+  - DCS English: Jayanagar
+  - MOHA English: Jaya Nagar
+  - Difference classification: Punctuation
+- Code: `5306070`
+  - DCS English: Cassimnagar
+  - MOHA English: Cassim Nagar
+  - Difference classification: Punctuation
+- Code: `5306110`
+  - DCS English: Iqbalnagar
+  - MOHA English: Iqbal Nagar
+  - Difference classification: Punctuation
+- Code: `5309045`
+  - DCS English: Mailawewa
+  - MOHA English: Maila Wewa
+  - Difference classification: Punctuation
+- Code: `5318025`
+  - DCS English: Meeranagar
+  - MOHA English: Meera Nagar
+  - Difference classification: Punctuation
+- Code: `5321010`
+  - DCS English: Ganthalawa Unit 12
+  - MOHA English: Ganthalawa, Unit 12
+  - Difference classification: Punctuation
+- Code: `5321030`
+  - DCS English: Pansalgodella
+  - MOHA English: Pansal Godella
+  - Difference classification: Punctuation
+- Code: `5321045`
+  - DCS English: Rajaela Unit 04
+  - MOHA English: Raja Ela Unit 04
+  - Difference classification: Punctuation
+- Code: `5321050`
+  - DCS English: Rajaela Unit 05
+  - MOHA English: Raja Ela Unit 05
+  - Difference classification: Punctuation
+- Code: `5321065`
+  - DCS English: Bhathiyagama
+  - MOHA English: Bhathiya Gama
+  - Difference classification: Punctuation
+- Code: `5321070`
+  - DCS English: Rajaela Unit 03
+  - MOHA English: Raja Ela Unit 03
+  - Difference classification: Punctuation
+- Code: `5327080`
+  - DCS English: Jayanagar
+  - MOHA English: Jaya Nagar
+  - Difference classification: Punctuation
+- Code: `5327085`
+  - DCS English: Alimnagar
+  - MOHA English: Alim Nagar
+  - Difference classification: Punctuation
+- Code: `5327135`
+  - DCS English: Allainagar East
+  - MOHA English: Allai Nagar East
+  - Difference classification: Punctuation
+- Code: `5327140`
+  - DCS English: Allainagar West
+  - MOHA English: Allai Nagar West
+  - Difference classification: Punctuation
+- Code: `6103085`
+  - DCS English: Pathane Wewa
+  - MOHA English: Pathanewewa
+  - Difference classification: Punctuation
+- Code: `6109010`
+  - DCS English: Mahaweli Thenna
+  - MOHA English: Mahawelithenna
+  - Difference classification: Punctuation
+- Code: `6109030`
+  - DCS English: Maha Kathnoruwa
+  - MOHA English: Mahakathnoruwa
+  - Difference classification: Punctuation
+- Code: `6112040`
+  - DCS English: Maha Divulwewa
+  - MOHA English: Mahadivulwewa
+  - Difference classification: Punctuation
+- Code: `6115015`
+  - DCS English: Palu Uswewa
+  - MOHA English: Paluuswewa
+  - Difference classification: Punctuation
+- Code: `6115040`
+  - DCS English: Maha Mithawa
+  - MOHA English: Mahamithawa
+  - Difference classification: Punctuation
+- Code: `6115085`
+  - DCS English: Kuda Mithawa
+  - MOHA English: Kudamithawa
+  - Difference classification: Punctuation
+- Code: `6115110`
+  - DCS English: Maha Kirinda A
+  - MOHA English: Mahakirinda A
+  - Difference classification: Punctuation
+- Code: `6115115`
+  - DCS English: Maha Kirinda B
+  - MOHA English: Mahakirinda B
+  - Difference classification: Punctuation
+- Code: `6118055`
+  - DCS English: Agara Uda
+  - MOHA English: Agarauda
+  - Difference classification: Punctuation
+- Code: `6127150`
+  - DCS English: Mal Asna
+  - MOHA English: Malasna
+  - Difference classification: Punctuation
+- Code: `6127225`
+  - DCS English: Kosgaha Ela
+  - MOHA English: Kosgahaela
+  - Difference classification: Punctuation
+- Code: `6127235`
+  - DCS English: Rawa Ela
+  - MOHA English: Rawaela
+  - Difference classification: Punctuation
+- Code: `6127315`
+  - DCS English: Paragaha Ela
+  - MOHA English: Paragahaela
+  - Difference classification: Punctuation
+- Code: `6130125`
+  - DCS English: Megodadiyathure
+  - MOHA English: Megoda Diyathure
+  - Difference classification: Punctuation
+- Code: `6136035`
+  - DCS English: Wanduressa Welgala
+  - MOHA English: Wanduressawelgala
+  - Difference classification: Punctuation
+- Code: `6149105`
+  - DCS English: Kedapath Vehera
+  - MOHA English: Kedapathvehera
+  - Difference classification: Punctuation
+- Code: `6149155`
+  - DCS English: Pallawa Dampitiya
+  - MOHA English: Pallawadampitiya
+  - Difference classification: Punctuation
+- Code: `6151065`
+  - DCS English: Gane Kolaniya
+  - MOHA English: Ganekolaniya
+  - Difference classification: Punctuation
+- Code: `6154100`
+  - DCS English: Kurunegala Town - North East
+  - MOHA English: Kurunegala Town North-East
+  - Difference classification: Punctuation
+- Code: `6154105`
+  - DCS English: Kurunegala Town - North
+  - MOHA English: Kurunegala Town North
+  - Difference classification: Punctuation
+- Code: `6154145`
+  - DCS English: Kurunegala Town - West
+  - MOHA English: Kurunegala Town West
+  - Difference classification: Punctuation
+- Code: `6154155`
+  - DCS English: Kurunegala Town - Central
+  - MOHA English: Kurunegala Town Central
+  - Difference classification: Punctuation
+- Code: `6154160`
+  - DCS English: Kurunegala Town - Bazaar
+  - MOHA English: Kurunegala Town Bazaar
+  - Difference classification: Punctuation
+- Code: `6154170`
+  - DCS English: Kurunegala Town - East
+  - MOHA English: Kurunegala Town East
+  - Difference classification: Punctuation
+- Code: `6154185`
+  - DCS English: Kurunegala Town - South
+  - MOHA English: Kurunegala Town South
+  - Difference classification: Punctuation
+- Code: `6157130`
+  - DCS English: Manel Oluwa
+  - MOHA English: Maneloluwa
+  - Difference classification: Punctuation
+- Code: `6163200`
+  - DCS English: Udahorombuwa
+  - MOHA English: Uda Horombuwa
+  - Difference classification: Punctuation
+- Code: `6163310`
+  - DCS English: Goraka Ela
+  - MOHA English: Gorakaela
+  - Difference classification: Punctuation
+- Code: `6178050`
+  - DCS English: Batapotha Ela
+  - MOHA English: Batapothaela
+  - Difference classification: Punctuation
+- Code: `6218075`
+  - DCS English: Palliwasalpaduwa
+  - MOHA English: Palli Wasalpaduwa
+  - Difference classification: Punctuation
+- Code: `7106075`
+  - DCS English: Sinhalaetaweerawewa
+  - MOHA English: Sinhala Etaweerawewa
+  - Difference classification: Punctuation
+- Code: `7106080`
+  - DCS English: Ethalvidda Wewa
+  - MOHA English: Ethalviddawewa
+  - Difference classification: Punctuation
+- Code: `7109045`
+  - DCS English: Maha Kumbukgollewa
+  - MOHA English: Mahakumbukgollewa
+  - Difference classification: Punctuation
+- Code: `7109110`
+  - DCS English: Railway Town
+  - MOHA English: Rail Way Town
+  - Difference classification: Punctuation
+- Code: `7109155`
+  - DCS English: Medawachchiya West
+  - MOHA English: Medawachchiya - West
+  - Difference classification: Punctuation
+- Code: `7109160`
+  - DCS English: Medawachchiya East
+  - MOHA English: Medawachchiya - East
+  - Difference classification: Punctuation
+- Code: `7112050`
+  - DCS English: Kuda Vilachchiya
+  - MOHA English: Kudavilachchiya
+  - Difference classification: Punctuation
+- Code: `7112055`
+  - DCS English: Maha Vilachchiya
+  - MOHA English: Mahavilachchiya
+  - Difference classification: Punctuation
+- Code: `7118085`
+  - DCS English: Ihala Kolongaswewa
+  - MOHA English: Ihalakolongaswewa
+  - Difference classification: Punctuation
+- Code: `7121120`
+  - DCS English: Bethkewa - Thulana
+  - MOHA English: Bethkewa Thulana
+  - Difference classification: Punctuation
+- Code: `7121200`
+  - DCS English: Kanadara - Rathmale
+  - MOHA English: KanadaraRathmale
+  - Difference classification: Punctuation
+- Code: `7124120`
+  - DCS English: Rasnaka Wewa
+  - MOHA English: Rasnakawewa
+  - Difference classification: Punctuation
+- Code: `7133005`
+  - DCS English: Nuwara Wewa
+  - MOHA English: Nuwarawewa
+  - Difference classification: Punctuation
+- Code: `7142010`
+  - DCS English: Track 16, 17
+  - MOHA English: Track 16 - 17
+  - Difference classification: Punctuation
+- Code: `7151065`
+  - DCS English: Ethungama South
+  - MOHA English: Ethungama - South
+  - Difference classification: Punctuation
+- Code: `7151075`
+  - DCS English: Ethungama North
+  - MOHA English: Ethungama - North
+  - Difference classification: Punctuation
+- Code: `7151080`
+  - DCS English: Aluth Punchikulama
+  - MOHA English: Aluthpunchikulama
+  - Difference classification: Punctuation
+- Code: `7151095`
+  - DCS English: Thirappanegama
+  - MOHA English: Thirappane Gama
+  - Difference classification: Punctuation
+- Code: `7154030`
+  - DCS English: Kelepuliyankulama
+  - MOHA English: Kele-Puliyankulama
+  - Difference classification: Punctuation
+- Code: `7154050`
+  - DCS English: Maminiya Rambewa
+  - MOHA English: Maminiya - Rambewa
+  - Difference classification: Punctuation
+- Code: `7154255`
+  - DCS English: Kandalama West
+  - MOHA English: Kandalama - West
+  - Difference classification: Punctuation
+- Code: `7154265`
+  - DCS English: Kandalama East
+  - MOHA English: Kandalama - East
+  - Difference classification: Punctuation
+- Code: `7157050`
+  - DCS English: Kuda Rambawewa
+  - MOHA English: Kudarambawewa
+  - Difference classification: Punctuation
+- Code: `7160070`
+  - DCS English: Hiripitiya Gama
+  - MOHA English: Hiripitiyagama
+  - Difference classification: Punctuation
+- Code: `7160100`
+  - DCS English: Kallanchiya Gama
+  - MOHA English: Kallanchiyagama
+  - Difference classification: Punctuation
+- Code: `7163030`
+  - DCS English: Helabodu Gama
+  - MOHA English: Helabodugama
+  - Difference classification: Punctuation
+- Code: `7163045`
+  - DCS English: Thorane Gama
+  - MOHA English: Thoranegama
+  - Difference classification: Punctuation
+- Code: `7163080`
+  - DCS English: Galnewa Gama
+  - MOHA English: Galnewagama
+  - Difference classification: Punctuation
+- Code: `7163140`
+  - DCS English: Kandule Gama
+  - MOHA English: Kandulegama
+  - Difference classification: Punctuation
+- Code: `7166030`
+  - DCS English: Gam Sabha Halmilla Wewa
+  - MOHA English: Gamsabhahalmillawewa
+  - Difference classification: Punctuation
+- Code: `7203195`
+  - DCS English: Henkolawela
+  - MOHA English: Henkola Wela
+  - Difference classification: Punctuation
+- Code: `7206055`
+  - DCS English: Bisobandara
+  - MOHA English: Biso Bandara
+  - Difference classification: Punctuation
+- Code: `7209055`
+  - DCS English: Galamuna
+  - MOHA English: Gal Amuna
+  - Difference classification: Punctuation
+- Code: `7209090`
+  - DCS English: Sanghabodhigama
+  - MOHA English: Sanghabodhi Gama
+  - Difference classification: Punctuation
+- Code: `7209125`
+  - DCS English: Alhilalpura
+  - MOHA English: Al Hilalpura
+  - Difference classification: Punctuation
+- Code: `7215005`
+  - DCS English: Shanthi Pura
+  - MOHA English: Shanthi Pura #
+  - Difference classification: Punctuation
+- Code: `7215010`
+  - DCS English: Sinha Pura
+  - MOHA English: Sinha Pura #
+  - Difference classification: Punctuation
+- Code: `8109025`
+  - DCS English: Polgaha Arawa
+  - MOHA English: Polgahaarawa
+  - Difference classification: Punctuation
+- Code: `8124100`
+  - DCS English: Hali Ela
+  - MOHA English: Haliela
+  - Difference classification: Punctuation
+- Code: `8127070`
+  - DCS English: Malwattegama
+  - MOHA English: Malwatte Gama
+  - Difference classification: Punctuation
+- Code: `8127145`
+  - DCS English: Ranhawadigama
+  - MOHA English: Ranhawadi Gama
+  - Difference classification: Punctuation
+- Code: `8127270`
+  - DCS English: Medagodagama
+  - MOHA English: Medagoda Gama
+  - Difference classification: Punctuation
+- Code: `8130190`
+  - DCS English: Pahalayalkumbura
+  - MOHA English: Pahala Yalkumbura
+  - Difference classification: Punctuation
+- Code: `8136105`
+  - DCS English: Udukumbalwela
+  - MOHA English: Udu Kumbalwela
+  - Difference classification: Punctuation
+- Code: `8139080`
+  - DCS English: Helakadurugamuwa
+  - MOHA English: Hela Kadurugamuwa
+  - Difference classification: Punctuation
+- Code: `8142160`
+  - DCS English: We Eliya
+  - MOHA English: Weeliya
+  - Difference classification: Punctuation
+- Code: `8142175`
+  - DCS English: Akkara Seeya
+  - MOHA English: Akkaraseeya
+  - Difference classification: Punctuation
+- Code: `8142190`
+  - DCS English: Bambara Pokuna
+  - MOHA English: Bambarapokuna
+  - Difference classification: Punctuation
+- Code: `8212145`
+  - DCS English: Nugagahakivula
+  - MOHA English: Nugagaha Kivula
+  - Difference classification: Punctuation
+- Code: `8233030`
+  - DCS English: Kiri Ibbanwewa
+  - MOHA English: Kiriibbanwewa
+  - Difference classification: Punctuation
+- Code: `9124145`
+  - DCS English: Pelmadullagama
+  - MOHA English: Pelmadulla Gama
+  - Difference classification: Punctuation
+- Code: `9130015`
+  - DCS English: Dethabadakanda
+  - MOHA English: Dethabada Kanda
+  - Difference classification: Punctuation
+- Code: `9212120`
+  - DCS English: Dikella
+  - MOHA English: Dik- ella
+  - Difference classification: Punctuation
+- Code: `9221180`
+  - DCS English: Udakanugala
+  - MOHA English: Uda Kanugala
+  - Difference classification: Punctuation
+- Code: `9230110`
+  - DCS English: Hinguralakanda East
+  - MOHA English: Hinguralakanda( East)
+  - Difference classification: Punctuation
+- Code: `9230160`
+  - DCS English: Hinguralakanda West
+  - MOHA English: Hinguralakanda (West)
+  - Difference classification: Punctuation
+- Code: `1103095`
+  - DCS English: Khettarama
+  - MOHA English: Kettarama
+  - Difference classification: Spelling
+- Code: `1106040`
+  - DCS English: Welewatta
+  - MOHA English: Welewaththa
+  - Difference classification: Spelling
+- Code: `1106045`
+  - DCS English: Kittampahuwa
+  - MOHA English: Kiththampahuwa
+  - Difference classification: Spelling
+- Code: `1106105`
+  - DCS English: Kuruniyawatta
+  - MOHA English: Kuriniyawatta
+  - Difference classification: Spelling
+- Code: `1106130`
+  - DCS English: Bopetta
+  - MOHA English: Bopeththa
+  - Difference classification: Spelling
+- Code: `1109080`
+  - DCS English: Koratota
+  - MOHA English: Korathota
+  - Difference classification: Spelling
+- Code: `1112175`
+  - DCS English: Kandanawatta
+  - MOHA English: Kandhanawatta
+  - Difference classification: Spelling
+- Code: `1112185`
+  - DCS English: Mawathgama
+  - MOHA English: Mawathagama
+  - Difference classification: Spelling
+- Code: `1112200`
+  - DCS English: Niyandagala
+  - MOHA English: Niyadagala
+  - Difference classification: Spelling
+- Code: `1112325`
+  - DCS English: Sangharama
+  - MOHA English: Sangarama
+  - Difference classification: Spelling
+- Code: `1115105`
+  - DCS English: Pahala Kosgama west
+  - MOHA English: Pahala Kosagama West
+  - Difference classification: Spelling
+- Code: `1115175`
+  - DCS English: Kadugoda North
+  - MOHA English: Kadugoada North
+  - Difference classification: Spelling
+- Code: `1115195`
+  - DCS English: Walawwatta
+  - MOHA English: Walauwathta
+  - Difference classification: Spelling
+- Code: `1115245`
+  - DCS English: Mambula
+  - MOHA English: Mabula
+  - Difference classification: Spelling
+- Code: `1115315`
+  - DCS English: Pagngnagula
+  - MOHA English: Pagnagula
+  - Difference classification: Spelling
+- Code: `1118230`
+  - DCS English: Dambora
+  - MOHA English: Dabora
+  - Difference classification: Spelling
+- Code: `1130025`
+  - DCS English: Kalubovila
+  - MOHA English: Kalubowila
+  - Difference classification: Spelling
+- Code: `1131055`
+  - DCS English: Ratmalana West
+  - MOHA English: Rathmalana West
+  - Difference classification: Spelling
+- Code: `1131060`
+  - DCS English: Ratmalana East
+  - MOHA English: Rathmalana East
+  - Difference classification: Spelling
+- Code: `1133175`
+  - DCS English: Koralawella Eest
+  - MOHA English: Koralawella East
+  - Difference classification: Spelling
+- Code: `1203050`
+  - DCS English: Dalupatha East
+  - MOHA English: Dalupotha East
+  - Difference classification: Spelling
+- Code: `1203055`
+  - DCS English: Dalupatha
+  - MOHA English: Dalupotha
+  - Difference classification: Spelling
+- Code: `1203110`
+  - DCS English: Munnakkaraya North
+  - MOHA English: Munnakkarai North
+  - Difference classification: Spelling
+- Code: `1203135`
+  - DCS English: Munnakkaraya East
+  - MOHA English: Munnakkarai East
+  - Difference classification: Spelling
+- Code: `1203140`
+  - DCS English: Thaladoowa
+  - MOHA English: Thaladuwa
+  - Difference classification: Spelling
+- Code: `1203175`
+  - DCS English: Pitipana South West
+  - MOHA English: Pitipana South
+  - Difference classification: Spelling
+- Code: `1203190`
+  - DCS English: Settappaduwa
+  - MOHA English: Seththappaduwa
+  - Difference classification: Spelling
+- Code: `1206105`
+  - DCS English: K.C. De Silva Puraya
+  - MOHA English: K.C. De Silvapura
+  - Difference classification: Spelling
+- Code: `1206215`
+  - DCS English: Kurana Katunayaka North
+  - MOHA English: Kurana Katunayaka
+  - Difference classification: Spelling
+- Code: `1206270`
+  - DCS English: Thempala
+  - MOHA English: Thampala
+  - Difference classification: Spelling
+- Code: `1209050`
+  - DCS English: Siringapathawatta
+  - MOHA English: Sirigapathawatta
+  - Difference classification: Spelling
+- Code: `1209135`
+  - DCS English: Kongodamulla North
+  - MOHA English: Koonagodamulla North
+  - Difference classification: Spelling
+- Code: `1209260`
+  - DCS English: Haloluwa
+  - MOHA English: Halloluwa
+  - Difference classification: Spelling
+- Code: `1209575`
+  - DCS English: Ullalapola East
+  - MOHA English: Ullapola East
+  - Difference classification: Spelling
+- Code: `1209580`
+  - DCS English: Ullalapola West
+  - MOHA English: Ullapola West
+  - Difference classification: Spelling
+- Code: `1209595`
+  - DCS English: Assennawatta East
+  - MOHA English: Aswennawatta East
+  - Difference classification: Spelling
+- Code: `1209605`
+  - DCS English: Assennawatta West
+  - MOHA English: Aswennawatta West
+  - Difference classification: Spelling
+- Code: `1212045`
+  - DCS English: Kandangamuwa
+  - MOHA English: Kadangamuwa
+  - Difference classification: Spelling
+- Code: `1212060`
+  - DCS English: Kahandawa
+  - MOHA English: Kahadawa
+  - Difference classification: Spelling
+- Code: `1212070`
+  - DCS English: Walbothale
+  - MOHA English: Walbotale
+  - Difference classification: Spelling
+- Code: `1212075`
+  - DCS English: Pirisyala
+  - MOHA English: Perisyala
+  - Difference classification: Spelling
+- Code: `1212095`
+  - DCS English: Maveehena
+  - MOHA English: Maweehena
+  - Difference classification: Spelling
+- Code: `1212105`
+  - DCS English: Purana Mirigama
+  - MOHA English: Purana Meerigama
+  - Difference classification: Spelling
+- Code: `1212165`
+  - DCS English: Makoora
+  - MOHA English: Makura
+  - Difference classification: Spelling
+- Code: `1212175`
+  - DCS English: Bothale Ihalagama
+  - MOHA English: Bothale Iahalagama
+  - Difference classification: Spelling
+- Code: `1212180`
+  - DCS English: Andagalakanda
+  - MOHA English: Adagalakanda
+  - Difference classification: Spelling
+- Code: `1212190`
+  - DCS English: Kindiwala
+  - MOHA English: Kidiwala
+  - Difference classification: Spelling
+- Code: `1212200`
+  - DCS English: Mirigama
+  - MOHA English: Meerigama
+  - Difference classification: Spelling
+- Code: `1212355`
+  - DCS English: Newgala
+  - MOHA English: Nawgala
+  - Difference classification: Spelling
+- Code: `1212390`
+  - DCS English: Raddalgoda
+  - MOHA English: Raddelgoda
+  - Difference classification: Spelling
+- Code: `1212460`
+  - DCS English: Wellevilamulla North
+  - MOHA English: Welavilamulla North
+  - Difference classification: Spelling
+- Code: `1212465`
+  - DCS English: Wellevilamulla
+  - MOHA English: Welavilamulla
+  - Difference classification: Spelling
+- Code: `1212545`
+  - DCS English: Webadamulla
+  - MOHA English: Wabadamulla
+  - Difference classification: Spelling
+- Code: `1212570`
+  - DCS English: Uthuwanbogahawatta
+  - MOHA English: Uthuwambogahawatta
+  - Difference classification: Spelling
+- Code: `1212710`
+  - DCS English: Hakwadunna
+  - MOHA English: Hakwaduna
+  - Difference classification: Spelling
+- Code: `1215350`
+  - DCS English: Ihala Udugampala
+  - MOHA English: Ihala Udugampola
+  - Difference classification: Spelling
+- Code: `1215430`
+  - DCS English: Pattanduwana
+  - MOHA English: Paththaduwana
+  - Difference classification: Spelling
+- Code: `1215435`
+  - DCS English: Pattanduwana West
+  - MOHA English: Paththaduwana West
+  - Difference classification: Spelling
+- Code: `1215480`
+  - DCS English: Dombawala
+  - MOHA English: Dombawela
+  - Difference classification: Spelling
+- Code: `1215585`
+  - DCS English: Maduruvita
+  - MOHA English: Maduruwita
+  - Difference classification: Spelling
+- Code: `1218050`
+  - DCS English: Kunjawatta
+  - MOHA English: Kunjawaththa
+  - Difference classification: Spelling
+- Code: `1218055`
+  - DCS English: Mangulpokuna
+  - MOHA English: Magulpokuna
+  - Difference classification: Spelling
+- Code: `1218060`
+  - DCS English: Elehiwatta
+  - MOHA English: Elehiwaththa
+  - Difference classification: Spelling
+- Code: `1218125`
+  - DCS English: Mattumagala
+  - MOHA English: Maththumagala
+  - Difference classification: Spelling
+- Code: `1218130`
+  - DCS English: Kerangapokuna
+  - MOHA English: Kernga Pokuna
+  - Difference classification: Spelling
+- Code: `1218195`
+  - DCS English: Nayakakanda South
+  - MOHA English: Nayak Kanda South
+  - Difference classification: Spelling
+- Code: `1218220`
+  - DCS English: Telangapatha
+  - MOHA English: Thelagapatha
+  - Difference classification: Spelling
+- Code: `1218230`
+  - DCS English: Hekitta
+  - MOHA English: Hekiththa
+  - Difference classification: Spelling
+- Code: `1221090`
+  - DCS English: Nivandama North
+  - MOHA English: Niwandama North
+  - Difference classification: Spelling
+- Code: `1221095`
+  - DCS English: Nivandama South
+  - MOHA English: Niwandama South
+  - Difference classification: Spelling
+- Code: `1221120`
+  - DCS English: Indivitiya
+  - MOHA English: Indipitiya
+  - Difference classification: Spelling
+- Code: `1224020`
+  - DCS English: Gonagaha II
+  - MOHA English: Gonagaha2
+  - Difference classification: Spelling
+- Code: `1224030`
+  - DCS English: Gonagaha i
+  - MOHA English: Gonagaha1
+  - Difference classification: Spelling
+- Code: `1224055`
+  - DCS English: Medagama ii
+  - MOHA English: Medagama 2
+  - Difference classification: Spelling
+- Code: `1224075`
+  - DCS English: Karanekamulla
+  - MOHA English: Karanayakamulla
+  - Difference classification: Spelling
+- Code: `1224140`
+  - DCS English: Medagama iv
+  - MOHA English: Medagama 4
+  - Difference classification: Spelling
+- Code: `1224145`
+  - DCS English: Medagama iii
+  - MOHA English: Medagama 3
+  - Difference classification: Spelling
+- Code: `1224150`
+  - DCS English: Medagama i
+  - MOHA English: Medagama 1
+  - Difference classification: Spelling
+- Code: `1224295`
+  - DCS English: Pepolgasdeniya
+  - MOHA English: Pepolgahadeniya
+  - Difference classification: Spelling
+- Code: `1227200`
+  - DCS English: Nambadaluwa East
+  - MOHA English: Nambabaluwa East
+  - Difference classification: Spelling
+- Code: `1227490`
+  - DCS English: Kittammahara
+  - MOHA English: Kitttammahara
+  - Difference classification: Spelling
+- Code: `1227605`
+  - DCS English: Meevitigammana
+  - MOHA English: Meevitagammana
+  - Difference classification: Spelling
+- Code: `1227650`
+  - DCS English: Kahambilihena
+  - MOHA English: Kahambiliyahena
+  - Difference classification: Spelling
+- Code: `1227655`
+  - DCS English: Udatuttiripitiya
+  - MOHA English: Udathuththiripitiya
+  - Difference classification: Spelling
+- Code: `1227715`
+  - DCS English: Madakotuwa West
+  - MOHA English: Madaotuwa West
+  - Difference classification: Spelling
+- Code: `1230165`
+  - DCS English: Kirimetiyawatta
+  - MOHA English: Kirimatiyawatta
+  - Difference classification: Spelling
+- Code: `1230290`
+  - DCS English: Ganihigama North
+  - MOHA English: Ganihagama North
+  - Difference classification: Spelling
+- Code: `1230310`
+  - DCS English: Ganihigama South
+  - MOHA English: Ganihagama South
+  - Difference classification: Spelling
+- Code: `1230425`
+  - DCS English: Udakanampella South
+  - MOHA English: Udakananpella South
+  - Difference classification: Spelling
+- Code: `1233030`
+  - DCS English: Pilikuttuwa
+  - MOHA English: Pilikuththuwa
+  - Difference classification: Spelling
+- Code: `1233040`
+  - DCS English: Ambagaspitiya
+  - MOHA English: Ambgaspitiya
+  - Difference classification: Spelling
+- Code: `1233275`
+  - DCS English: Mahara Nugegoda West
+  - MOHA English: Mahara Nugedoga West
+  - Difference classification: Spelling
+- Code: `1233295`
+  - DCS English: Rammuthugala
+  - MOHA English: Ranmuthugala
+  - Difference classification: Spelling
+- Code: `1236180`
+  - DCS English: Mewella
+  - MOHA English: Mawella
+  - Difference classification: Spelling
+- Code: `1239195`
+  - DCS English: Galedanda
+  - MOHA English: Galeadanda
+  - Difference classification: Spelling
+- Code: `1239210`
+  - DCS English: Bollegala
+  - MOHA English: Bollagala
+  - Difference classification: Spelling
+- Code: `1303180`
+  - DCS English: Etambagoda
+  - MOHA English: Atambagoda
+  - Difference classification: Spelling
+- Code: `1303220`
+  - DCS English: Eluvila
+  - MOHA English: Eluwila
+  - Difference classification: Spelling
+- Code: `1303265`
+  - DCS English: Moravinna
+  - MOHA English: Morawinna
+  - Difference classification: Spelling
+- Code: `1303270`
+  - DCS English: Nallooruwa North
+  - MOHA English: Nalluruwa North
+  - Difference classification: Spelling
+- Code: `1303275`
+  - DCS English: Nallooruwa
+  - MOHA English: Nalluruwa
+  - Difference classification: Spelling
+- Code: `1306030`
+  - DCS English: Alothiyawa
+  - MOHA English: Elothiyawa
+  - Difference classification: Spelling
+- Code: `1306215`
+  - DCS English: Imbulliha
+  - MOHA English: Ibulliha
+  - Difference classification: Spelling
+- Code: `1306285`
+  - DCS English: Korawala
+  - MOHA English: Korawela
+  - Difference classification: Spelling
+- Code: `1309065`
+  - DCS English: Welmilla
+  - MOHA English: Wellmilla
+  - Difference classification: Spelling
+- Code: `1309170`
+  - DCS English: Pokunuvita
+  - MOHA English: Pokunuwita
+  - Difference classification: Spelling
+- Code: `1309235`
+  - DCS English: Werallahena
+  - MOHA English: Werellahena
+  - Difference classification: Spelling
+- Code: `1310060`
+  - DCS English: Batugampala
+  - MOHA English: Batugampola
+  - Difference classification: Spelling
+- Code: `1310065`
+  - DCS English: Rayigamwatta
+  - MOHA English: Raigamwatta
+  - Difference classification: Spelling
+- Code: `1312030`
+  - DCS English: Bothale Gamgoda
+  - MOHA English: Bothale Gangoda
+  - Difference classification: Spelling
+- Code: `1312095`
+  - DCS English: Retiyala
+  - MOHA English: Ratiyala
+  - Difference classification: Spelling
+- Code: `1312170`
+  - DCS English: Diyakaduwa East
+  - MOHA English: Deeyakaduwa East
+  - Difference classification: Spelling
+- Code: `1312175`
+  - DCS English: Diyakaduwa West
+  - MOHA English: Deeyakaduwa West
+  - Difference classification: Spelling
+- Code: `1315085`
+  - DCS English: Koodella
+  - MOHA English: Kudella
+  - Difference classification: Spelling
+- Code: `1318035`
+  - DCS English: Halthota
+  - MOHA English: Haltota
+  - Difference classification: Spelling
+- Code: `1321155`
+  - DCS English: Paraduwa
+  - MOHA English: Paradoowa
+  - Difference classification: Spelling
+- Code: `1321240`
+  - DCS English: Kalutara North
+  - MOHA English: Kaluthara North
+  - Difference classification: Spelling
+- Code: `1324005`
+  - DCS English: Kuda Payagala North
+  - MOHA English: Kuda Paiyagala North
+  - Difference classification: Spelling
+- Code: `1324030`
+  - DCS English: Kuda Payagala South
+  - MOHA English: Kuda Piyagala South
+  - Difference classification: Spelling
+- Code: `1324045`
+  - DCS English: Viharakanda
+  - MOHA English: Viharakanada
+  - Difference classification: Spelling
+- Code: `1324080`
+  - DCS English: Maha Payagala
+  - MOHA English: Maha Paiyagala
+  - Difference classification: Spelling
+- Code: `1324130`
+  - DCS English: Maggona East
+  - MOHA English: Maggon East
+  - Difference classification: Spelling
+- Code: `1324170`
+  - DCS English: Bubulalanda
+  - MOHA English: Bubulanda
+  - Difference classification: Spelling
+- Code: `1324200`
+  - DCS English: Cheenakotuwa
+  - MOHA English: Cheenakatuwa
+  - Difference classification: Spelling
+- Code: `1324215`
+  - DCS English: Marakkalahawatta
+  - MOHA English: Marakkalawatta
+  - Difference classification: Spelling
+- Code: `1324380`
+  - DCS English: Dharga Town
+  - MOHA English: Dharaga Town
+  - Difference classification: Spelling
+- Code: `1327035`
+  - DCS English: Pahala Nebada
+  - MOHA English: Pahala Neboda
+  - Difference classification: Spelling
+- Code: `1327040`
+  - DCS English: Nebada
+  - MOHA English: Neboda
+  - Difference classification: Spelling
+- Code: `1327220`
+  - DCS English: Eladoowa
+  - MOHA English: Eladuuwa
+  - Difference classification: Spelling
+- Code: `1330015`
+  - DCS English: Hiriketiya
+  - MOHA English: Hirikatiya
+  - Difference classification: Spelling
+- Code: `1330080`
+  - DCS English: Diyagala
+  - MOHA English: Deeyagala
+  - Difference classification: Spelling
+- Code: `1330225`
+  - DCS English: Keppetiyagahalanda
+  - MOHA English: Keppetigahalanda
+  - Difference classification: Spelling
+- Code: `1333070`
+  - DCS English: Kekulandala North
+  - MOHA English: Kekulalandala North
+  - Difference classification: Spelling
+- Code: `1336200`
+  - DCS English: Kalukandawa
+  - MOHA English: Kalukandawala
+  - Difference classification: Spelling
+- Code: `1339045`
+  - DCS English: Mallawachchigoda Gangabada
+  - MOHA English: Malwachchigoda Gangabada
+  - Difference classification: Spelling
+- Code: `1339105`
+  - DCS English: Ittapana North
+  - MOHA English: Iththapana North
+  - Difference classification: Spelling
+- Code: `1339115`
+  - DCS English: Ittapana West
+  - MOHA English: Iththapana West
+  - Difference classification: Spelling
+- Code: `1339120`
+  - DCS English: Ittapana South
+  - MOHA English: Iththapana South
+  - Difference classification: Spelling
+- Code: `1339125`
+  - DCS English: Ittapana East
+  - MOHA English: Iththapana East
+  - Difference classification: Spelling
+- Code: `1339130`
+  - DCS English: Loolbadduwa
+  - MOHA English: Lulbadduwa
+  - Difference classification: Spelling
+- Code: `1339140`
+  - DCS English: Gulavita North
+  - MOHA English: Gulawita North
+  - Difference classification: Spelling
+- Code: `1339230`
+  - DCS English: Gorakadoowa
+  - MOHA English: Gorakaduwa
+  - Difference classification: Spelling
+- Code: `2103030`
+  - DCS English: Rokhill
+  - MOHA English: Rockhill
+  - Difference classification: Spelling
+- Code: `2103065`
+  - DCS English: Namaltenna
+  - MOHA English: Namalthenna
+  - Difference classification: Spelling
+- Code: `2103185`
+  - DCS English: Pottila
+  - MOHA English: Poththila
+  - Difference classification: Spelling
+- Code: `2103205`
+  - DCS English: Hithgodawalpola
+  - MOHA English: Hikgodawalpola
+  - Difference classification: Spelling
+- Code: `2103215`
+  - DCS English: Wettewa
+  - MOHA English: Weththewa
+  - Difference classification: Spelling
+- Code: `2106125`
+  - DCS English: Udahingulwala
+  - MOHA English: Udahigulwala
+  - Difference classification: Spelling
+- Code: `2106135`
+  - DCS English: Rambukewela
+  - MOHA English: Rambukewala
+  - Difference classification: Spelling
+- Code: `2106225`
+  - DCS English: Paleepana
+  - MOHA English: Palipana
+  - Difference classification: Spelling
+- Code: `2106235`
+  - DCS English: Uggahakumbura
+  - MOHA English: Ukgahakumbura
+  - Difference classification: Spelling
+- Code: `2109070`
+  - DCS English: Rathukoho
+  - MOHA English: Rathkoho
+  - Difference classification: Spelling
+- Code: `2109085`
+  - DCS English: Neerella
+  - MOHA English: Neeralla
+  - Difference classification: Spelling
+- Code: `2109095`
+  - DCS English: Bulugohothenna
+  - MOHA English: Bulugohothanna
+  - Difference classification: Spelling
+- Code: `2109110`
+  - DCS English: Palleweliketiya
+  - MOHA English: Pallewelikatiya
+  - Difference classification: Spelling
+- Code: `2109125`
+  - DCS English: Delgasthenna
+  - MOHA English: Delgasthenne
+  - Difference classification: Spelling
+- Code: `2112080`
+  - DCS English: Gunembil
+  - MOHA English: Gunembill
+  - Difference classification: Spelling
+- Code: `2112140`
+  - DCS English: Ambathenna
+  - MOHA English: Ambathanna
+  - Difference classification: Spelling
+- Code: `2118165`
+  - DCS English: Mendiriya
+  - MOHA English: Mediriya
+  - Difference classification: Spelling
+- Code: `2118295`
+  - DCS English: Bambarabedda East
+  - MOHA English: Bamgarabedda East
+  - Difference classification: Spelling
+- Code: `2121055`
+  - DCS English: Udattawa
+  - MOHA English: Udaththawa
+  - Difference classification: Spelling
+- Code: `2121130`
+  - DCS English: Mahagalaheenna
+  - MOHA English: Mahagalahinna
+  - Difference classification: Spelling
+- Code: `2121150`
+  - DCS English: Maha Eswedduma
+  - MOHA English: Mahaassedduma
+  - Difference classification: Spelling
+- Code: `2121240`
+  - DCS English: Bembiya
+  - MOHA English: Bebiya
+  - Difference classification: Spelling
+- Code: `2124035`
+  - DCS English: Galabadawatta
+  - MOHA English: Galabodawatta
+  - Difference classification: Spelling
+- Code: `2124090`
+  - DCS English: Burnside
+  - MOHA English: Birnside
+  - Difference classification: Spelling
+- Code: `2124100`
+  - DCS English: Weladaramba
+  - MOHA English: Weladarada
+  - Difference classification: Spelling
+- Code: `2124290`
+  - DCS English: Namandagala
+  - MOHA English: Namadagala
+  - Difference classification: Spelling
+- Code: `2127020`
+  - DCS English: Alawathugirigama
+  - MOHA English: Alawathugiriya gama
+  - Difference classification: Spelling
+- Code: `2127115`
+  - DCS English: Menikhinna
+  - MOHA English: Manikhinna
+  - Difference classification: Spelling
+- Code: `2127180`
+  - DCS English: Sirimalwatta West
+  - MOHA English: Sirimalwatte West
+  - Difference classification: Spelling
+- Code: `2127190`
+  - DCS English: Sirimalwatta Pallegama
+  - MOHA English: Sirimalwatte Pallegama
+  - Difference classification: Spelling
+- Code: `2127215`
+  - DCS English: Galapitaambe
+  - MOHA English: Galapitambe
+  - Difference classification: Spelling
+- Code: `2127400`
+  - DCS English: Ambakotayawatta
+  - MOHA English: Ambakotewatta
+  - Difference classification: Spelling
+- Code: `2130005`
+  - DCS English: Mavilmada
+  - MOHA English: Mawilmada
+  - Difference classification: Spelling
+- Code: `2130095`
+  - DCS English: Nuwara Dodamwala
+  - MOHA English: Nuwara Dodanwala
+  - Difference classification: Spelling
+- Code: `2130240`
+  - DCS English: Thennakumbura
+  - MOHA English: Thennekumbura
+  - Difference classification: Spelling
+- Code: `2133005`
+  - DCS English: Amuwathdeniya
+  - MOHA English: Amuwandeniya
+  - Difference classification: Spelling
+- Code: `2133105`
+  - DCS English: Rajasinghagama
+  - MOHA English: Rajasinhagama
+  - Difference classification: Spelling
+- Code: `2133160`
+  - DCS English: Embulpuraya
+  - MOHA English: Embulpure
+  - Difference classification: Spelling
+- Code: `2133335`
+  - DCS English: Mahathenna
+  - MOHA English: Mahatenna
+  - Difference classification: Spelling
+- Code: `2133420`
+  - DCS English: Warathenna
+  - MOHA English: Waratenna
+  - Difference classification: Spelling
+- Code: `2134120`
+  - DCS English: Welivita Ihala North
+  - MOHA English: Welivita Ihalagama North
+  - Difference classification: Spelling
+- Code: `2134200`
+  - DCS English: Dedunupitiya Ihalagama
+  - MOHA English: Dedunupitiya Ihala
+  - Difference classification: Spelling
+- Code: `2134245`
+  - DCS English: Pattapola Ihala
+  - MOHA English: Pattapola Ihalagama
+  - Difference classification: Spelling
+- Code: `2134250`
+  - DCS English: Pattapola Pahalagama
+  - MOHA English: Pattapola Pahala
+  - Difference classification: Spelling
+- Code: `2134270`
+  - DCS English: Kolugala Pahalagama
+  - MOHA English: Kolugala Pahala
+  - Difference classification: Spelling
+- Code: `2136290`
+  - DCS English: Arambegama East
+  - MOHA English: Aranbegama East
+  - Difference classification: Spelling
+- Code: `2139020`
+  - DCS English: Thalawatta
+  - MOHA English: Thalawaththa
+  - Difference classification: Spelling
+- Code: `2139050`
+  - DCS English: Alanduwaka
+  - MOHA English: Aladuwaka
+  - Difference classification: Spelling
+- Code: `2139055`
+  - DCS English: Pahala Koorukuttala
+  - MOHA English: Pahala Kurukuttla
+  - Difference classification: Spelling
+- Code: `2139080`
+  - DCS English: Urulewatta
+  - MOHA English: Urulewaththa
+  - Difference classification: Spelling
+- Code: `2139320`
+  - DCS English: Aravuwawala
+  - MOHA English: Arawwawela
+  - Difference classification: Spelling
+- Code: `2139375`
+  - DCS English: Embekka
+  - MOHA English: Embakka
+  - Difference classification: Spelling
+- Code: `2139385`
+  - DCS English: Eladetta West
+  - MOHA English: Eladhetha West
+  - Difference classification: Spelling
+- Code: `2139415`
+  - DCS English: Nawa Peradeniya
+  - MOHA English: New Peradeniya
+  - Difference classification: Spelling
+- Code: `2139425`
+  - DCS English: Nawa Elpitiya North
+  - MOHA English: New Elpitiya North
+  - Difference classification: Spelling
+- Code: `2139445`
+  - DCS English: Eladetta East
+  - MOHA English: Eladhetta East
+  - Difference classification: Spelling
+- Code: `2139465`
+  - DCS English: Dodamdeniya
+  - MOHA English: Dodandeniya
+  - Difference classification: Spelling
+- Code: `2139500`
+  - DCS English: Liyangaha Watta
+  - MOHA English: Liyangahawaththa
+  - Difference classification: Spelling
+- Code: `2139505`
+  - DCS English: Maveekumbura North
+  - MOHA English: Maweekumbura North
+  - Difference classification: Spelling
+- Code: `2139555`
+  - DCS English: Nawa Elpitiya South
+  - MOHA English: New Elpitiya South
+  - Difference classification: Spelling
+- Code: `2142060`
+  - DCS English: Lagumdeniya
+  - MOHA English: Legumdeniya
+  - Difference classification: Spelling
+- Code: `2145005`
+  - DCS English: Uduwelawatta Colony
+  - MOHA English: Udawelawatta Colony
+  - Difference classification: Spelling
+- Code: `2145015`
+  - DCS English: Wathuliyedda
+  - MOHA English: Wathuliyadda
+  - Difference classification: Spelling
+- Code: `2145060`
+  - DCS English: Singharagama
+  - MOHA English: Sigharagama
+  - Difference classification: Spelling
+- Code: `2145120`
+  - DCS English: Uduwela Pallegama West
+  - MOHA English: Udawela Pallegama West
+  - Difference classification: Spelling
+- Code: `2145330`
+  - DCS English: Ududeniya Madige
+  - MOHA English: Ududeniya Madihe
+  - Difference classification: Spelling
+- Code: `2145365`
+  - DCS English: Neelawala
+  - MOHA English: Nilawala
+  - Difference classification: Spelling
+- Code: `2148085`
+  - DCS English: Wetakepotha
+  - MOHA English: Watakepotha
+  - Difference classification: Spelling
+- Code: `2148095`
+  - DCS English: Kiriwanaketiya
+  - MOHA English: Kirawanaketiya
+  - Difference classification: Spelling
+- Code: `2148140`
+  - DCS English: Pattiyagama Gabadagama North
+  - MOHA English: Pattiyagama Gabadama North
+  - Difference classification: Spelling
+- Code: `2148145`
+  - DCS English: Pattiyagama Gabadagama South
+  - MOHA English: Pattiyagama Gabadama South
+  - Difference classification: Spelling
+- Code: `2151115`
+  - DCS English: Aregoda
+  - MOHA English: Eragoda
+  - Difference classification: Spelling
+- Code: `2151135`
+  - DCS English: Jayamalapura
+  - MOHA English: Jayamalapuraya
+  - Difference classification: Spelling
+- Code: `2154055`
+  - DCS English: Malwattagama
+  - MOHA English: Mallwattagama
+  - Difference classification: Spelling
+- Code: `2154070`
+  - DCS English: Wetakedeniya
+  - MOHA English: Watakedeniya
+  - Difference classification: Spelling
+- Code: `2154095`
+  - DCS English: Gemunupura
+  - MOHA English: Gamunupura
+  - Difference classification: Spelling
+- Code: `2157020`
+  - DCS English: Dandubediruppa
+  - MOHA English: Dandubendiruppa
+  - Difference classification: Spelling
+- Code: `2157030`
+  - DCS English: Pahala Rambukpitiya
+  - MOHA English: Phala Rambukpitiya
+  - Difference classification: Spelling
+- Code: `2157045`
+  - DCS English: Weligampola
+  - MOHA English: Weligampala
+  - Difference classification: Spelling
+- Code: `2157145`
+  - DCS English: Hydree
+  - MOHA English: Hydry
+  - Difference classification: Spelling
+- Code: `2203015`
+  - DCS English: Makulugaswewa
+  - MOHA English: Makulgaswewa
+  - Difference classification: Spelling
+- Code: `2203030`
+  - DCS English: Thennakonpura
+  - MOHA English: Thennakoonpura
+  - Difference classification: Spelling
+- Code: `2203160`
+  - DCS English: Weragalawatta
+  - MOHA English: Weragalawatte
+  - Difference classification: Spelling
+- Code: `2203165`
+  - DCS English: Nabadagahawatta
+  - MOHA English: Namadagahawatte
+  - Difference classification: Spelling
+- Code: `2203215`
+  - DCS English: Pihilyaya
+  - MOHA English: Pihillayaya
+  - Difference classification: Spelling
+- Code: `2203270`
+  - DCS English: Yatiwehera
+  - MOHA English: Yatiwahara
+  - Difference classification: Spelling
+- Code: `2203280`
+  - DCS English: Hewanwela
+  - MOHA English: Hewanewela
+  - Difference classification: Spelling
+- Code: `2206120`
+  - DCS English: Pelvehera
+  - MOHA English: Pelwehera
+  - Difference classification: Spelling
+- Code: `2206135`
+  - DCS English: Ihala Ereula
+  - MOHA English: Ihala Erevula
+  - Difference classification: Spelling
+- Code: `2206280`
+  - DCS English: Athabandiwewa
+  - MOHA English: Ethabandiwewa
+  - Difference classification: Spelling
+- Code: `2212060`
+  - DCS English: Kobbevehera
+  - MOHA English: Kobbewehera
+  - Difference classification: Spelling
+- Code: `2212070`
+  - DCS English: Millawana Medagama
+  - MOHA English: Millawana Medhagama
+  - Difference classification: Spelling
+- Code: `2212145`
+  - DCS English: Koholanwala
+  - MOHA English: Koholanwela
+  - Difference classification: Spelling
+- Code: `2212150`
+  - DCS English: Udurampelessa
+  - MOHA English: Udurampelassa
+  - Difference classification: Spelling
+- Code: `2212165`
+  - DCS English: Monaravila
+  - MOHA English: Monaruwila
+  - Difference classification: Spelling
+- Code: `2215030`
+  - DCS English: Kavudupelella
+  - MOHA English: Kawudupelella
+  - Difference classification: Spelling
+- Code: `2215120`
+  - DCS English: Deevilla North
+  - MOHA English: Deevilla South
+  - Difference classification: Spelling
+- Code: `2215130`
+  - DCS English: Dangan Place
+  - MOHA English: Dungan Place
+  - Difference classification: Spelling
+- Code: `2215165`
+  - DCS English: Deevilla South
+  - MOHA English: Deevilla North
+  - Difference classification: Spelling
+- Code: `2218095`
+  - DCS English: Palapathwala
+  - MOHA English: Palapathwela
+  - Difference classification: Spelling
+- Code: `2218110`
+  - DCS English: Makulgaharuppa
+  - MOHA English: Mekulgaharuppa
+  - Difference classification: Spelling
+- Code: `2218135`
+  - DCS English: Biridewala
+  - MOHA English: Beeridewala
+  - Difference classification: Spelling
+- Code: `2218160`
+  - DCS English: Mandandawela
+  - MOHA English: Mandandawala
+  - Difference classification: Spelling
+- Code: `2218200`
+  - DCS English: Gongawela
+  - MOHA English: Gongawala
+  - Difference classification: Spelling
+- Code: `2218230`
+  - DCS English: Maligathenna
+  - MOHA English: Maligatenna
+  - Difference classification: Spelling
+- Code: `2221045`
+  - DCS English: Thibbatukanatha
+  - MOHA English: Tibbatukanatha
+  - Difference classification: Spelling
+- Code: `2221050`
+  - DCS English: Palle Eswedduma
+  - MOHA English: Palle Aswedduma
+  - Difference classification: Spelling
+- Code: `2221070`
+  - DCS English: Kavudagammana
+  - MOHA English: Kaudagammana
+  - Difference classification: Spelling
+- Code: `2221100`
+  - DCS English: Gurubebila
+  - MOHA English: Gurubabila
+  - Difference classification: Spelling
+- Code: `2224010`
+  - DCS English: Kandepitawela
+  - MOHA English: Kandepitawala
+  - Difference classification: Spelling
+- Code: `2224140`
+  - DCS English: Kivulawadiya
+  - MOHA English: Kivulewadiya
+  - Difference classification: Spelling
+- Code: `2227100`
+  - DCS English: Veheragala
+  - MOHA English: Weheragala
+  - Difference classification: Spelling
+- Code: `2230050`
+  - DCS English: Kirimetiya
+  - MOHA English: Kirimetiyawe
+  - Difference classification: Spelling
+- Code: `2230065`
+  - DCS English: Medawatta
+  - MOHA English: Medawetta
+  - Difference classification: Spelling
+- Code: `2230195`
+  - DCS English: Godapala
+  - MOHA English: Godapola
+  - Difference classification: Spelling
+- Code: `2230200`
+  - DCS English: Ulpothapitiya
+  - MOHA English: Ulpathapitiya
+  - Difference classification: Spelling
+- Code: `2230230`
+  - DCS English: Thambalagala
+  - MOHA English: Thambalegala
+  - Difference classification: Spelling
+- Code: `2233065`
+  - DCS English: Kirimetiyawa
+  - MOHA English: Kirimatiyawa
+  - Difference classification: Spelling
+- Code: `2233070`
+  - DCS English: Thenna
+  - MOHA English: Thanna
+  - Difference classification: Spelling
+- Code: `2233100`
+  - DCS English: Kendagolla
+  - MOHA English: Kandagolla
+  - Difference classification: Spelling
+- Code: `2233170`
+  - DCS English: Nagahathenna
+  - MOHA English: Nagahatenna
+  - Difference classification: Spelling
+- Code: `2233285`
+  - DCS English: Kureewela
+  - MOHA English: Kuriwela
+  - Difference classification: Spelling
+- Code: `2233335`
+  - DCS English: Pujagoda
+  - MOHA English: Poojagoda
+  - Difference classification: Spelling
+- Code: `2233345`
+  - DCS English: Talingamada
+  - MOHA English: Thalingamada
+  - Difference classification: Spelling
+- Code: `2303055`
+  - DCS English: Hellboda
+  - MOHA English: Helboda
+  - Difference classification: Spelling
+- Code: `2303065`
+  - DCS English: Frotoft
+  - MOHA English: Protoft
+  - Difference classification: Spelling
+- Code: `2303080`
+  - DCS English: Panangammana
+  - MOHA English: Panamgammana
+  - Difference classification: Spelling
+- Code: `2303350`
+  - DCS English: Kirindiwela
+  - MOHA English: Kiridiwela
+  - Difference classification: Spelling
+- Code: `2303395`
+  - DCS English: Dunsinane
+  - MOHA English: Dansinan
+  - Difference classification: Spelling
+- Code: `2306030`
+  - DCS English: Karalliyadda
+  - MOHA English: Karalliyedda
+  - Difference classification: Spelling
+- Code: `2306085`
+  - DCS English: Malulla
+  - MOHA English: Mallulla
+  - Difference classification: Spelling
+- Code: `2306095`
+  - DCS English: Hilpenkandura
+  - MOHA English: Hilpankandura
+  - Difference classification: Spelling
+- Code: `2306155`
+  - DCS English: Ambaliyadda
+  - MOHA English: Ambaliyedda
+  - Difference classification: Spelling
+- Code: `2306180`
+  - DCS English: Deliwala
+  - MOHA English: Daliwala
+  - Difference classification: Spelling
+- Code: `2306255`
+  - DCS English: kosgaha Debala
+  - MOHA English: Kosgahan Debala
+  - Difference classification: Spelling
+- Code: `2306410`
+  - DCS English: Gannewa Udagama
+  - MOHA English: Ganga Udagama
+  - Difference classification: Spelling
+- Code: `2306435`
+  - DCS English: Wetesthenna
+  - MOHA English: Watesthenna
+  - Difference classification: Spelling
+- Code: `2306515`
+  - DCS English: Rookwood Estate
+  - MOHA English: Rukwood Estate
+  - Difference classification: Spelling
+- Code: `2309005`
+  - DCS English: Serasunthenna
+  - MOHA English: Sarasunthenna
+  - Difference classification: Spelling
+- Code: `2309080`
+  - DCS English: Deliwela South
+  - MOHA English: Deliwala South
+  - Difference classification: Spelling
+- Code: `2309085`
+  - DCS English: Deliwela North
+  - MOHA English: Deliwala North
+  - Difference classification: Spelling
+- Code: `2309105`
+  - DCS English: Andawala
+  - MOHA English: Andawela
+  - Difference classification: Spelling
+- Code: `2309275`
+  - DCS English: Liyanwela Ihalagama
+  - MOHA English: Liyanwala Ihalagama
+  - Difference classification: Spelling
+- Code: `2309295`
+  - DCS English: Liyanwela Pahalagama
+  - MOHA English: Liyanwala Pahalagama
+  - Difference classification: Spelling
+- Code: `2309325`
+  - DCS English: Wetekegama
+  - MOHA English: Wetekgama
+  - Difference classification: Spelling
+- Code: `2309350`
+  - DCS English: Wetakepatha
+  - MOHA English: Wetagepatha
+  - Difference classification: Spelling
+- Code: `2309365`
+  - DCS English: High Forest Estate
+  - MOHA English: Highforest watta
+  - Difference classification: Spelling
+- Code: `2310045`
+  - DCS English: Galketiwela
+  - MOHA English: Galkadawela
+  - Difference classification: Spelling
+- Code: `2312210`
+  - DCS English: Goredihela
+  - MOHA English: Goradihela
+  - Difference classification: Spelling
+- Code: `2315010`
+  - DCS English: Pitawala
+  - MOHA English: Pittawala
+  - Difference classification: Spelling
+- Code: `2315050`
+  - DCS English: Millagahamula
+  - MOHA English: Millagahamulla
+  - Difference classification: Spelling
+- Code: `2315055`
+  - DCS English: Dagampitiya
+  - MOHA English: Dhagampitiya
+  - Difference classification: Spelling
+- Code: `2315070`
+  - DCS English: Hitigegama
+  - MOHA English: Hitegegama
+  - Difference classification: Spelling
+- Code: `2315130`
+  - DCS English: Kottellena
+  - MOHA English: Kothellena
+  - Difference classification: Spelling
+- Code: `2315150`
+  - DCS English: Vidulipura South
+  - MOHA English: Vidhulipura South
+  - Difference classification: Spelling
+- Code: `3103050`
+  - DCS English: Hunganthota Wadumulla
+  - MOHA English: Huganthota Wadumulla
+  - Difference classification: Spelling
+- Code: `3103220`
+  - DCS English: Ranthotuvila
+  - MOHA English: Ranthotuwila
+  - Difference classification: Spelling
+- Code: `3109160`
+  - DCS English: Dangahavila
+  - MOHA English: Dangahawila
+  - Difference classification: Spelling
+- Code: `3112005`
+  - DCS English: Avittawa
+  - MOHA English: Aviththawa
+  - Difference classification: Spelling
+- Code: `3112050`
+  - DCS English: Digala Nagahathenna
+  - MOHA English: Digala Nagahatenna
+  - Difference classification: Spelling
+- Code: `3112095`
+  - DCS English: Ketandola Udovita
+  - MOHA English: Ketandola Udowita
+  - Difference classification: Spelling
+- Code: `3112215`
+  - DCS English: Mahawela Abhayapura
+  - MOHA English: Mahawela Abayapura
+  - Difference classification: Spelling
+- Code: `3115035`
+  - DCS English: Boraluhena
+  - MOHA English: Boraluwahena
+  - Difference classification: Spelling
+- Code: `3115105`
+  - DCS English: Poddiwala West
+  - MOHA English: Poddiwela West
+  - Difference classification: Spelling
+- Code: `3115130`
+  - DCS English: Wattehena
+  - MOHA English: Wattahena
+  - Difference classification: Spelling
+- Code: `3115165`
+  - DCS English: Horanggalla (Akulavila)
+  - MOHA English: Horangalla Akulavila
+  - Difference classification: Spelling
+- Code: `3118030`
+  - DCS English: Kudugalpala
+  - MOHA English: Kudugalpola
+  - Difference classification: Spelling
+- Code: `3121125`
+  - DCS English: Pahala Gigummaduwa
+  - MOHA English: Pahala Gigumaduwa
+  - Difference classification: Spelling
+- Code: `3121130`
+  - DCS English: Ihala Gigummaduwa
+  - MOHA English: Ihala Gigumaduwa
+  - Difference classification: Spelling
+- Code: `3124175`
+  - DCS English: Udawelivitithalawa
+  - MOHA English: Udawelivitiya Thalawa
+  - Difference classification: Spelling
+- Code: `3127075`
+  - DCS English: Weweldeniya
+  - MOHA English: Wewaldeniya
+  - Difference classification: Spelling
+- Code: `3128030`
+  - DCS English: Pahala Lelwala
+  - MOHA English: Ihala Lelwala
+  - Difference classification: Spelling
+- Code: `3130025`
+  - DCS English: Miriswaththa
+  - MOHA English: Miriswatta
+  - Difference classification: Spelling
+- Code: `3130080`
+  - DCS English: Kuttiyawaththa
+  - MOHA English: Kuttiyawatta
+  - Difference classification: Spelling
+- Code: `3130095`
+  - DCS English: Pathaweliwitiya
+  - MOHA English: Pathawelivitiya
+  - Difference classification: Spelling
+- Code: `3133010`
+  - DCS English: Patabedimulla
+  - MOHA English: Patabendimulla
+  - Difference classification: Spelling
+- Code: `3133015`
+  - DCS English: Karittakanda
+  - MOHA English: Kariththakanda
+  - Difference classification: Spelling
+- Code: `3133150`
+  - DCS English: Udakerewa
+  - MOHA English: Udakerawa
+  - Difference classification: Spelling
+- Code: `3133155`
+  - DCS English: Domanvila
+  - MOHA English: Domanwila
+  - Difference classification: Spelling
+- Code: `3133165`
+  - DCS English: Eranavila
+  - MOHA English: Eranawila
+  - Difference classification: Spelling
+- Code: `3133175`
+  - DCS English: Metiwala
+  - MOHA English: Matiwala
+  - Difference classification: Spelling
+- Code: `3139165`
+  - DCS English: Sanghamittapura
+  - MOHA English: Sangamithpura
+  - Difference classification: Spelling
+- Code: `3139185`
+  - DCS English: Ettiligoda South
+  - MOHA English: Eththiligoda South
+  - Difference classification: Spelling
+- Code: `3139205`
+  - DCS English: Kongaha
+  - MOHA English: Koongaha
+  - Difference classification: Spelling
+- Code: `3139235`
+  - DCS English: Magalle
+  - MOHA English: Magalla
+  - Difference classification: Spelling
+- Code: `3142060`
+  - DCS English: Penideniya
+  - MOHA English: Panideniya
+  - Difference classification: Spelling
+- Code: `3145160`
+  - DCS English: Manavila
+  - MOHA English: Manawila
+  - Difference classification: Spelling
+- Code: `3145210`
+  - DCS English: Kerenvila Colony
+  - MOHA English: Keranvila Colony
+  - Difference classification: Spelling
+- Code: `3145215`
+  - DCS English: Haliwala
+  - MOHA English: Halivala
+  - Difference classification: Spelling
+- Code: `3145235`
+  - DCS English: Batadoowa
+  - MOHA English: Bataduwa
+  - Difference classification: Spelling
+- Code: `3145280`
+  - DCS English: Nugadoowa
+  - MOHA English: Nugaduwa
+  - Difference classification: Spelling
+- Code: `3148025`
+  - DCS English: Wattehena
+  - MOHA English: Wattahena
+  - Difference classification: Spelling
+- Code: `3148175`
+  - DCS English: Udubettawa West
+  - MOHA English: Udubattawa West
+  - Difference classification: Spelling
+- Code: `3148205`
+  - DCS English: Rathamalaketiya
+  - MOHA English: Rathambalaketiya
+  - Difference classification: Spelling
+- Code: `3148220`
+  - DCS English: Ihala Walpala
+  - MOHA English: Ihala Walpola
+  - Difference classification: Spelling
+- Code: `3151030`
+  - DCS English: Badipita
+  - MOHA English: Bedipita
+  - Difference classification: Spelling
+- Code: `3151125`
+  - DCS English: Deegoda Athireka 1
+  - MOHA English: Deegoda Athireka 01
+  - Difference classification: Spelling
+- Code: `3151145`
+  - DCS English: Kalugalagoda
+  - MOHA English: Kalugalgoda
+  - Difference classification: Spelling
+- Code: `3154055`
+  - DCS English: Halloluwagoda
+  - MOHA English: Haloluwagoda
+  - Difference classification: Spelling
+- Code: `3154060`
+  - DCS English: Handugoda
+  - MOHA English: Handogoda
+  - Difference classification: Spelling
+- Code: `3154170`
+  - DCS English: Kathaluwa West
+  - MOHA English: Kathluwa West
+  - Difference classification: Spelling
+- Code: `3154180`
+  - DCS English: Kathaluwa East
+  - MOHA English: Kathluwa East
+  - Difference classification: Spelling
+- Code: `3154190`
+  - DCS English: Kathaluwa Central
+  - MOHA English: Kathluwa Central
+  - Difference classification: Spelling
+- Code: `3154195`
+  - DCS English: Alawathuthisgoda
+  - MOHA English: Alawathukisgoda
+  - Difference classification: Spelling
+- Code: `3154205`
+  - DCS English: Korahedigoda
+  - MOHA English: Korahendigoda
+  - Difference classification: Spelling
+- Code: `3154265`
+  - DCS English: Dommannegoda
+  - MOHA English: Dommannagoda
+  - Difference classification: Spelling
+- Code: `3203050`
+  - DCS English: Alapaladeniya South
+  - MOHA English: Alapaladeya South
+  - Difference classification: Spelling
+- Code: `3203055`
+  - DCS English: Alapaladeniya North
+  - MOHA English: Alapaladeya North
+  - Difference classification: Spelling
+- Code: `3203110`
+  - DCS English: Thennahena
+  - MOHA English: Thannehena
+  - Difference classification: Spelling
+- Code: `3203140`
+  - DCS English: Mahapothuvila
+  - MOHA English: Mahapotuvila
+  - Difference classification: Spelling
+- Code: `3203150`
+  - DCS English: Pitabeddara
+  - MOHA English: Pitabaddera
+  - Difference classification: Spelling
+- Code: `3203190`
+  - DCS English: Elamaldeniya
+  - MOHA English: Emaldeniya
+  - Difference classification: Spelling
+- Code: `3203195`
+  - DCS English: Wathurakumbura
+  - MOHA English: Waturakumbura
+  - Difference classification: Spelling
+- Code: `3206110`
+  - DCS English: Nishshankapura
+  - MOHA English: Nissankapura
+  - Difference classification: Spelling
+- Code: `3209015`
+  - DCS English: Thalapalakanda
+  - MOHA English: Thalapelakanda
+  - Difference classification: Spelling
+- Code: `3209060`
+  - DCS English: Kirilipana
+  - MOHA English: Kirilapane
+  - Difference classification: Spelling
+- Code: `3209110`
+  - DCS English: Pothdeniya
+  - MOHA English: Poddeniya
+  - Difference classification: Spelling
+- Code: `3209165`
+  - DCS English: Panakaduwa West
+  - MOHA English: Panakaduwa Wast
+  - Difference classification: Spelling
+- Code: `3209180`
+  - DCS English: Andaluwa
+  - MOHA English: Adaluwa
+  - Difference classification: Spelling
+- Code: `3215035`
+  - DCS English: Hawpe
+  - MOHA English: Howpe
+  - Difference classification: Spelling
+- Code: `3215100`
+  - DCS English: Vilpita East 11
+  - MOHA English: Vilpita East 2
+  - Difference classification: Spelling
+- Code: `3215110`
+  - DCS English: Namburukanda
+  - MOHA English: Naburukanda
+  - Difference classification: Spelling
+- Code: `3218030`
+  - DCS English: Idikatudeniya
+  - MOHA English: Idikakudeniya
+  - Difference classification: Spelling
+- Code: `3218120`
+  - DCS English: Higgoda
+  - MOHA English: Hikgoda
+  - Difference classification: Spelling
+- Code: `3218155`
+  - DCS English: Imbulgoda
+  - MOHA English: Imbullgoda
+  - Difference classification: Spelling
+- Code: `3218170`
+  - DCS English: Yakabedda
+  - MOHA English: Yakabwdda
+  - Difference classification: Spelling
+- Code: `3218180`
+  - DCS English: Ihala Kiyanduwa
+  - MOHA English: Ihala Kiyaduwa
+  - Difference classification: Spelling
+- Code: `3221135`
+  - DCS English: Moonamalpe
+  - MOHA English: Moonamalpa
+  - Difference classification: Spelling
+- Code: `3224055`
+  - DCS English: Welandagoda
+  - MOHA English: Weladagoda
+  - Difference classification: Spelling
+- Code: `3224095`
+  - DCS English: Malimbada West
+  - MOHA English: Malimbeda West
+  - Difference classification: Spelling
+- Code: `3227120`
+  - DCS English: Mapalana Mangin Pahala
+  - MOHA English: Mapalana Magin Pahala
+  - Difference classification: Spelling
+- Code: `3227140`
+  - DCS English: Karagoda Uyangoda 1 Atha West
+  - MOHA English: Karagoda Uyangoda 1 West
+  - Difference classification: Spelling
+- Code: `3230090`
+  - DCS English: Beruwela
+  - MOHA English: Beruwewela
+  - Difference classification: Spelling
+- Code: `3233025`
+  - DCS English: Kirinda Mangin Pahala
+  - MOHA English: Kirinda Magin Pahala
+  - Difference classification: Spelling
+- Code: `3233030`
+  - DCS English: Kirinda Mangin Ihala North
+  - MOHA English: Kirinda Magin Ehala North
+  - Difference classification: Spelling
+- Code: `3233090`
+  - DCS English: Kirinda Mangin Ihala South
+  - MOHA English: Kirinda Magin Ihala South
+  - Difference classification: Spelling
+- Code: `3233095`
+  - DCS English: Kirinda Mangin Ihala Central
+  - MOHA English: Kirinda Magin Ihala Central
+  - Difference classification: Spelling
+- Code: `3233100`
+  - DCS English: Kirinda Mangin Ihala East
+  - MOHA English: Kirinda Magin Ihala East
+  - Difference classification: Spelling
+- Code: `3236025`
+  - DCS English: Batuvita 1
+  - MOHA English: Batuvita I
+  - Difference classification: Spelling
+- Code: `3242005`
+  - DCS English: Deeyagaha East
+  - MOHA English: Diyagaha East
+  - Difference classification: Spelling
+- Code: `3242020`
+  - DCS English: Parawahera East
+  - MOHA English: Parawahara East
+  - Difference classification: Spelling
+- Code: `3242080`
+  - DCS English: Hittetiya East
+  - MOHA English: Hittatiya East
+  - Difference classification: Spelling
+- Code: `3242085`
+  - DCS English: Hittetiya Meda
+  - MOHA English: Hittatiya Meda
+  - Difference classification: Spelling
+- Code: `3242110`
+  - DCS English: Hittetiya West
+  - MOHA English: Hittatiya West
+  - Difference classification: Spelling
+- Code: `3242150`
+  - DCS English: Kekanadura South
+  - MOHA English: Kakanadura South
+  - Difference classification: Spelling
+- Code: `3242300`
+  - DCS English: Rassandeniya
+  - MOHA English: Rassanadeniya
+  - Difference classification: Spelling
+- Code: `3245025`
+  - DCS English: Uda Aparekka East
+  - MOHA English: Uda Aperakka East
+  - Difference classification: Spelling
+- Code: `3248110`
+  - DCS English: Wevurukannala
+  - MOHA English: Wewurukannala
+  - Difference classification: Spelling
+- Code: `3248155`
+  - DCS English: Dickwella Muslim Yonakapura East
+  - MOHA English: Dickwella Mislim Yonakapura East
+  - Difference classification: Spelling
+- Code: `3248160`
+  - DCS English: Dickwella Muslim Yonakapura West
+  - MOHA English: Dickwella Mislim Yonakapura West
+  - Difference classification: Spelling
+- Code: `3248175`
+  - DCS English: Batheegama East
+  - MOHA English: Bathigama East
+  - Difference classification: Spelling
+- Code: `3248185`
+  - DCS English: Batheegama West
+  - MOHA English: Bathigama West
+  - Difference classification: Spelling
+- Code: `3303050`
+  - DCS English: Weniwel Ara
+  - MOHA English: Weniwal Ara
+  - Difference classification: Spelling
+- Code: `3303100`
+  - DCS English: Habarattawala
+  - MOHA English: Habaraththawala
+  - Difference classification: Spelling
+- Code: `3306015`
+  - DCS English: Veheragala
+  - MOHA English: Weheragala
+  - Difference classification: Spelling
+- Code: `3306020`
+  - DCS English: Ranawarnawa
+  - MOHA English: Ranawaranawa
+  - Difference classification: Spelling
+- Code: `3306025`
+  - DCS English: Dewramvehera
+  - MOHA English: Dewramwehera
+  - Difference classification: Spelling
+- Code: `3306035`
+  - DCS English: Padavigama
+  - MOHA English: Padawgama
+  - Difference classification: Spelling
+- Code: `3306075`
+  - DCS English: Ittanwekada
+  - MOHA English: Iththanwekada
+  - Difference classification: Spelling
+- Code: `3306080`
+  - DCS English: Mattala
+  - MOHA English: Maththala
+  - Difference classification: Spelling
+- Code: `3306085`
+  - DCS English: Pahala Mattala
+  - MOHA English: Pahala Maththala
+  - Difference classification: Spelling
+- Code: `3306095`
+  - DCS English: Abhayapura
+  - MOHA English: Abayapura
+  - Difference classification: Spelling
+- Code: `3309130`
+  - DCS English: Molakepoopathana
+  - MOHA English: Molakapupatana
+  - Difference classification: Spelling
+- Code: `3309135`
+  - DCS English: Thissapura
+  - MOHA English: Tissapura
+  - Difference classification: Spelling
+- Code: `3309150`
+  - DCS English: Thissamaharama
+  - MOHA English: Tissamaharama
+  - Difference classification: Spelling
+- Code: `3312010`
+  - DCS English: Ketenwewa
+  - MOHA English: Ketanwewa
+  - Difference classification: Spelling
+- Code: `3312015`
+  - DCS English: Thammennawa
+  - MOHA English: Tammannawa
+  - Difference classification: Spelling
+- Code: `3312020`
+  - DCS English: Badagiriya
+  - MOHA English: Bandagiriya
+  - Difference classification: Spelling
+- Code: `3312060`
+  - DCS English: Siyambalagasvila South
+  - MOHA English: Siyambalagaswila South
+  - Difference classification: Spelling
+- Code: `3312065`
+  - DCS English: Siyambalagasvila North
+  - MOHA English: Siyambalagaswila North
+  - Difference classification: Spelling
+- Code: `3312115`
+  - DCS English: Mirijjavila
+  - MOHA English: Mirijjawila
+  - Difference classification: Spelling
+- Code: `3315005`
+  - DCS English: Siyambalakote
+  - MOHA English: Siyabalakote
+  - Difference classification: Spelling
+- Code: `3315065`
+  - DCS English: Poliyarwatta
+  - MOHA English: Poliyarwaththa
+  - Difference classification: Spelling
+- Code: `3315215`
+  - DCS English: Kivula South
+  - MOHA English: Kiula South
+  - Difference classification: Spelling
+- Code: `3315220`
+  - DCS English: Kivula North
+  - MOHA English: Kiula North
+  - Difference classification: Spelling
+- Code: `3318005`
+  - DCS English: Kariyamaditta
+  - MOHA English: Kariyamadiththa
+  - Difference classification: Spelling
+- Code: `3318020`
+  - DCS English: Kailawelpotawa
+  - MOHA English: Kailawelapotawa
+  - Difference classification: Spelling
+- Code: `3318145`
+  - DCS English: Attanayala East
+  - MOHA English: Aththanayala East
+  - Difference classification: Spelling
+- Code: `3321070`
+  - DCS English: Galpottayaya North
+  - MOHA English: Galpoththayaya North
+  - Difference classification: Spelling
+- Code: `3321085`
+  - DCS English: Kandamaditta
+  - MOHA English: Kadamadiththa
+  - Difference classification: Spelling
+- Code: `3321135`
+  - DCS English: Siyambalaheddewa
+  - MOHA English: Siyambalaheddawa
+  - Difference classification: Spelling
+- Code: `3321170`
+  - DCS English: Medamulana
+  - MOHA English: Madamulana
+  - Difference classification: Spelling
+- Code: `3321195`
+  - DCS English: Ittademaliya East
+  - MOHA English: Iththademaliya East
+  - Difference classification: Spelling
+- Code: `3321200`
+  - DCS English: Ittademaliya West
+  - MOHA English: Iththademaliya West
+  - Difference classification: Spelling
+- Code: `3321205`
+  - DCS English: Ittademaliya South
+  - MOHA English: Iththademaliya South
+  - Difference classification: Spelling
+- Code: `3321220`
+  - DCS English: Keppitiyawa South
+  - MOHA English: Kappitiyawa South
+  - Difference classification: Spelling
+- Code: `3321275`
+  - DCS English: Bedigama West
+  - MOHA English: Badigama West
+  - Difference classification: Spelling
+- Code: `3321280`
+  - DCS English: Bedigama North
+  - MOHA English: Badigama North
+  - Difference classification: Spelling
+- Code: `3321285`
+  - DCS English: Bedigama East
+  - MOHA English: Badigama East
+  - Difference classification: Spelling
+- Code: `3321295`
+  - DCS English: Kuda Bedigama
+  - MOHA English: Kuda Badigama
+  - Difference classification: Spelling
+- Code: `3321300`
+  - DCS English: Medagoda
+  - MOHA English: Madagoda
+  - Difference classification: Spelling
+- Code: `3324145`
+  - DCS English: Kehelwatta
+  - MOHA English: Keselwatta
+  - Difference classification: Spelling
+- Code: `3324200`
+  - DCS English: Adalugoda
+  - MOHA English: Andalugoda
+  - Difference classification: Spelling
+- Code: `3324275`
+  - DCS English: Bookendayaya
+  - MOHA English: Bukendayaya
+  - Difference classification: Spelling
+- Code: `3327115`
+  - DCS English: Okewela
+  - MOHA English: Okawela
+  - Difference classification: Spelling
+- Code: `3327120`
+  - DCS English: Heenatihathamuna
+  - MOHA English: Heenatihathmuna
+  - Difference classification: Spelling
+- Code: `3330245`
+  - DCS English: Kudaheella East
+  - MOHA English: Kudaheela East
+  - Difference classification: Spelling
+- Code: `3330250`
+  - DCS English: Kudaheella North
+  - MOHA English: Kudaheela North
+  - Difference classification: Spelling
+- Code: `3330290`
+  - DCS English: Kudaheella South
+  - MOHA English: Kudaheela South
+  - Difference classification: Spelling
+- Code: `3333020`
+  - DCS English: Andupelena
+  - MOHA English: Andupalana
+  - Difference classification: Spelling
+- Code: `3333090`
+  - DCS English: Ethgalmulla
+  - MOHA English: Athgalmulla
+  - Difference classification: Spelling
+- Code: `3333095`
+  - DCS English: Uduvilagoda
+  - MOHA English: Uduwilagoda
+  - Difference classification: Spelling
+- Code: `4103005`
+  - DCS English: Analaitivu North
+  - MOHA English: Analativu North
+  - Difference classification: Spelling
+- Code: `4106005`
+  - DCS English: Vaddukoddai East
+  - MOHA English: Vadducoddai East
+  - Difference classification: Spelling
+- Code: `4106010`
+  - DCS English: Vaddukoddai North
+  - MOHA English: Vadducoddai North
+  - Difference classification: Spelling
+- Code: `4106020`
+  - DCS English: Arali West
+  - MOHA English: Araly West
+  - Difference classification: Spelling
+- Code: `4106025`
+  - DCS English: Arali Centre
+  - MOHA English: Araly Centre
+  - Difference classification: Spelling
+- Code: `4106030`
+  - DCS English: Arali South
+  - MOHA English: Araly South
+  - Difference classification: Spelling
+- Code: `4106035`
+  - DCS English: Arali East
+  - MOHA English: Araly East
+  - Difference classification: Spelling
+- Code: `4106045`
+  - DCS English: Vaddukoddai South
+  - MOHA English: Vedducoddai South
+  - Difference classification: Spelling
+- Code: `4106055`
+  - DCS English: Vedducoddai West
+  - MOHA English: Vadducoddai West
+  - Difference classification: Spelling
+- Code: `4106095`
+  - DCS English: Pannakam
+  - MOHA English: Pannagam
+  - Difference classification: Spelling
+- Code: `4106100`
+  - DCS English: Pannaippulam
+  - MOHA English: Panfippulam
+  - Difference classification: Spelling
+- Code: `4106105`
+  - DCS English: Siththankerni
+  - MOHA English: Sithankerny
+  - Difference classification: Spelling
+- Code: `4109015`
+  - DCS English: Savatkaddu
+  - MOHA English: Savalkaddu
+  - Difference classification: Spelling
+- Code: `4109025`
+  - DCS English: Anaikoddai
+  - MOHA English: Ana‍icoddai
+  - Difference classification: Spelling
+- Code: `4109035`
+  - DCS English: Navali East
+  - MOHA English: Navaly East
+  - Difference classification: Spelling
+- Code: `4109080`
+  - DCS English: Masiapiddy
+  - MOHA English: Mahiyappiddy
+  - Difference classification: Spelling
+- Code: `4109095`
+  - DCS English: Piranpattai
+  - MOHA English: Piranpattu
+  - Difference classification: Spelling
+- Code: `4109100`
+  - DCS English: Sillalai North
+  - MOHA English: Si‍lalai North
+  - Difference classification: Spelling
+- Code: `4109105`
+  - DCS English: Sillalai South
+  - MOHA English: S‍ilalai South
+  - Difference classification: Spelling
+- Code: `4109125`
+  - DCS English: Periyavillan
+  - MOHA English: Periyavilan
+  - Difference classification: Spelling
+- Code: `4109135`
+  - DCS English: Illavalai
+  - MOHA English: Ilavalai
+  - Difference classification: Spelling
+- Code: `4112020`
+  - DCS English: Alaveddy North
+  - MOHA English: Alavedy North
+  - Difference classification: Spelling
+- Code: `4112070`
+  - DCS English: Kollankalady
+  - MOHA English: Kollankaladdy
+  - Difference classification: Spelling
+- Code: `4112095`
+  - DCS English: Thanthai Selvapuram
+  - MOHA English: Thanthai Chelvapuram
+  - Difference classification: Spelling
+- Code: `4112145`
+  - DCS English: Thenmylai
+  - MOHA English: Thenmaylai
+  - Difference classification: Spelling
+- Code: `4112150`
+  - DCS English: Varuthalaivilan
+  - MOHA English: Varuththalaivilan
+  - Difference classification: Spelling
+- Code: `4112165`
+  - DCS English: Vayavilan East
+  - MOHA English: Vasavilan East
+  - Difference classification: Spelling
+- Code: `4112170`
+  - DCS English: Vayavilan West
+  - MOHA English: Vasavilan West
+  - Difference classification: Spelling
+- Code: `4112180`
+  - DCS English: Thyiddy East
+  - MOHA English: Thaiyiddy East
+  - Difference classification: Spelling
+- Code: `4112185`
+  - DCS English: Myliddyththurai South
+  - MOHA English: Myliddithurai South
+  - Difference classification: Spelling
+- Code: `4112190`
+  - DCS English: Thyiddy North
+  - MOHA English: Thaiyiddy North
+  - Difference classification: Spelling
+- Code: `4112195`
+  - DCS English: Thyiddy South
+  - MOHA English: Thaiyiddy South
+  - Difference classification: Spelling
+- Code: `4112200`
+  - DCS English: Myliddyththurai North
+  - MOHA English: Myliddythurai North
+  - Difference classification: Spelling
+- Code: `4115100`
+  - DCS English: Erlalai West
+  - MOHA English: Earlalai West
+  - Difference classification: Spelling
+- Code: `4115105`
+  - DCS English: Erlalai South West
+  - MOHA English: Earlalai South West
+  - Difference classification: Spelling
+- Code: `4115110`
+  - DCS English: Erlalai South
+  - MOHA English: Earlalai South
+  - Difference classification: Spelling
+- Code: `4115115`
+  - DCS English: Erlalai East
+  - MOHA English: Earlalai East
+  - Difference classification: Spelling
+- Code: `4115120`
+  - DCS English: Erlalai North
+  - MOHA English: Earlalai North
+  - Difference classification: Spelling
+- Code: `4115125`
+  - DCS English: Erlalai Centre
+  - MOHA English: Earlalai Centre
+  - Difference classification: Spelling
+- Code: `4115140`
+  - DCS English: Evenai
+  - MOHA English: Evinai
+  - Difference classification: Spelling
+- Code: `4118025`
+  - DCS English: Kopay Centre
+  - MOHA English: Kopay Center
+  - Difference classification: Spelling
+- Code: `4118075`
+  - DCS English: Sirupiddy East
+  - MOHA English: Siruppiddy East
+  - Difference classification: Spelling
+- Code: `4118080`
+  - DCS English: Sirupiddy West
+  - MOHA English: Siruppiddy West
+  - Difference classification: Spelling
+- Code: `4118095`
+  - DCS English: Nawatkiri
+  - MOHA English: Navakkiri
+  - Difference classification: Spelling
+- Code: `4118100`
+  - DCS English: Avarangal East
+  - MOHA English: Avaranhal East
+  - Difference classification: Spelling
+- Code: `4118105`
+  - DCS English: Avarangal West
+  - MOHA English: Avarankal West
+  - Difference classification: Spelling
+- Code: `4118115`
+  - DCS English: Atchelu
+  - MOHA English: Achchelu
+  - Difference classification: Spelling
+- Code: `4118125`
+  - DCS English: Pathameny
+  - MOHA English: Paththaimeny
+  - Difference classification: Spelling
+- Code: `4118130`
+  - DCS English: Thampalai-Kathiripay
+  - MOHA English: Thampalai Kathirippai
+  - Difference classification: Spelling
+- Code: `4121025`
+  - DCS English: Udupiddy
+  - MOHA English: Uduppidy
+  - Difference classification: Spelling
+- Code: `4121030`
+  - DCS English: Udupiddy North
+  - MOHA English: Uduppidy North
+  - Difference classification: Spelling
+- Code: `4121035`
+  - DCS English: Udupiddy South
+  - MOHA English: Uduppidy South
+  - Difference classification: Spelling
+- Code: `4121060`
+  - DCS English: Imayanan East
+  - MOHA English: Imayanan West
+  - Difference classification: Spelling
+- Code: `4121095`
+  - DCS English: Maththoni
+  - MOHA English: Maththony
+  - Difference classification: Spelling
+- Code: `4121110`
+  - DCS English: Kaddaively
+  - MOHA English: Kaddaiveli
+  - Difference classification: Spelling
+- Code: `4121145`
+  - DCS English: Nelliaddy
+  - MOHA English: Nelliady
+  - Difference classification: Spelling
+- Code: `4121150`
+  - DCS English: Nelliaddy East
+  - MOHA English: Nelliady East
+  - Difference classification: Spelling
+- Code: `4124010`
+  - DCS English: Kudathanai
+  - MOHA English: Kudaththanai
+  - Difference classification: Spelling
+- Code: `4124020`
+  - DCS English: Potpathi
+  - MOHA English: Potpathy
+  - Difference classification: Spelling
+- Code: `4124050`
+  - DCS English: Chempiyanpattu South
+  - MOHA English: Chempianpattu South
+  - Difference classification: Spelling
+- Code: `4124055`
+  - DCS English: Maruthankarny
+  - MOHA English: Maruthankerny
+  - Difference classification: Spelling
+- Code: `4124065`
+  - DCS English: Uduthurai
+  - MOHA English: Uduththurai
+  - Difference classification: Spelling
+- Code: `4124080`
+  - DCS English: Mulliyan
+  - MOHA English: Mullian
+  - Difference classification: Spelling
+- Code: `4127035`
+  - DCS English: Valvettithurai North Centre
+  - MOHA English: Valvettiturai North Centre
+  - Difference classification: Spelling
+- Code: `4127040`
+  - DCS English: Valvettithurai North East
+  - MOHA English: Valvettiturai North East
+  - Difference classification: Spelling
+- Code: `4127050`
+  - DCS English: Valvettithurai South East
+  - MOHA English: Valvettiturai South East
+  - Difference classification: Spelling
+- Code: `4130045`
+  - DCS English: kovilakandy
+  - MOHA English: Kovilakkandy
+  - Difference classification: Spelling
+- Code: `4130060`
+  - DCS English: Thanankilappu
+  - MOHA English: Thanankalappu
+  - Difference classification: Spelling
+- Code: `4130070`
+  - DCS English: Kovilkudyiruppu
+  - MOHA English: Kovilkudiiruppu
+  - Difference classification: Spelling
+- Code: `4130075`
+  - DCS English: Sangathanai
+  - MOHA English: Sangaththanai
+  - Difference classification: Spelling
+- Code: `4130180`
+  - DCS English: Vellampokkady
+  - MOHA English: Vellampokkadi
+  - Difference classification: Spelling
+- Code: `4130215`
+  - DCS English: Karampaham
+  - MOHA English: Karampagam
+  - Difference classification: Spelling
+- Code: `4130220`
+  - DCS English: Vidaththalpalai
+  - MOHA English: Vidaththtpalai
+  - Difference classification: Spelling
+- Code: `4130225`
+  - DCS English: Ketpeli
+  - MOHA English: Ketpely
+  - Difference classification: Spelling
+- Code: `4130265`
+  - DCS English: Maaseri
+  - MOHA English: Masery
+  - Difference classification: Spelling
+- Code: `4130270`
+  - DCS English: Iddaikurichchi
+  - MOHA English: Idaikkurichchi
+  - Difference classification: Spelling
+- Code: `4130275`
+  - DCS English: Karampaikurichchi
+  - MOHA English: Karambaikurichchi
+  - Difference classification: Spelling
+- Code: `4130280`
+  - DCS English: Varani-lyattalai
+  - MOHA English: Varani Iyattalai
+  - Difference classification: Spelling
+- Code: `4133040`
+  - DCS English: Ariyalai Centre South
+  - MOHA English: Ariyalai Center South
+  - Difference classification: Spelling
+- Code: `4133075`
+  - DCS English: Kantharmadam North East
+  - MOHA English: Kantharmadam North East (Part)
+  - Difference classification: Spelling
+- Code: `4133110`
+  - DCS English: Thirunelvely West
+  - MOHA English: Thirunelvelly West
+  - Difference classification: Spelling
+- Code: `4133125`
+  - DCS English: Thirunelvely North East
+  - MOHA English: Thirunelve‍ly North East
+  - Difference classification: Spelling
+- Code: `4133130`
+  - DCS English: Thirunelvely Centre North
+  - MOHA English: Thirunelvelly Centre North
+  - Difference classification: Spelling
+- Code: `4136075`
+  - DCS English: Chundikuli South
+  - MOHA English: Chundikuly South
+  - Difference classification: Spelling
+- Code: `4136080`
+  - DCS English: Chundikuli North
+  - MOHA English: Chundikuly North
+  - Difference classification: Spelling
+- Code: `4136095`
+  - DCS English: Sirambiady
+  - MOHA English: Sirampiyady
+  - Difference classification: Spelling
+- Code: `4139025`
+  - DCS English: Mankumban
+  - MOHA English: Mankumpan
+  - Difference classification: Spelling
+- Code: `4139145`
+  - DCS English: Nainativu Centre
+  - MOHA English: Nainativu Center
+  - Difference classification: Spelling
+- Code: `4142025`
+  - DCS English: Delft Centre East
+  - MOHA English: Delft Center East
+  - Difference classification: Spelling
+- Code: `4203020`
+  - DCS English: Talaimannar
+  - MOHA English: Taliamannar
+  - Difference classification: Spelling
+- Code: `4203065`
+  - DCS English: Olaithoduwai
+  - MOHA English: Olaithodduwai
+  - Difference classification: Spelling
+- Code: `4203095`
+  - DCS English: Erukkalampiddy Centre
+  - MOHA English: Erukkalampiddy Central
+  - Difference classification: Spelling
+- Code: `4203125`
+  - DCS English: Thoddaveli
+  - MOHA English: Thoddavely
+  - Difference classification: Spelling
+- Code: `4203140`
+  - DCS English: Eluthur
+  - MOHA English: Eluthoor
+  - Difference classification: Spelling
+- Code: `4203150`
+  - DCS English: Savatkaddu
+  - MOHA English: Shavatkaddu
+  - Difference classification: Spelling
+- Code: `4203160`
+  - DCS English: Uppukkulam North
+  - MOHA English: Uppukulam North
+  - Difference classification: Spelling
+- Code: `4203170`
+  - DCS English: Uppukkulam South
+  - MOHA English: Uppukulam South
+  - Difference classification: Spelling
+- Code: `4203220`
+  - DCS English: Kallikaddaikkadu
+  - MOHA English: Kallikaddaikadu
+  - Difference classification: Spelling
+- Code: `4203235`
+  - DCS English: Puthukkamam
+  - MOHA English: Puthukamam
+  - Difference classification: Spelling
+- Code: `4206025`
+  - DCS English: Illupaikadavai
+  - MOHA English: Illuppaikadavai
+  - Difference classification: Spelling
+- Code: `4206065`
+  - DCS English: Kovilkulam
+  - MOHA English: Kovitkulam
+  - Difference classification: Spelling
+- Code: `4206070`
+  - DCS English: Vidathaltheevu North
+  - MOHA English: Vidataltivu North
+  - Difference classification: Spelling
+- Code: `4206075`
+  - DCS English: Vidathaltheevu West
+  - MOHA English: Vidataltivu West
+  - Difference classification: Spelling
+- Code: `4206080`
+  - DCS English: Vidathaltheevu Central
+  - MOHA English: Vidataltivu Central
+  - Difference classification: Spelling
+- Code: `4206085`
+  - DCS English: Vidathaltheevu East
+  - MOHA English: Vidataltivu East
+  - Difference classification: Spelling
+- Code: `4206115`
+  - DCS English: Maligaithidal
+  - MOHA English: Maligaithiddal
+  - Difference classification: Spelling
+- Code: `4206140`
+  - DCS English: Alkaddiveli
+  - MOHA English: Alkaddively
+  - Difference classification: Spelling
+- Code: `4206160`
+  - DCS English: Palikuli
+  - MOHA English: Palaikuly
+  - Difference classification: Spelling
+- Code: `4206175`
+  - DCS English: Palaiyadiputhukulam
+  - MOHA English: Palayadip Puthukulam
+  - Difference classification: Spelling
+- Code: `4206180`
+  - DCS English: Palaiperumalkaddu
+  - MOHA English: Palai Periymalkaddu
+  - Difference classification: Spelling
+- Code: `4209020`
+  - DCS English: Vilathikulam
+  - MOHA English: Vilaththikulam
+  - Difference classification: Spelling
+- Code: `4209030`
+  - DCS English: Kalmadu
+  - MOHA English: Kalmadhu
+  - Difference classification: Spelling
+- Code: `4209060`
+  - DCS English: Maluvarayarkaddayadampan
+  - MOHA English: Maluvarayar Kaddaiadampan
+  - Difference classification: Spelling
+- Code: `4212040`
+  - DCS English: Ilanthamoddai
+  - MOHA English: Ilanthaimoddai
+  - Difference classification: Spelling
+- Code: `4212045`
+  - DCS English: Periyakaddaikadu
+  - MOHA English: Periyakkaddaikadu
+  - Difference classification: Spelling
+- Code: `4212050`
+  - DCS English: Aththikkuly
+  - MOHA English: Aththikuly
+  - Difference classification: Spelling
+- Code: `4212055`
+  - DCS English: Kanchithalvu
+  - MOHA English: Kanchchiththalvu
+  - Difference classification: Spelling
+- Code: `4212070`
+  - DCS English: Cheddiyar Mahan kaddaiadampan
+  - MOHA English: Cheddiarmagan Kaddaidampan
+  - Difference classification: Spelling
+- Code: `4212075`
+  - DCS English: Iraddaikkulam
+  - MOHA English: Iraddaikulam
+  - Difference classification: Spelling
+- Code: `4212080`
+  - DCS English: Chundikkuli
+  - MOHA English: Chundikuly
+  - Difference classification: Spelling
+- Code: `4212085`
+  - DCS English: Puttirarkandan
+  - MOHA English: Puthirarkandan
+  - Difference classification: Spelling
+- Code: `4212090`
+  - DCS English: Razoolputhuveli
+  - MOHA English: Razool Puthuvely
+  - Difference classification: Spelling
+- Code: `4212100`
+  - DCS English: Umanagari
+  - MOHA English: Umanagiri
+  - Difference classification: Spelling
+- Code: `4212125`
+  - DCS English: Valkaipattankandal
+  - MOHA English: Valkaipettankandal
+  - Difference classification: Spelling
+- Code: `4212155`
+  - DCS English: Issaimalaithalvu
+  - MOHA English: Isamalaithalvu
+  - Difference classification: Spelling
+- Code: `4215015`
+  - DCS English: Methanveli
+  - MOHA English: Methanvely
+  - Difference classification: Spelling
+- Code: `4215020`
+  - DCS English: Poonochchikulam
+  - MOHA English: Poonochikulam
+  - Difference classification: Spelling
+- Code: `4215025`
+  - DCS English: Pandaraveli
+  - MOHA English: Pandaravely
+  - Difference classification: Spelling
+- Code: `4215030`
+  - DCS English: Sinnapullachchi Potkerni
+  - MOHA English: Sinna Pullachchi Potkerny
+  - Difference classification: Spelling
+- Code: `4215035`
+  - DCS English: Periyapullachchi Potkerni
+  - MOHA English: Periya Pullachchi Potkerny
+  - Difference classification: Spelling
+- Code: `4215050`
+  - DCS English: Ahathimurippu
+  - MOHA English: Ahathymurippu
+  - Difference classification: Spelling
+- Code: `4215055`
+  - DCS English: Puthuveli
+  - MOHA English: Puthuvely
+  - Difference classification: Spelling
+- Code: `4215060`
+  - DCS English: Severiyarpuram
+  - MOHA English: Saveriyarpuram
+  - Difference classification: Spelling
+- Code: `4215070`
+  - DCS English: Kollankulam
+  - MOHA English: Koolankulam
+  - Difference classification: Spelling
+- Code: `4215085`
+  - DCS English: Palaikuli
+  - MOHA English: Palaikuly
+  - Difference classification: Spelling
+- Code: `4215090`
+  - DCS English: Karadikkuli
+  - MOHA English: Karadikkuly
+  - Difference classification: Spelling
+- Code: `4215095`
+  - DCS English: Mullikkulam
+  - MOHA English: Mullikulam
+  - Difference classification: Spelling
+- Code: `4303015`
+  - DCS English: Maruthoddai
+  - MOHA English: Maruthodai
+  - Difference classification: Spelling
+- Code: `4303055`
+  - DCS English: Marailuppai
+  - MOHA English: Maraillupai
+  - Difference classification: Spelling
+- Code: `4303090`
+  - DCS English: Kanagarayankulam South
+  - MOHA English: Kanakarayankulam South
+  - Difference classification: Spelling
+- Code: `4303095`
+  - DCS English: Kanagarayankulam North
+  - MOHA English: Kanakarayankulam North
+  - Difference classification: Spelling
+- Code: `4306035`
+  - DCS English: Acres 20,40,60
+  - MOHA English: Acre 20, 40, 60
+  - Difference classification: Spelling
+- Code: `4306040`
+  - DCS English: Acres 400
+  - MOHA English: Acre 400
+  - Difference classification: Spelling
+- Code: `4306060`
+  - DCS English: Avusathapitiya
+  - MOHA English: Avusadapitiya
+  - Difference classification: Spelling
+- Code: `4306065`
+  - DCS English: Kalukunnammaduwa
+  - MOHA English: Kalukunnamaduwa
+  - Difference classification: Spelling
+- Code: `4306070`
+  - DCS English: Nedunkulam
+  - MOHA English: Nedunkulama
+  - Difference classification: Spelling
+- Code: `4306075`
+  - DCS English: Mahamylankulama
+  - MOHA English: Mahamailankulama
+  - Difference classification: Spelling
+- Code: `4306085`
+  - DCS English: Mahakachchikodiya
+  - MOHA English: Mahakachchakodiya
+  - Difference classification: Spelling
+- Code: `4306095`
+  - DCS English: Pirappanmaduwa
+  - MOHA English: Pirappamaduwa
+  - Difference classification: Spelling
+- Code: `4309010`
+  - DCS English: Maruthamadhu
+  - MOHA English: Maruthamadu
+  - Difference classification: Spelling
+- Code: `4309015`
+  - DCS English: Panrikkeithakulam
+  - MOHA English: Panrikeythakulam
+  - Difference classification: Spelling
+- Code: `4309020`
+  - DCS English: Arumuhathanputhukulam
+  - MOHA English: Arumugaththanputhukkulam
+  - Difference classification: Spelling
+- Code: `4309025`
+  - DCS English: Semamadhu
+  - MOHA English: Semamadu
+  - Difference classification: Spelling
+- Code: `4309045`
+  - DCS English: Ilamaruthankulam
+  - MOHA English: Elamaruthankulam
+  - Difference classification: Spelling
+- Code: `4309050`
+  - DCS English: Kallikulam
+  - MOHA English: Kallikkulam
+  - Difference classification: Spelling
+- Code: `4309080`
+  - DCS English: Maharambaikulam
+  - MOHA English: Maharambaikkulam
+  - Difference classification: Spelling
+- Code: `4309085`
+  - DCS English: Katharsinnakulam
+  - MOHA English: Kaththarsinnakulam
+  - Difference classification: Spelling
+- Code: `4309095`
+  - DCS English: Pattanichchi puliyankulam
+  - MOHA English: Pattanichchoor Puliyankulam
+  - Difference classification: Spelling
+- Code: `4309140`
+  - DCS English: Pampaimadu
+  - MOHA English: Pambaimadu
+  - Difference classification: Spelling
+- Code: `4309160`
+  - DCS English: Velikulam
+  - MOHA English: Velikkulam
+  - Difference classification: Spelling
+- Code: `4309175`
+  - DCS English: Thonikal
+  - MOHA English: Thonikkal
+  - Difference classification: Spelling
+- Code: `4309200`
+  - DCS English: Pandarikkulam
+  - MOHA English: Pandarikulam
+  - Difference classification: Spelling
+- Code: `4312045`
+  - DCS English: Unit 5 & 6 Pavatkulam
+  - MOHA English: Unit 05 / 06 Pavatkulam
+  - Difference classification: Spelling
+- Code: `4403015`
+  - DCS English: Ambalaperumalkulam
+  - MOHA English: Ampalapperumalkulam
+  - Difference classification: Spelling
+- Code: `4403020`
+  - DCS English: Aninchiyankulam
+  - MOHA English: Anichchiyankulam
+  - Difference classification: Spelling
+- Code: `4406050`
+  - DCS English: Poovarasankulam
+  - MOHA English: Poovarasankullam
+  - Difference classification: Spelling
+- Code: `4409005`
+  - DCS English: Anandapuram
+  - MOHA English: Ananthapuram
+  - Difference classification: Spelling
+- Code: `4409010`
+  - DCS English: Iranaippalai
+  - MOHA English: Iranaipalai
+  - Difference classification: Spelling
+- Code: `4409020`
+  - DCS English: Mallikaithivu
+  - MOHA English: Mallikaitheevu
+  - Difference classification: Spelling
+- Code: `4409040`
+  - DCS English: Puthukudiyiruppu East
+  - MOHA English: Puthukkudiyiruppu East
+  - Difference classification: Spelling
+- Code: `4409045`
+  - DCS English: Puthukudiyiruppu West
+  - MOHA English: Puthukkudiyiruppu West
+  - Difference classification: Spelling
+- Code: `4409090`
+  - DCS English: Visuvamadu East
+  - MOHA English: Visvamadu East
+  - Difference classification: Spelling
+- Code: `4412005`
+  - DCS English: Ampakamam
+  - MOHA English: Ampagamam
+  - Difference classification: Spelling
+- Code: `4412010`
+  - DCS English: Ganeshapuram
+  - MOHA English: Ganesapuram
+  - Difference classification: Spelling
+- Code: `4412015`
+  - DCS English: Indupuram
+  - MOHA English: Ithupuram
+  - Difference classification: Spelling
+- Code: `4412020`
+  - DCS English: Kanagarathinapuram
+  - MOHA English: Kanakaradnapuram
+  - Difference classification: Spelling
+- Code: `4412025`
+  - DCS English: Karuvelankandal
+  - MOHA English: Karuvalankandal
+  - Difference classification: Spelling
+- Code: `4412030`
+  - DCS English: Katchilaimadu
+  - MOHA English: Kachchilaimadu
+  - Difference classification: Spelling
+- Code: `4412035`
+  - DCS English: Kathaliyarsamlankulam
+  - MOHA English: Kathaliyarsamalankulam
+  - Difference classification: Spelling
+- Code: `4412060`
+  - DCS English: Muthuvinayagarpuram
+  - MOHA English: Muththuvinayakapuram
+  - Difference classification: Spelling
+- Code: `4412100`
+  - DCS English: Periyaithimadu
+  - MOHA English: Periyaiththimadu
+  - Difference classification: Spelling
+- Code: `4412125`
+  - DCS English: Thaddayarmalai
+  - MOHA English: Thaddayamalai
+  - Difference classification: Spelling
+- Code: `4412130`
+  - DCS English: Thirumurukanndy
+  - MOHA English: Thirumurukandy
+  - Difference classification: Spelling
+- Code: `4412135`
+  - DCS English: Vithyapuram
+  - MOHA English: Vithiyapuram
+  - Difference classification: Spelling
+- Code: `4415020`
+  - DCS English: Chemmalai
+  - MOHA English: Semmalai
+  - Difference classification: Spelling
+- Code: `4415035`
+  - DCS English: Chilawattai South
+  - MOHA English: Silawaththai South
+  - Difference classification: Spelling
+- Code: `4415055`
+  - DCS English: Kanukerny East
+  - MOHA English: Kanukkerni East
+  - Difference classification: Spelling
+- Code: `4415060`
+  - DCS English: Kanukerny West
+  - MOHA English: Kanukkerni West
+  - Difference classification: Spelling
+- Code: `4415065`
+  - DCS English: Karunaddukerny
+  - MOHA English: Karunaddukkerny
+  - Difference classification: Spelling
+- Code: `4415070`
+  - DCS English: Keppapulavu
+  - MOHA English: Keppapilavu
+  - Difference classification: Spelling
+- Code: `4415075`
+  - DCS English: Kokkilai East
+  - MOHA English: Kokkulai East
+  - Difference classification: Spelling
+- Code: `4415080`
+  - DCS English: Kokkilai West
+  - MOHA English: Kokkulai West
+  - Difference classification: Spelling
+- Code: `4415085`
+  - DCS English: Kokuthoduvai Centre
+  - MOHA English: Kokkuththoduvai Centre
+  - Difference classification: Spelling
+- Code: `4415095`
+  - DCS English: Kokuthoduvai South
+  - MOHA English: Kokkuththoduvai South
+  - Difference classification: Spelling
+- Code: `4415185`
+  - DCS English: Neeravippiddy East
+  - MOHA English: Neeravipiddy East
+  - Difference classification: Spelling
+- Code: `4415190`
+  - DCS English: Neeravippiddy West
+  - MOHA English: Neeravipiddy West
+  - Difference classification: Spelling
+- Code: `4503020`
+  - DCS English: Iyakkachchi
+  - MOHA English: Iyakachchi
+  - Difference classification: Spelling
+- Code: `4503030`
+  - DCS English: Kilaly
+  - MOHA English: Kilali
+  - Difference classification: Spelling
+- Code: `4503045`
+  - DCS English: Muhamalai
+  - MOHA English: Mugamalai
+  - Difference classification: Spelling
+- Code: `4503050`
+  - DCS English: Muhavil
+  - MOHA English: Mugavil
+  - Difference classification: Spelling
+- Code: `4503055`
+  - DCS English: Mullaiyadi
+  - MOHA English: Mullaiyady
+  - Difference classification: Spelling
+- Code: `4503080`
+  - DCS English: Thampakamam
+  - MOHA English: Thambagamam
+  - Difference classification: Spelling
+- Code: `4503090`
+  - DCS English: Vempodukerny
+  - MOHA English: Vembodukerny
+  - Difference classification: Spelling
+- Code: `4506045`
+  - DCS English: Piramanthalaru
+  - MOHA English: Piramanthanaru
+  - Difference classification: Spelling
+- Code: `4509010`
+  - DCS English: Ambalkulam
+  - MOHA English: Ampalkulam
+  - Difference classification: Spelling
+- Code: `4509015`
+  - DCS English: Ambalnagar
+  - MOHA English: Ampalnakar
+  - Difference classification: Spelling
+- Code: `4509020`
+  - DCS English: Anaivilunthankulam
+  - MOHA English: Anaivilunthaankulam
+  - Difference classification: Spelling
+- Code: `4509025`
+  - DCS English: Anandapuram
+  - MOHA English: Ananthapuram
+  - Difference classification: Spelling
+- Code: `4509030`
+  - DCS English: Civic Centre
+  - MOHA English: Civic Center
+  - Difference classification: Spelling
+- Code: `4509040`
+  - DCS English: Kanagambigaikulam
+  - MOHA English: Kanagambikaykulam
+  - Difference classification: Spelling
+- Code: `4509050`
+  - DCS English: Kaneshapuram
+  - MOHA English: Ganeshapuram
+  - Difference classification: Spelling
+- Code: `4509055`
+  - DCS English: Kannagaipuram
+  - MOHA English: Kannakai puram
+  - Difference classification: Spelling
+- Code: `4509080`
+  - DCS English: Maruthanagar
+  - MOHA English: Maruthanakar
+  - Difference classification: Spelling
+- Code: `4509095`
+  - DCS English: Pannakandy
+  - MOHA English: Pannankandy
+  - Difference classification: Spelling
+- Code: `4509100`
+  - DCS English: Barathypuram
+  - MOHA English: Barathi puram
+  - Difference classification: Spelling
+- Code: `4509130`
+  - DCS English: Selvanagar
+  - MOHA English: Selvanakar
+  - Difference classification: Spelling
+- Code: `4509135`
+  - DCS English: Sivanagar
+  - MOHA English: Sivanakar
+  - Difference classification: Spelling
+- Code: `4509155`
+  - DCS English: Thiruvaiaru
+  - MOHA English: Thiruvaiyaru
+  - Difference classification: Spelling
+- Code: `4509160`
+  - DCS English: Thiruvaiaru West
+  - MOHA English: Thiruvaiyaru West
+  - Difference classification: Spelling
+- Code: `4509170`
+  - DCS English: Uruththirapuram East
+  - MOHA English: Uruthirapuram East
+  - Difference classification: Spelling
+- Code: `4509175`
+  - DCS English: Urithirapuram North
+  - MOHA English: Uruththiram puram North
+  - Difference classification: Spelling
+- Code: `4509180`
+  - DCS English: Uruththirapuram West
+  - MOHA English: Uruthirapuram West
+  - Difference classification: Spelling
+- Code: `4509210`
+  - DCS English: Vivehananthanagar
+  - MOHA English: Vivegananthanagar
+  - Difference classification: Spelling
+- Code: `4512005`
+  - DCS English: Alankerni
+  - MOHA English: Alankerny
+  - Difference classification: Spelling
+- Code: `4512010`
+  - DCS English: Cheddiakurichchi
+  - MOHA English: Cheddiyakurichchi
+  - Difference classification: Spelling
+- Code: `4512030`
+  - DCS English: Jayapuram South
+  - MOHA English: Jeyapuram South
+  - Difference classification: Spelling
+- Code: `4512050`
+  - DCS English: Kowtharimunai
+  - MOHA English: Gowtharimunai
+  - Difference classification: Spelling
+- Code: `4512070`
+  - DCS English: Nachchikkuda
+  - MOHA English: Nachchikuda
+  - Difference classification: Spelling
+- Code: `5103005`
+  - DCS English: Kathiraveli
+  - MOHA English: Kathiravely
+  - Difference classification: Spelling
+- Code: `5103010`
+  - DCS English: Ammanthanaaveli
+  - MOHA English: Ammanthanavely
+  - Difference classification: Spelling
+- Code: `5103060`
+  - DCS English: Kirimichai
+  - MOHA English: Kirmichai
+  - Difference classification: Spelling
+- Code: `5109005`
+  - DCS English: Nasivanthivu
+  - MOHA English: Nasivanthivu - 205C
+  - Difference classification: Spelling
+- Code: `5109010`
+  - DCS English: Valachchenai Tamil
+  - MOHA English: Valaichenai Tamil
+  - Difference classification: Spelling
+- Code: `5109020`
+  - DCS English: Peththalai
+  - MOHA English: Pethalai
+  - Difference classification: Spelling
+- Code: `5109040`
+  - DCS English: Kumburumulai
+  - MOHA English: Kumburumoolai
+  - Difference classification: Spelling
+- Code: `5109050`
+  - DCS English: Kinnayadi
+  - MOHA English: Kanniyadi #
+  - Difference classification: Spelling
+- Code: `5112030`
+  - DCS English: Mavadivembu 1
+  - MOHA English: Mavadivembu I
+  - Difference classification: Spelling
+- Code: `5112035`
+  - DCS English: Kaluvankerny 1
+  - MOHA English: Kaluvankerny I
+  - Difference classification: Spelling
+- Code: `5112080`
+  - DCS English: Mailavaddavan
+  - MOHA English: Mayilavaddavan
+  - Difference classification: Spelling
+- Code: `5112145`
+  - DCS English: Arumugathan Kudiyiruppu 1
+  - MOHA English: ArumugathanKudiruppu 1
+  - Difference classification: Spelling
+- Code: `5112160`
+  - DCS English: Vepavedduwan
+  - MOHA English: Veppavedduwan
+  - Difference classification: Spelling
+- Code: `5112195`
+  - DCS English: Gemunupura
+  - MOHA English: Gamunupura
+  - Difference classification: Spelling
+- Code: `5118045`
+  - DCS English: Sinna Oorani
+  - MOHA English: Sinna Urane
+  - Difference classification: Spelling
+- Code: `5118060`
+  - DCS English: Mamangam
+  - MOHA English: Mamagam
+  - Difference classification: Spelling
+- Code: `5118065`
+  - DCS English: Koolavadi
+  - MOHA English: Koolavady
+  - Difference classification: Spelling
+- Code: `5118085`
+  - DCS English: Dutch Bar
+  - MOHA English: Datch Bar
+  - Difference classification: Spelling
+- Code: `5118110`
+  - DCS English: Periya Oorani
+  - MOHA English: Periya Urani
+  - Difference classification: Spelling
+- Code: `5118120`
+  - DCS English: Vettukkadu
+  - MOHA English: Veddukkadu
+  - Difference classification: Spelling
+- Code: `5118125`
+  - DCS English: Barathipuram
+  - MOHA English: Barathypuram
+  - Difference classification: Spelling
+- Code: `5118130`
+  - DCS English: Thandavanveli
+  - MOHA English: Thandavanvely
+  - Difference classification: Spelling
+- Code: `5118135`
+  - DCS English: Arasadi
+  - MOHA English: Arasady
+  - Difference classification: Spelling
+- Code: `5118190`
+  - DCS English: Thiruperunthurai
+  - MOHA English: Thirupperunthurai
+  - Difference classification: Spelling
+- Code: `5118200`
+  - DCS English: Seththukudah
+  - MOHA English: Sethukudah
+  - Difference classification: Spelling
+- Code: `5121015`
+  - DCS English: Karaveddi
+  - MOHA English: Karaveddy
+  - Difference classification: Spelling
+- Code: `5121025`
+  - DCS English: Naavatkaadu
+  - MOHA English: Navatkadu
+  - Difference classification: Spelling
+- Code: `5121030`
+  - DCS English: Echchantivu
+  - MOHA English: Eachchantheivu
+  - Difference classification: Spelling
+- Code: `5121040`
+  - DCS English: Vavunativu
+  - MOHA English: Vavunatheivu
+  - Difference classification: Spelling
+- Code: `5121060`
+  - DCS English: Pavatkodichenai
+  - MOHA English: Pavakkodichenai
+  - Difference classification: Spelling
+- Code: `5121065`
+  - DCS English: Kurinchaamunai
+  - MOHA English: Kurinchamunai
+  - Difference classification: Spelling
+- Code: `5121070`
+  - DCS English: Paruththichenai
+  - MOHA English: Paruthichenai
+  - Difference classification: Spelling
+- Code: `5121075`
+  - DCS English: Kannakudah
+  - MOHA English: Kannankudah
+  - Difference classification: Spelling
+- Code: `5121080`
+  - DCS English: Mandapathadi
+  - MOHA English: Mandapathady
+  - Difference classification: Spelling
+- Code: `5121085`
+  - DCS English: Karaiyakkantivu
+  - MOHA English: Karayakkanteivu
+  - Difference classification: Spelling
+- Code: `5121090`
+  - DCS English: Puthumandapaththadi
+  - MOHA English: Puthumandapathady
+  - Difference classification: Spelling
+- Code: `5121095`
+  - DCS English: Kaanthinagar
+  - MOHA English: Kanthinagar
+  - Difference classification: Spelling
+- Code: `5121100`
+  - DCS English: Unnichchi
+  - MOHA English: Unnichchei
+  - Difference classification: Spelling
+- Code: `5121110`
+  - DCS English: Illuppadichenai
+  - MOHA English: Ilupadichenai
+  - Difference classification: Spelling
+- Code: `5121115`
+  - DCS English: Koththiyapulai
+  - MOHA English: Kothiyapulai
+  - Difference classification: Spelling
+- Code: `5121120`
+  - DCS English: Kaanchirankudah
+  - MOHA English: Kanchirankudah
+  - Difference classification: Spelling
+- Code: `5124025`
+  - DCS English: New Kattankudy Division North
+  - MOHA English: New Kattankudy Div. North
+  - Difference classification: Spelling
+- Code: `5127080`
+  - DCS English: Araipattai 3
+  - MOHA English: Araipatti 03
+  - Difference classification: Spelling
+- Code: `5127085`
+  - DCS English: Rajadurai Kiramam
+  - MOHA English: Rajathurai Gramam
+  - Difference classification: Spelling
+- Code: `5127100`
+  - DCS English: Araipattai Central
+  - MOHA English: Araipatti Central
+  - Difference classification: Spelling
+- Code: `5127105`
+  - DCS English: Araipattai 2
+  - MOHA English: Araipatti 02
+  - Difference classification: Spelling
+- Code: `5127120`
+  - DCS English: Araipattai East
+  - MOHA English: Araipattay East
+  - Difference classification: Spelling
+- Code: `5130005`
+  - DCS English: Munaikkadu West
+  - MOHA English: Munaikkadu West Part
+  - Difference classification: Spelling
+- Code: `5130015`
+  - DCS English: Munaikkadu East
+  - MOHA English: Munaikadu East
+  - Difference classification: Spelling
+- Code: `5130030`
+  - DCS English: Mahiladitivu
+  - MOHA English: Mahiladithivu
+  - Difference classification: Spelling
+- Code: `5130055`
+  - DCS English: Pandariyaveli
+  - MOHA English: Pandariyavelly
+  - Difference classification: Spelling
+- Code: `5133015`
+  - DCS English: Thumpankerni (Y.F.S)
+  - MOHA English: Thumpankerny (Y.F.S.)
+  - Difference classification: Spelling
+- Code: `5133020`
+  - DCS English: Kalumunthanveli
+  - MOHA English: Kalumunthanvely
+  - Difference classification: Spelling
+- Code: `5133040`
+  - DCS English: Palugaamam I
+  - MOHA English: Paluhamam I
+  - Difference classification: Spelling
+- Code: `5133045`
+  - DCS English: Palugaamam II
+  - MOHA English: Palugamam 02
+  - Difference classification: Spelling
+- Code: `5133050`
+  - DCS English: Vanninagar
+  - MOHA English: Vanninakar
+  - Difference classification: Spelling
+- Code: `5133075`
+  - DCS English: Navakirinagar
+  - MOHA English: Navagirinagar
+  - Difference classification: Spelling
+- Code: `5133085`
+  - DCS English: Paalaiyadivaddai
+  - MOHA English: Palayadivaddai
+  - Difference classification: Spelling
+- Code: `5133105`
+  - DCS English: Punnakkulam
+  - MOHA English: Punnakulam
+  - Difference classification: Spelling
+- Code: `5133125`
+  - DCS English: Paddaapuram
+  - MOHA English: Pattapuram
+  - Difference classification: Spelling
+- Code: `5133140`
+  - DCS English: Mandur 1 &2 South
+  - MOHA English: Mandur 1 and 2 South
+  - Difference classification: Spelling
+- Code: `5133145`
+  - DCS English: Mandur Koddaimunai
+  - MOHA English: Mandur Kodamunai
+  - Difference classification: Spelling
+- Code: `5133160`
+  - DCS English: Paalamunai
+  - MOHA English: Palamunai
+  - Difference classification: Spelling
+- Code: `5133165`
+  - DCS English: Thambalawatta
+  - MOHA English: Thambalawaththai
+  - Difference classification: Spelling
+- Code: `5133175`
+  - DCS English: Shangarpuram
+  - MOHA English: Sankarpuram
+  - Difference classification: Spelling
+- Code: `5133180`
+  - DCS English: Palachcholai
+  - MOHA English: Palacholai
+  - Difference classification: Spelling
+- Code: `5133185`
+  - DCS English: Kaakkachchivaddai
+  - MOHA English: Kakkachchivattai
+  - Difference classification: Spelling
+- Code: `5133200`
+  - DCS English: Sinnawattai
+  - MOHA English: Sinnawaththai
+  - Difference classification: Spelling
+- Code: `5133205`
+  - DCS English: Maalaiyarkaddu
+  - MOHA English: Malayarkaddu
+  - Difference classification: Spelling
+- Code: `5133215`
+  - DCS English: Raanamadu
+  - MOHA English: Ranamadu
+  - Difference classification: Spelling
+- Code: `5136020`
+  - DCS English: Cheddipalayalam South
+  - MOHA English: Cheddipalayam South
+  - Difference classification: Spelling
+- Code: `5136025`
+  - DCS English: Mankadu
+  - MOHA English: Mangkaadu
+  - Difference classification: Spelling
+- Code: `5136035`
+  - DCS English: Thettathivu South
+  - MOHA English: Thettaththeevu South
+  - Difference classification: Spelling
+- Code: `5136040`
+  - DCS English: Thettathivu South 2
+  - MOHA English: Thethatheevu South - 02
+  - Difference classification: Spelling
+- Code: `5136050`
+  - DCS English: Kaluthawalai 1
+  - MOHA English: Kaluthavalai 01
+  - Difference classification: Spelling
+- Code: `5136055`
+  - DCS English: Kaluthawalai Central
+  - MOHA English: Kaluthavalai Central
+  - Difference classification: Spelling
+- Code: `5136060`
+  - DCS English: Kaluthawalai 2
+  - MOHA English: Kaluthavalai 02
+  - Difference classification: Spelling
+- Code: `5136065`
+  - DCS English: Kaluthawalai 3
+  - MOHA English: Kaluthavalai 03
+  - Difference classification: Spelling
+- Code: `5136070`
+  - DCS English: Kaluthawalai 4
+  - MOHA English: Kaluthavalai 04
+  - Difference classification: Spelling
+- Code: `5136105`
+  - DCS English: Onthachimadam North
+  - MOHA English: Ondachchimadam North
+  - Difference classification: Spelling
+- Code: `5136120`
+  - DCS English: Kurumanvely 11West
+  - MOHA English: Kurumanvelly 11 West
+  - Difference classification: Spelling
+- Code: `5136150`
+  - DCS English: Onthachimadam South
+  - MOHA English: Ondachchimadam South
+  - Difference classification: Spelling
+- Code: `5136180`
+  - DCS English: Periyakallar 1
+  - MOHA English: Periyakallar 01
+  - Difference classification: Spelling
+- Code: `5136185`
+  - DCS English: Periyakallar 1 South
+  - MOHA English: Periyakallaru 01 South
+  - Difference classification: Spelling
+- Code: `5136195`
+  - DCS English: Periyakallar 2
+  - MOHA English: Periyakallaru 2
+  - Difference classification: Spelling
+- Code: `5136215`
+  - DCS English: Thuraineelavanai North 1
+  - MOHA English: Thuraineelavanai North - 01
+  - Difference classification: Spelling
+- Code: `5136225`
+  - DCS English: Thuraineelavanai South1
+  - MOHA English: Thuraineelavanai South - 01
+  - Difference classification: Spelling
+- Code: `5203005`
+  - DCS English: Rideela
+  - MOHA English: Ridee Ela
+  - Difference classification: Spelling
+- Code: `5209030`
+  - DCS English: Iddapola
+  - MOHA English: Eddapola
+  - Difference classification: Spelling
+- Code: `5209035`
+  - DCS English: Thepelpola
+  - MOHA English: Thapelpola
+  - Difference classification: Spelling
+- Code: `5212085`
+  - DCS English: Walagampura
+  - MOHA English: Walgampura
+  - Difference classification: Spelling
+- Code: `5212090`
+  - DCS English: Verenketagoda
+  - MOHA English: Weeranketagoda
+  - Difference classification: Spelling
+- Code: `5212120`
+  - DCS English: Gemunupura
+  - MOHA English: Gamunupura
+  - Difference classification: Spelling
+- Code: `5212185`
+  - DCS English: Velikahagolla
+  - MOHA English: Welikahagolla
+  - Difference classification: Spelling
+- Code: `5212230`
+  - DCS English: Dadayanthalawa West
+  - MOHA English: Dadayamthalawa West
+  - Difference classification: Spelling
+- Code: `5212235`
+  - DCS English: Dadayanthalawa East
+  - MOHA English: Dadayamthalawa East
+  - Difference classification: Spelling
+- Code: `5212240`
+  - DCS English: Wijayapura East
+  - MOHA English: Vijayapura East
+  - Difference classification: Spelling
+- Code: `5212245`
+  - DCS English: Wijayapura West
+  - MOHA English: Vijayapura West
+  - Difference classification: Spelling
+- Code: `5215090`
+  - DCS English: Namaloya (ii)
+  - MOHA English: Namal Oya 02
+  - Difference classification: Spelling
+- Code: `5216035`
+  - DCS English: Chalambaikerny 03
+  - MOHA English: Chalambaikeny 03
+  - Difference classification: Spelling
+- Code: `5216040`
+  - DCS English: Chalambaikerny 04
+  - MOHA English: Chalampakeny 04
+  - Difference classification: Spelling
+- Code: `5216045`
+  - DCS English: Chalambaikerny 05
+  - MOHA English: Chalampakeny 05
+  - Difference classification: Spelling
+- Code: `5216050`
+  - DCS English: Chalambaikerny 01
+  - MOHA English: Chalampakeny 01
+  - Difference classification: Spelling
+- Code: `5216060`
+  - DCS English: Sorikalmunai 03
+  - MOHA English: Sorrikkalmunai 3
+  - Difference classification: Spelling
+- Code: `5216065`
+  - DCS English: Sorikalmunai 01
+  - MOHA English: Sorrikkalmunai 1
+  - Difference classification: Spelling
+- Code: `5216070`
+  - DCS English: Sorikalmunai 02
+  - MOHA English: Sorrikkalmunai 2
+  - Difference classification: Spelling
+- Code: `5216100`
+  - DCS English: Annamalai 01
+  - MOHA English: Annamale 01
+  - Difference classification: Spelling
+- Code: `5218020`
+  - DCS English: Sammanthurai Tamil Division 01
+  - MOHA English: Sammanthurai Tamil Div.01
+  - Difference classification: Spelling
+- Code: `5218025`
+  - DCS English: Sammanthurai Tamil Division 04
+  - MOHA English: Sammanthurai Tamil Div.04
+  - Difference classification: Spelling
+- Code: `5218030`
+  - DCS English: Sammanthurai Tamil Division 02
+  - MOHA English: Sammanthurai Tamil Div.02
+  - Difference classification: Spelling
+- Code: `5218090`
+  - DCS English: Sammanthurai Tamil Division 03
+  - MOHA English: Sammanthurai Tamil Div.03
+  - Difference classification: Spelling
+- Code: `5224005`
+  - DCS English: Periyaneelavanai Muslim Section
+  - MOHA English: Periyaneelavanai Muslim Section 01
+  - Difference classification: Spelling
+- Code: `5224010`
+  - DCS English: Periyaneelavanai Muslim Section
+  - MOHA English: Periyaneelavanai Muslim Section 02
+  - Difference classification: Spelling
+- Code: `5224080`
+  - DCS English: Kalmunaikudi 01
+  - MOHA English: Kalmunaikudy 01
+  - Difference classification: Spelling
+- Code: `5224085`
+  - DCS English: Kalmunaikudi 03
+  - MOHA English: Kalmunaikudy 03
+  - Difference classification: Spelling
+- Code: `5224090`
+  - DCS English: Kalmunaikudi 02
+  - MOHA English: Kalmunaikudy 02
+  - Difference classification: Spelling
+- Code: `5224095`
+  - DCS English: Kalmunaikudi 04
+  - MOHA English: Kalmunaikudy 04
+  - Difference classification: Spelling
+- Code: `5224100`
+  - DCS English: Kalmunaikudi 05
+  - MOHA English: Kalmunaikudy 05
+  - Difference classification: Spelling
+- Code: `5224105`
+  - DCS English: Kalmunaikudi 06
+  - MOHA English: Kalmunaikudy 06
+  - Difference classification: Spelling
+- Code: `5224110`
+  - DCS English: Kalmunaikudi 08
+  - MOHA English: Kalmunaikudy 08
+  - Difference classification: Spelling
+- Code: `5224115`
+  - DCS English: Kalmunaikudi 09
+  - MOHA English: Kalmunaikudy 09
+  - Difference classification: Spelling
+- Code: `5224120`
+  - DCS English: Kalmunaikudi 07
+  - MOHA English: Kalmunaikudy 07
+  - Difference classification: Spelling
+- Code: `5224125`
+  - DCS English: Kalmunaikudi 10
+  - MOHA English: Kalmunaikudy 10
+  - Difference classification: Spelling
+- Code: `5224130`
+  - DCS English: Kalmunaikudi 11
+  - MOHA English: Kalmunaikudy 11
+  - Difference classification: Spelling
+- Code: `5224135`
+  - DCS English: Kalmunaikudi 12
+  - MOHA English: Kalmunaikudy 12
+  - Difference classification: Spelling
+- Code: `5224140`
+  - DCS English: Kalmunaikudi 13
+  - MOHA English: Kalmunaikudy 13
+  - Difference classification: Spelling
+- Code: `5224145`
+  - DCS English: Kalmunaikudi 14
+  - MOHA English: Kalmunaikudy 14
+  - Difference classification: Spelling
+- Code: `5225005`
+  - DCS English: Sainthamaruthu 01
+  - MOHA English: Sainthamaruthu 1
+  - Difference classification: Spelling
+- Code: `5225010`
+  - DCS English: Sainthamaruthu 02
+  - MOHA English: Sainthamaruthu 2
+  - Difference classification: Spelling
+- Code: `5225015`
+  - DCS English: Sainthamaruthu 03
+  - MOHA English: Sainthamaruthu 3
+  - Difference classification: Spelling
+- Code: `5225020`
+  - DCS English: Sainthamaruthu 04
+  - MOHA English: Sainthamaruthu 4
+  - Difference classification: Spelling
+- Code: `5225025`
+  - DCS English: Sainthamaruthu 05
+  - MOHA English: Sainthamaruthu 5
+  - Difference classification: Spelling
+- Code: `5225030`
+  - DCS English: Sainthamaruthu 06
+  - MOHA English: Sainthamaruthu 6
+  - Difference classification: Spelling
+- Code: `5225035`
+  - DCS English: Sainthamaruthu 07
+  - MOHA English: Sainthamaruthu 7
+  - Difference classification: Spelling
+- Code: `5225040`
+  - DCS English: Sainthamaruthu 08
+  - MOHA English: Sainthamaruthu 8
+  - Difference classification: Spelling
+- Code: `5225045`
+  - DCS English: Sainthamaruthu 09
+  - MOHA English: Sainthamaruthu 9
+  - Difference classification: Spelling
+- Code: `5227005`
+  - DCS English: Mavadipalli West
+  - MOHA English: Mavadippalli West
+  - Difference classification: Spelling
+- Code: `5227010`
+  - DCS English: Mavadipalli East
+  - MOHA English: Mavadippalli East
+  - Difference classification: Spelling
+- Code: `5227030`
+  - DCS English: Karaitheevu 03
+  - MOHA English: Karaitivu 03
+  - Difference classification: Spelling
+- Code: `5227035`
+  - DCS English: Karaitheevu 02
+  - MOHA English: Karaitivu 02
+  - Difference classification: Spelling
+- Code: `5227040`
+  - DCS English: Karaitheevu 01
+  - MOHA English: Karaitivu 01
+  - Difference classification: Spelling
+- Code: `5227045`
+  - DCS English: Karaitheevu 06
+  - MOHA English: Karaitivu 06
+  - Difference classification: Spelling
+- Code: `5227050`
+  - DCS English: Karaitheevu 05
+  - MOHA English: Karaitivu 05
+  - Difference classification: Spelling
+- Code: `5227055`
+  - DCS English: Karaitheevu 04
+  - MOHA English: Karaitivu 04
+  - Difference classification: Spelling
+- Code: `5227060`
+  - DCS English: Karaitheevu 08
+  - MOHA English: Karaitivu 08
+  - Difference classification: Spelling
+- Code: `5227065`
+  - DCS English: Karaitheevu 07
+  - MOHA English: Karaitivu 07
+  - Difference classification: Spelling
+- Code: `5227070`
+  - DCS English: Karaitheevu 10
+  - MOHA English: Karaitivu 10
+  - Difference classification: Spelling
+- Code: `5227075`
+  - DCS English: Karaitheevu 09
+  - MOHA English: Karaitivu 09
+  - Difference classification: Spelling
+- Code: `5227080`
+  - DCS English: Karaitheevu 11
+  - MOHA English: Karaitivu 11
+  - Difference classification: Spelling
+- Code: `5227085`
+  - DCS English: Karaitheevu 12
+  - MOHA English: Karaitivu 12
+  - Difference classification: Spelling
+- Code: `5230005`
+  - DCS English: Ninthavur 24
+  - MOHA English: Nintavur 24
+  - Difference classification: Spelling
+- Code: `5230010`
+  - DCS English: Ninthavur 11
+  - MOHA English: Nintavur 11
+  - Difference classification: Spelling
+- Code: `5230015`
+  - DCS English: Ninthavur 12
+  - MOHA English: Nintavur 12
+  - Difference classification: Spelling
+- Code: `5230020`
+  - DCS English: Ninthavur 01
+  - MOHA English: Nintavur 01
+  - Difference classification: Spelling
+- Code: `5230025`
+  - DCS English: Ninthavur 02
+  - MOHA English: Nintavur 02
+  - Difference classification: Spelling
+- Code: `5230030`
+  - DCS English: Ninthavur 13
+  - MOHA English: Nintavur 13
+  - Difference classification: Spelling
+- Code: `5230035`
+  - DCS English: Ninthavur 14
+  - MOHA English: Nintavur 14
+  - Difference classification: Spelling
+- Code: `5230040`
+  - DCS English: Ninthavur 15
+  - MOHA English: Nintavur 15
+  - Difference classification: Spelling
+- Code: `5230045`
+  - DCS English: Ninthavur 03
+  - MOHA English: Nintavur 03
+  - Difference classification: Spelling
+- Code: `5230050`
+  - DCS English: Ninthavur 04
+  - MOHA English: Nintavur 04
+  - Difference classification: Spelling
+- Code: `5230055`
+  - DCS English: Ninthavur 16
+  - MOHA English: Nintavur 16
+  - Difference classification: Spelling
+- Code: `5230060`
+  - DCS English: Ninthavur 17
+  - MOHA English: Nintavur 17
+  - Difference classification: Spelling
+- Code: `5230065`
+  - DCS English: Ninthavur 18
+  - MOHA English: Nintavur 18
+  - Difference classification: Spelling
+- Code: `5230070`
+  - DCS English: Ninthavur 05
+  - MOHA English: Nintavur 05
+  - Difference classification: Spelling
+- Code: `5230075`
+  - DCS English: Ninthavur 06
+  - MOHA English: Nintavur 06
+  - Difference classification: Spelling
+- Code: `5230080`
+  - DCS English: Ninthavur 19
+  - MOHA English: Nintavur 19
+  - Difference classification: Spelling
+- Code: `5230085`
+  - DCS English: Ninthavur 25
+  - MOHA English: Nintavur 25
+  - Difference classification: Spelling
+- Code: `5230090`
+  - DCS English: Ninthavur 20
+  - MOHA English: Nintavur 20
+  - Difference classification: Spelling
+- Code: `5230095`
+  - DCS English: Ninthavur 07
+  - MOHA English: Nintavur 07
+  - Difference classification: Spelling
+- Code: `5230100`
+  - DCS English: Ninthavur 08
+  - MOHA English: Nintavur 08
+  - Difference classification: Spelling
+- Code: `5230105`
+  - DCS English: Ninthavur 21
+  - MOHA English: Nintavur 21
+  - Difference classification: Spelling
+- Code: `5230110`
+  - DCS English: Ninthavur 22
+  - MOHA English: Nintavur 22
+  - Difference classification: Spelling
+- Code: `5230115`
+  - DCS English: Ninthavur 09
+  - MOHA English: Nintavur 09
+  - Difference classification: Spelling
+- Code: `5230120`
+  - DCS English: Ninthavur 10
+  - MOHA English: Nintavur 10
+  - Difference classification: Spelling
+- Code: `5230125`
+  - DCS English: Ninthavur 23
+  - MOHA English: Nintavur 23
+  - Difference classification: Spelling
+- Code: `5233005`
+  - DCS English: Deeghawapiya 01
+  - MOHA English: Deegawapi-01
+  - Difference classification: Spelling
+- Code: `5233040`
+  - DCS English: Palamuna 06
+  - MOHA English: Palamunai-06
+  - Difference classification: Spelling
+- Code: `5233050`
+  - DCS English: Palamuna 02
+  - MOHA English: Palamunai-02
+  - Difference classification: Spelling
+- Code: `5233055`
+  - DCS English: Palamuna 01
+  - MOHA English: Palamunai-01
+  - Difference classification: Spelling
+- Code: `5233060`
+  - DCS English: Palamuna 03
+  - MOHA English: Palamunai 03
+  - Difference classification: Spelling
+- Code: `5233065`
+  - DCS English: Palamuna 04
+  - MOHA English: Palamunai-04
+  - Difference classification: Spelling
+- Code: `5233070`
+  - DCS English: Palamuna 05
+  - MOHA English: Palamunai 05
+  - Difference classification: Spelling
+- Code: `5233075`
+  - DCS English: Addalachchenai 02
+  - MOHA English: Addalaichenai 02
+  - Difference classification: Spelling
+- Code: `5233080`
+  - DCS English: Addalachchenai 09
+  - MOHA English: Addalaichenai 09
+  - Difference classification: Spelling
+- Code: `5233085`
+  - DCS English: Addalachchenai 10
+  - MOHA English: Addalaichenai 10
+  - Difference classification: Spelling
+- Code: `5233090`
+  - DCS English: Addalachchenai 08
+  - MOHA English: Addalaichenai 08
+  - Difference classification: Spelling
+- Code: `5233095`
+  - DCS English: Addalachchenai 06
+  - MOHA English: Addalaichenai 06
+  - Difference classification: Spelling
+- Code: `5233100`
+  - DCS English: Addalachchenai 01
+  - MOHA English: Addalaichenai 01
+  - Difference classification: Spelling
+- Code: `5233105`
+  - DCS English: Addalachchenai 11
+  - MOHA English: Addalaichenai 11
+  - Difference classification: Spelling
+- Code: `5233110`
+  - DCS English: Addalachchenai 03
+  - MOHA English: Addalaichenai 03
+  - Difference classification: Spelling
+- Code: `5233115`
+  - DCS English: Addalachchenai 07
+  - MOHA English: Addalaichenai 07
+  - Difference classification: Spelling
+- Code: `5233120`
+  - DCS English: Addalachchenai 12
+  - MOHA English: Addalaichenai 12
+  - Difference classification: Spelling
+- Code: `5233125`
+  - DCS English: Addalachchenai 14
+  - MOHA English: Addalaichenai 14
+  - Difference classification: Spelling
+- Code: `5233130`
+  - DCS English: Addalachchenai 13
+  - MOHA English: Addalaichenai 13
+  - Difference classification: Spelling
+- Code: `5233135`
+  - DCS English: Addalachchenai 04
+  - MOHA English: Addalaichenai 04
+  - Difference classification: Spelling
+- Code: `5233140`
+  - DCS English: Addalachchenai 15
+  - MOHA English: Addalaichenai 15
+  - Difference classification: Spelling
+- Code: `5233145`
+  - DCS English: Addalachchenai 16
+  - MOHA English: Addalaichenai 16
+  - Difference classification: Spelling
+- Code: `5233150`
+  - DCS English: Addalachchenai 05
+  - MOHA English: Addalaichenai 05
+  - Difference classification: Spelling
+- Code: `5233155`
+  - DCS English: Addalachchenai 17
+  - MOHA English: Addalaichenai 17
+  - Difference classification: Spelling
+- Code: `5233160`
+  - DCS English: Deeghawapiya 02
+  - MOHA English: Deegawapiya 02
+  - Difference classification: Spelling
+- Code: `5236020`
+  - DCS English: Paddyadippiddy
+  - MOHA English: Paddiyadippiddy
+  - Difference classification: Spelling
+- Code: `5236025`
+  - DCS English: Akkaraipattu 06
+  - MOHA English: Akkaraipattu-6
+  - Difference classification: Spelling
+- Code: `5236030`
+  - DCS English: Akkaraipattu 05
+  - MOHA English: Akkaraipattu-5
+  - Difference classification: Spelling
+- Code: `5236035`
+  - DCS English: Akkaraipattu 04
+  - MOHA English: Akkaraipattu-4
+  - Difference classification: Spelling
+- Code: `5236070`
+  - DCS English: Akkaraipattu 01
+  - MOHA English: Akkaraipattu-1
+  - Difference classification: Spelling
+- Code: `5236075`
+  - DCS English: Town Division 03
+  - MOHA English: Town Division-3
+  - Difference classification: Spelling
+- Code: `5236085`
+  - DCS English: Town Division 02
+  - MOHA English: Town Division-2
+  - Difference classification: Spelling
+- Code: `5236090`
+  - DCS English: Akkaraipattu 02
+  - MOHA English: Akkaraipattu-2
+  - Difference classification: Spelling
+- Code: `5236095`
+  - DCS English: Akkaraipattu 03
+  - MOHA English: Akkaraipattu-3
+  - Difference classification: Spelling
+- Code: `5236120`
+  - DCS English: Pallikudiyiruppu 01
+  - MOHA English: Pallikudiyiruppu-1
+  - Difference classification: Spelling
+- Code: `5236130`
+  - DCS English: Town Division 01
+  - MOHA English: Town Division-1
+  - Difference classification: Spelling
+- Code: `5236135`
+  - DCS English: Town Division 05
+  - MOHA English: Town Division-5
+  - Difference classification: Spelling
+- Code: `5236140`
+  - DCS English: Town Division 04
+  - MOHA English: Town Division-4
+  - Difference classification: Spelling
+- Code: `5239035`
+  - DCS English: Vachchikuda
+  - MOHA English: Wachchikuda
+  - Difference classification: Spelling
+- Code: `5239040`
+  - DCS English: Kannahikiramam 01
+  - MOHA English: Kannakikiramam 01
+  - Difference classification: Spelling
+- Code: `5239095`
+  - DCS English: Panankadu
+  - MOHA English: Panamkadu
+  - Difference classification: Spelling
+- Code: `5239100`
+  - DCS English: Sinna Panankadu
+  - MOHA English: Sinnapanamkadu
+  - Difference classification: Spelling
+- Code: `5239105`
+  - DCS English: Kannahikiramam 02
+  - MOHA English: Kannakikiramam 02
+  - Difference classification: Spelling
+- Code: `5242100`
+  - DCS English: Ekgaloya
+  - MOHA English: Eggaloya
+  - Difference classification: Spelling
+- Code: `5245030`
+  - DCS English: Sangamam
+  - MOHA English: Sagamam
+  - Difference classification: Spelling
+- Code: `5245065`
+  - DCS English: Vinayagapuram 4
+  - MOHA English: Vinayagapuram04
+  - Difference classification: Spelling
+- Code: `5245070`
+  - DCS English: Vinayagapuram 1
+  - MOHA English: Vinayagapuram-01
+  - Difference classification: Spelling
+- Code: `5245075`
+  - DCS English: Vinayagapuram 2
+  - MOHA English: Vinayagapuram-02
+  - Difference classification: Spelling
+- Code: `5245090`
+  - DCS English: Kanchikudicharu
+  - MOHA English: Kanchikudiyaru
+  - Difference classification: Spelling
+- Code: `5245095`
+  - DCS English: Vinayagapuram 3
+  - MOHA English: Vinayagapuram-03
+  - Difference classification: Spelling
+- Code: `5245100`
+  - DCS English: Sangamangramam
+  - MOHA English: Sangamankiramam
+  - Difference classification: Spelling
+- Code: `5245110`
+  - DCS English: Thangavelayudapuram
+  - MOHA English: Thangavelayuthapuram
+  - Difference classification: Spelling
+- Code: `5248010`
+  - DCS English: Sinna Ullai
+  - MOHA English: Sinna Ulla
+  - Difference classification: Spelling
+- Code: `5248015`
+  - DCS English: Sinna Puthukudiyiruppu
+  - MOHA English: Sinna Puthukudiruppu
+  - Difference classification: Spelling
+- Code: `5248020`
+  - DCS English: Victor Estate 2
+  - MOHA English: Victor Estate Unit 2
+  - Difference classification: Spelling
+- Code: `5248030`
+  - DCS English: Victor Estate 1
+  - MOHA English: Victor Estate Unit 1
+  - Difference classification: Spelling
+- Code: `5248035`
+  - DCS English: Rasak Moulana Nagar
+  - MOHA English: Razak Moulana Nagar
+  - Difference classification: Spelling
+- Code: `5248040`
+  - DCS English: Sarvodayapuram
+  - MOHA English: Sarvothayapuram
+  - Difference classification: Spelling
+- Code: `5248070`
+  - DCS English: Pothuvil Town
+  - MOHA English: Pottuvil Town
+  - Difference classification: Spelling
+- Code: `5248075`
+  - DCS English: Pakkiyawatta 1
+  - MOHA English: Pakkiyawatta Unit 1
+  - Difference classification: Spelling
+- Code: `5248090`
+  - DCS English: Kalappukaddu
+  - MOHA English: Kalappukattu
+  - Difference classification: Spelling
+- Code: `5248110`
+  - DCS English: Kanagarkiramam
+  - MOHA English: Kanakar Kiramam
+  - Difference classification: Spelling
+- Code: `5248120`
+  - DCS English: Pothuvil 01/Unit I
+  - MOHA English: Pottuvil 01 - Unit I
+  - Difference classification: Spelling
+- Code: `5248135`
+  - DCS English: Pothuvil 02/Unit I
+  - MOHA English: Pottuvil 02 - Unit 1
+  - Difference classification: Spelling
+- Code: `5251010`
+  - DCS English: Hulannugee West
+  - MOHA English: Hulannuge West
+  - Difference classification: Spelling
+- Code: `5303005`
+  - DCS English: Seva Janapadaya
+  - MOHA English: Sewajanapadaya
+  - Difference classification: Spelling
+- Code: `5303015`
+  - DCS English: Kawanthissapura
+  - MOHA English: Kavanthissa Pura
+  - Difference classification: Spelling
+- Code: `5306005`
+  - DCS English: Thennaimaravady
+  - MOHA English: Thennamaravadi
+  - Difference classification: Spelling
+- Code: `5306045`
+  - DCS English: Kallampattai
+  - MOHA English: Kallampaththai
+  - Difference classification: Spelling
+- Code: `5306055`
+  - DCS English: Iranaikerni
+  - MOHA English: Iranaikkeni
+  - Difference classification: Spelling
+- Code: `5306075`
+  - DCS English: Kumburupiddy South
+  - MOHA English: Kumburupitiya South
+  - Difference classification: Spelling
+- Code: `5306080`
+  - DCS English: Kumburupiddy North
+  - MOHA English: Kumburupitiya North
+  - Difference classification: Spelling
+- Code: `5306085`
+  - DCS English: Kumburupiddy East
+  - MOHA English: Kumburupitiya East
+  - Difference classification: Spelling
+- Code: `5309035`
+  - DCS English: Kivulakadawala
+  - MOHA English: Kivulakadawela
+  - Difference classification: Spelling
+- Code: `5309040`
+  - DCS English: Pulikandikulama
+  - MOHA English: Pulikandykulama
+  - Difference classification: Spelling
+- Code: `5312005`
+  - DCS English: Peniketiyawa
+  - MOHA English: Penikatiyawa
+  - Difference classification: Spelling
+- Code: `5312015`
+  - DCS English: Mahadivulwewa Stage II
+  - MOHA English: Mahadiwul Wewa Stage 02
+  - Difference classification: Spelling
+- Code: `5312020`
+  - DCS English: Nochchikulama
+  - MOHA English: Nochchikulam
+  - Difference classification: Spelling
+- Code: `5312035`
+  - DCS English: Awvainagar
+  - MOHA English: Awwai Nagar
+  - Difference classification: Spelling
+- Code: `5312045`
+  - DCS English: Kithuluthuwa
+  - MOHA English: Kitul Ultuwa
+  - Difference classification: Spelling
+- Code: `5315005`
+  - DCS English: Wilgama
+  - MOHA English: Vilgama
+  - Difference classification: Spelling
+- Code: `5315010`
+  - DCS English: Welveri
+  - MOHA English: Velveri
+  - Difference classification: Spelling
+- Code: `5315020`
+  - DCS English: Eluppaikulam
+  - MOHA English: Illapaikulam
+  - Difference classification: Spelling
+- Code: `5315045`
+  - DCS English: Varothayanagar
+  - MOHA English: Varothyanagar
+  - Difference classification: Spelling
+- Code: `5315050`
+  - DCS English: Peeliyady
+  - MOHA English: Peeliyadi
+  - Difference classification: Spelling
+- Code: `5315060`
+  - DCS English: Andankulama
+  - MOHA English: Andankulam
+  - Difference classification: Spelling
+- Code: `5315095`
+  - DCS English: Selvanayahapuram
+  - MOHA English: Selvanayagapuram
+  - Difference classification: Spelling
+- Code: `5315110`
+  - DCS English: Thirukadaloor
+  - MOHA English: Thirikkadaloor
+  - Difference classification: Spelling
+- Code: `5315170`
+  - DCS English: Wellaimanal
+  - MOHA English: Vellaimanal
+  - Difference classification: Spelling
+- Code: `5315175`
+  - DCS English: Chaina Bay
+  - MOHA English: China Bay
+  - Difference classification: Spelling
+- Code: `5315190`
+  - DCS English: Arasadi
+  - MOHA English: Arasady
+  - Difference classification: Spelling
+- Code: `5315195`
+  - DCS English: Manayaweli
+  - MOHA English: Manayaveli
+  - Difference classification: Spelling
+- Code: `5318010`
+  - DCS English: Palampottaru
+  - MOHA English: Palampataru
+  - Difference classification: Spelling
+- Code: `5318015`
+  - DCS English: Puthukudiyirippu
+  - MOHA English: Puthukkudieruppu
+  - Difference classification: Spelling
+- Code: `5321005`
+  - DCS English: Vendrasanpura Unit 16
+  - MOHA English: Wendrasapura Unit 16
+  - Difference classification: Spelling
+- Code: `5321015`
+  - DCS English: Ganthalawa Unit 11
+  - MOHA English: Gantalawa, Unit 11
+  - Difference classification: Spelling
+- Code: `5321020`
+  - DCS English: Wanela East
+  - MOHA English: Vaan Ela East
+  - Difference classification: Spelling
+- Code: `5321025`
+  - DCS English: Wanela West
+  - MOHA English: Vanela West
+  - Difference classification: Spelling
+- Code: `5321055`
+  - DCS English: Vendrasanpura Unit 15
+  - MOHA English: Wandrasapura Unit 15
+  - Difference classification: Spelling
+- Code: `5321060`
+  - DCS English: Vendrasanpura Unit 14
+  - MOHA English: Wandrasanpura, Unit 14
+  - Difference classification: Spelling
+- Code: `5324005`
+  - DCS English: Munaichenai
+  - MOHA English: Munaichana
+  - Difference classification: Spelling
+- Code: `5324010`
+  - DCS English: Maniarasankulam
+  - MOHA English: Maniyarasankulam
+  - Difference classification: Spelling
+- Code: `5324025`
+  - DCS English: Majeed Nagar
+  - MOHA English: Majeeth Nagar
+  - Difference classification: Spelling
+- Code: `5324035`
+  - DCS English: Maharuf Nagar
+  - MOHA English: Maharoof Nagar
+  - Difference classification: Spelling
+- Code: `5324040`
+  - DCS English: Ayiliyady
+  - MOHA English: Ayliyady
+  - Difference classification: Spelling
+- Code: `5324060`
+  - DCS English: Echchanthivu
+  - MOHA English: Echchan Teevu
+  - Difference classification: Spelling
+- Code: `5324070`
+  - DCS English: Kurinchakerny
+  - MOHA English: Kurinchakany
+  - Difference classification: Spelling
+- Code: `5324075`
+  - DCS English: Mancholaichenai
+  - MOHA English: Mancholai Chanai
+  - Difference classification: Spelling
+- Code: `5324080`
+  - DCS English: Nadoottu
+  - MOHA English: Naduoothu
+  - Difference classification: Spelling
+- Code: `5324085`
+  - DCS English: Naduthivu
+  - MOHA English: Nadutheevu #
+  - Difference classification: Spelling
+- Code: `5324090`
+  - DCS English: Periya Kinniya
+  - MOHA English: Pariya Kainniya
+  - Difference classification: Spelling
+- Code: `5324095`
+  - DCS English: Periyaththumunai
+  - MOHA English: Periyathumunai
+  - Difference classification: Spelling
+- Code: `5324100`
+  - DCS English: Poovarasanthivu
+  - MOHA English: Poovarasantheevu
+  - Difference classification: Spelling
+- Code: `5324110`
+  - DCS English: Idiman
+  - MOHA English: Ideman
+  - Difference classification: Spelling
+- Code: `5324120`
+  - DCS English: Kachchekoditheevu
+  - MOHA English: Kachchakoditheevu
+  - Difference classification: Spelling
+- Code: `5324125`
+  - DCS English: Kattaiaru
+  - MOHA English: Kattayaru
+  - Difference classification: Spelling
+- Code: `5324140`
+  - DCS English: Samavechchativu
+  - MOHA English: Samavechchatheevu
+  - Difference classification: Spelling
+- Code: `5324150`
+  - DCS English: Soorangal
+  - MOHA English: Surangal
+  - Difference classification: Spelling
+- Code: `5327010`
+  - DCS English: Koonitivu
+  - MOHA English: Koonithevu
+  - Difference classification: Spelling
+- Code: `5327015`
+  - DCS English: Navarathnapuram
+  - MOHA English: Navareththinapuram
+  - Difference classification: Spelling
+- Code: `5327025`
+  - DCS English: Kadarkaraichenai
+  - MOHA English: Kadatkaraichenai
+  - Difference classification: Spelling
+- Code: `5327035`
+  - DCS English: Thaqwa Nagar
+  - MOHA English: Thqwa Nagar
+  - Difference classification: Spelling
+- Code: `5327040`
+  - DCS English: Muttur East
+  - MOHA English: Muthur East
+  - Difference classification: Spelling
+- Code: `5327045`
+  - DCS English: Naduthivu
+  - MOHA English: Nadutheevu
+  - Difference classification: Spelling
+- Code: `5327055`
+  - DCS English: Muttur Central
+  - MOHA English: Muthur Central
+  - Difference classification: Spelling
+- Code: `5327060`
+  - DCS English: Muttur West
+  - MOHA English: Muthur West
+  - Difference classification: Spelling
+- Code: `5327065`
+  - DCS English: Ralkully
+  - MOHA English: Ralkuli
+  - Difference classification: Spelling
+- Code: `5327070`
+  - DCS English: Shaffi Nagar
+  - MOHA English: Shafi Nagar
+  - Difference classification: Spelling
+- Code: `5327110`
+  - DCS English: Pallikkudiyiruppu
+  - MOHA English: Pallikudyjiruppu
+  - Difference classification: Spelling
+- Code: `5327125`
+  - DCS English: Nalloor
+  - MOHA English: Nallur
+  - Difference classification: Spelling
+- Code: `5327165`
+  - DCS English: Peruveli
+  - MOHA English: Peyaveli
+  - Difference classification: Spelling
+- Code: `5327170`
+  - DCS English: Mallikaithivu
+  - MOHA English: Mallihaitheevu
+  - Difference classification: Spelling
+- Code: `5327180`
+  - DCS English: Palathadichenai
+  - MOHA English: Palaththadichenai
+  - Difference classification: Spelling
+- Code: `5327190`
+  - DCS English: Assathnagar
+  - MOHA English: Azath Nagar
+  - Difference classification: Spelling
+- Code: `5327200`
+  - DCS English: Kiliveddi
+  - MOHA English: Kiliveddy
+  - Difference classification: Spelling
+- Code: `5327205`
+  - DCS English: Mengamam
+  - MOHA English: Menkamam
+  - Difference classification: Spelling
+- Code: `5327210`
+  - DCS English: Kanguvely
+  - MOHA English: Kanguveli
+  - Difference classification: Spelling
+- Code: `5330005`
+  - DCS English: Neelapola
+  - MOHA English: Nilapola
+  - Difference classification: Spelling
+- Code: `5330020`
+  - DCS English: Dehiwatta
+  - MOHA English: Dehiwaththa
+  - Difference classification: Spelling
+- Code: `5330025`
+  - DCS English: Thanganagar
+  - MOHA English: Tanganagar
+  - Difference classification: Spelling
+- Code: `5330030`
+  - DCS English: Kavanthissapura
+  - MOHA English: Kawanthissapura
+  - Difference classification: Spelling
+- Code: `5330035`
+  - DCS English: Seruvila
+  - MOHA English: Seruwila
+  - Difference classification: Spelling
+- Code: `5330040`
+  - DCS English: Navatkernikadu
+  - MOHA English: Nawakkenikadu
+  - Difference classification: Spelling
+- Code: `5330070`
+  - DCS English: Ariyamankerni
+  - MOHA English: Ariyamankani
+  - Difference classification: Spelling
+- Code: `5333005`
+  - DCS English: Ilangaithurai
+  - MOHA English: Elangaithurai
+  - Difference classification: Spelling
+- Code: `5333010`
+  - DCS English: Ilangaithurai Mugathuvaram
+  - MOHA English: Elangaithuraimugaththuwara
+  - Difference classification: Spelling
+- Code: `5333025`
+  - DCS English: Poomarathadichenai
+  - MOHA English: Poomaraththadichenai
+  - Difference classification: Spelling
+- Code: `5333040`
+  - DCS English: Anaitheevu
+  - MOHA English: Anaithivu
+  - Difference classification: Spelling
+- Code: `5333045`
+  - DCS English: Verugal Mugathuvaram
+  - MOHA English: Verugalmugaththuwaram
+  - Difference classification: Spelling
+- Code: `6103150`
+  - DCS English: Thambutta
+  - MOHA English: Thambuththa
+  - Difference classification: Spelling
+- Code: `6103160`
+  - DCS English: Mailewa
+  - MOHA English: Maylewa
+  - Difference classification: Spelling
+- Code: `6106150`
+  - DCS English: Divullewa
+  - MOHA English: Diwullewa
+  - Difference classification: Spelling
+- Code: `6106175`
+  - DCS English: Porottukadawala
+  - MOHA English: Poraththukadawala
+  - Difference classification: Spelling
+- Code: `6106210`
+  - DCS English: Mottapettewa
+  - MOHA English: Mottapeththewa
+  - Difference classification: Spelling
+- Code: `6109090`
+  - DCS English: Ethinimole
+  - MOHA English: Ethinimale
+  - Difference classification: Spelling
+- Code: `6112020`
+  - DCS English: Abakolawewa North
+  - MOHA English: Abamkolawewa North
+  - Difference classification: Spelling
+- Code: `6112045`
+  - DCS English: Ranoruwa
+  - MOHA English: Ranorawa
+  - Difference classification: Spelling
+- Code: `6112120`
+  - DCS English: Kettapahuwa
+  - MOHA English: Ketthe Pahuwa
+  - Difference classification: Spelling
+- Code: `6112130`
+  - DCS English: Udagama
+  - MOHA English: Uthagama
+  - Difference classification: Spelling
+- Code: `6115035`
+  - DCS English: Digannewatta
+  - MOHA English: Digannewaththa
+  - Difference classification: Spelling
+- Code: `6115050`
+  - DCS English: Divullepitiya
+  - MOHA English: Diullepitiya
+  - Difference classification: Spelling
+- Code: `6115105`
+  - DCS English: Kotavehera
+  - MOHA English: Kotawehera
+  - Difference classification: Spelling
+- Code: `6115145`
+  - DCS English: Ithewa
+  - MOHA English: Itewa
+  - Difference classification: Spelling
+- Code: `6115150`
+  - DCS English: Dodamgollegama
+  - MOHA English: Dodamggollegama
+  - Difference classification: Spelling
+- Code: `6118100`
+  - DCS English: Niraliyadda
+  - MOHA English: Neeraliyadda
+  - Difference classification: Spelling
+- Code: `6121040`
+  - DCS English: Hulogedara
+  - MOHA English: Hulogedera
+  - Difference classification: Spelling
+- Code: `6121065`
+  - DCS English: Hewenpelessa
+  - MOHA English: Hewanpelessa
+  - Difference classification: Spelling
+- Code: `6121105`
+  - DCS English: Budumuttawa
+  - MOHA English: Budumuththawa
+  - Difference classification: Spelling
+- Code: `6121135`
+  - DCS English: Divullegoda
+  - MOHA English: Diwullagoda
+  - Difference classification: Spelling
+- Code: `6121145`
+  - DCS English: Wasiwewa
+  - MOHA English: Wasiwewe
+  - Difference classification: Spelling
+- Code: `6121150`
+  - DCS English: Kirindigalla
+  - MOHA English: Kiridigalla
+  - Difference classification: Spelling
+- Code: `6121155`
+  - DCS English: Othota Divullewa
+  - MOHA English: Othota Diwullewa
+  - Difference classification: Spelling
+- Code: `6121170`
+  - DCS English: Kumbukwewa
+  - MOHA English: Kumbukwewe
+  - Difference classification: Spelling
+- Code: `6121180`
+  - DCS English: Magallegama
+  - MOHA English: Magalegama
+  - Difference classification: Spelling
+- Code: `6124025`
+  - DCS English: Konwewa
+  - MOHA English: Koonwewa
+  - Difference classification: Spelling
+- Code: `6124060`
+  - DCS English: Thumbullegama
+  - MOHA English: Tumbullegama
+  - Difference classification: Spelling
+- Code: `6124070`
+  - DCS English: Thambare
+  - MOHA English: Tambare
+  - Difference classification: Spelling
+- Code: `6124145`
+  - DCS English: Divullewa
+  - MOHA English: Diwullewa
+  - Difference classification: Spelling
+- Code: `6124190`
+  - DCS English: Kekunawa
+  - MOHA English: Kakunawa
+  - Difference classification: Spelling
+- Code: `6124215`
+  - DCS English: Konwewa
+  - MOHA English: Koonwewa
+  - Difference classification: Spelling
+- Code: `6124245`
+  - DCS English: Heenukwewa
+  - MOHA English: Heenkwewa
+  - Difference classification: Spelling
+- Code: `6124265`
+  - DCS English: Metiyakgama
+  - MOHA English: Metiyaggama
+  - Difference classification: Spelling
+- Code: `6127040`
+  - DCS English: Pohorawatta
+  - MOHA English: Pohorawaththa
+  - Difference classification: Spelling
+- Code: `6127130`
+  - DCS English: Pothuvila
+  - MOHA English: Pothuwila
+  - Difference classification: Spelling
+- Code: `6127300`
+  - DCS English: Morotta
+  - MOHA English: Moroththa
+  - Difference classification: Spelling
+- Code: `6127345`
+  - DCS English: Dekaduwala
+  - MOHA English: Dekanduwala
+  - Difference classification: Spelling
+- Code: `6130110`
+  - DCS English: Pitipahamuna
+  - MOHA English: Pitapahamuna
+  - Difference classification: Spelling
+- Code: `6130135`
+  - DCS English: Kendawala
+  - MOHA English: Kandawala
+  - Difference classification: Spelling
+- Code: `6130145`
+  - DCS English: Puswellegama
+  - MOHA English: Pussallegama
+  - Difference classification: Spelling
+- Code: `6130310`
+  - DCS English: Mahamookalanyaya
+  - MOHA English: Mahamukalanyaya
+  - Difference classification: Spelling
+- Code: `6130350`
+  - DCS English: Madigedethilianga
+  - MOHA English: Madihe Thethilianga
+  - Difference classification: Spelling
+- Code: `6130365`
+  - DCS English: Kumbulanga
+  - MOHA English: Kumbal Anga
+  - Difference classification: Spelling
+- Code: `6133080`
+  - DCS English: Neeraviya
+  - MOHA English: Neerawiya
+  - Difference classification: Spelling
+- Code: `6133095`
+  - DCS English: Kumbukgete
+  - MOHA English: Kumbukgate
+  - Difference classification: Spelling
+- Code: `6133115`
+  - DCS English: Thittawella
+  - MOHA English: Thiththawella
+  - Difference classification: Spelling
+- Code: `6133210`
+  - DCS English: Pothuvila
+  - MOHA English: Pothuwila
+  - Difference classification: Spelling
+- Code: `6136010`
+  - DCS English: Thennakongama
+  - MOHA English: Thennakoongama
+  - Difference classification: Spelling
+- Code: `6136020`
+  - DCS English: Konotta
+  - MOHA English: Konoththa
+  - Difference classification: Spelling
+- Code: `6136055`
+  - DCS English: Deegithawa
+  - MOHA English: Digithawa
+  - Difference classification: Spelling
+- Code: `6136065`
+  - DCS English: Wanduressa
+  - MOHA English: Waduressa
+  - Difference classification: Spelling
+- Code: `6136070`
+  - DCS English: Karandawetiya
+  - MOHA English: Karadawetiya
+  - Difference classification: Spelling
+- Code: `6136085`
+  - DCS English: Rabukana
+  - MOHA English: Rambukana
+  - Difference classification: Spelling
+- Code: `6136090`
+  - DCS English: Avulegama
+  - MOHA English: Awlegama
+  - Difference classification: Spelling
+- Code: `6136110`
+  - DCS English: Divulakele
+  - MOHA English: Diwlakele
+  - Difference classification: Spelling
+- Code: `6136240`
+  - DCS English: Piyumgalla
+  - MOHA English: Piumgalla
+  - Difference classification: Spelling
+- Code: `6136270`
+  - DCS English: Vilakatupotha
+  - MOHA English: Wilakatupotha
+  - Difference classification: Spelling
+- Code: `6139005`
+  - DCS English: Hathalawa
+  - MOHA English: Haathalawa
+  - Difference classification: Spelling
+- Code: `6139035`
+  - DCS English: Vithikuliya
+  - MOHA English: Withikuliya
+  - Difference classification: Spelling
+- Code: `6139050`
+  - DCS English: Kadaththawa
+  - MOHA English: Kandaththawa
+  - Difference classification: Spelling
+- Code: `6139065`
+  - DCS English: Thelahera
+  - MOHA English: Thelahara
+  - Difference classification: Spelling
+- Code: `6139095`
+  - DCS English: Maulla
+  - MOHA English: Maaulla
+  - Difference classification: Spelling
+- Code: `6139130`
+  - DCS English: Galatabendiwewa
+  - MOHA English: Galatabediwewa
+  - Difference classification: Spelling
+- Code: `6139150`
+  - DCS English: Holambalewa
+  - MOHA English: Holambalawa
+  - Difference classification: Spelling
+- Code: `6139175`
+  - DCS English: Hindagahawewa
+  - MOHA English: Hidagahawewa
+  - Difference classification: Spelling
+- Code: `6142010`
+  - DCS English: Getulawa
+  - MOHA English: Gatulawa
+  - Difference classification: Spelling
+- Code: `6142020`
+  - DCS English: Ihala Konkandawala
+  - MOHA English: Ihala Koonkandawala
+  - Difference classification: Spelling
+- Code: `6142100`
+  - DCS English: Wanduressa
+  - MOHA English: Waduressa
+  - Difference classification: Spelling
+- Code: `6142105`
+  - DCS English: Pahala Koswatta
+  - MOHA English: Pahala Koswaththa
+  - Difference classification: Spelling
+- Code: `6142140`
+  - DCS English: Vilattawa
+  - MOHA English: Wilaththawa
+  - Difference classification: Spelling
+- Code: `6142185`
+  - DCS English: Ihala Koswatta
+  - MOHA English: Ihala Koswaththa
+  - Difference classification: Spelling
+- Code: `6142205`
+  - DCS English: Konkadawala
+  - MOHA English: Koonkadawala
+  - Difference classification: Spelling
+- Code: `6145035`
+  - DCS English: Rambewa
+  - MOHA English: Rambawa
+  - Difference classification: Spelling
+- Code: `6145100`
+  - DCS English: Dorabavila
+  - MOHA English: Dorabawila
+  - Difference classification: Spelling
+- Code: `6145165`
+  - DCS English: Dolahomuna
+  - MOHA English: Dolahamuna
+  - Difference classification: Spelling
+- Code: `6145270`
+  - DCS English: Ebogedara
+  - MOHA English: Embogedara
+  - Difference classification: Spelling
+- Code: `6145320`
+  - DCS English: Epaladeniya
+  - MOHA English: Apaladeniya
+  - Difference classification: Spelling
+- Code: `6149060`
+  - DCS English: Ganthiriyawa
+  - MOHA English: Ganthiriyaya
+  - Difference classification: Spelling
+- Code: `6149080`
+  - DCS English: Nelunkanuwa
+  - MOHA English: Nelumkanuwa
+  - Difference classification: Spelling
+- Code: `6149110`
+  - DCS English: Rukattane
+  - MOHA English: Rukaththane
+  - Difference classification: Spelling
+- Code: `6151015`
+  - DCS English: Rekawa
+  - MOHA English: Rakawa
+  - Difference classification: Spelling
+- Code: `6151130`
+  - DCS English: Maveedalupotha
+  - MOHA English: Maweedalupotha
+  - Difference classification: Spelling
+- Code: `6151155`
+  - DCS English: Kavudawatta
+  - MOHA English: Kawdawattha
+  - Difference classification: Spelling
+- Code: `6151160`
+  - DCS English: Aswedduma
+  - MOHA English: Assadduma
+  - Difference classification: Spelling
+- Code: `6154005`
+  - DCS English: Kalatuwa Pelessa
+  - MOHA English: Kalalatuwapelessa
+  - Difference classification: Spelling
+- Code: `6154025`
+  - DCS English: Thalvita
+  - MOHA English: Thalwita
+  - Difference classification: Spelling
+- Code: `6154115`
+  - DCS English: Vilgoda
+  - MOHA English: Wilgoda
+  - Difference classification: Spelling
+- Code: `6154190`
+  - DCS English: Veherabenda
+  - MOHA English: Weherabenda
+  - Difference classification: Spelling
+- Code: `6154235`
+  - DCS English: Vilbawa
+  - MOHA English: Wilbawa
+  - Difference classification: Spelling
+- Code: `6154260`
+  - DCS English: Attanapitiya
+  - MOHA English: Aththanapitiya
+  - Difference classification: Spelling
+- Code: `6157050`
+  - DCS English: Pahala Gattuwana
+  - MOHA English: Palle Gattuwana
+  - Difference classification: Spelling
+- Code: `6157150`
+  - DCS English: Konpala
+  - MOHA English: Konpola
+  - Difference classification: Spelling
+- Code: `6160065`
+  - DCS English: Pothubowa
+  - MOHA English: Potubowa
+  - Difference classification: Spelling
+- Code: `6160120`
+  - DCS English: Nawa Pothubowa
+  - MOHA English: Nawa Potubowa
+  - Difference classification: Spelling
+- Code: `6160240`
+  - DCS English: Kotikapala
+  - MOHA English: Kotikapola
+  - Difference classification: Spelling
+- Code: `6160255`
+  - DCS English: Meddegamgoda
+  - MOHA English: Mee Meddegamgoda
+  - Difference classification: Spelling
+- Code: `6163010`
+  - DCS English: Adapola
+  - MOHA English: Andapola
+  - Difference classification: Spelling
+- Code: `6163045`
+  - DCS English: Koswatta
+  - MOHA English: Koswaththa
+  - Difference classification: Spelling
+- Code: `6163070`
+  - DCS English: Balawattala
+  - MOHA English: Balawaththala
+  - Difference classification: Spelling
+- Code: `6163080`
+  - DCS English: Ihala Udattapola
+  - MOHA English: Ihala Udaththapola
+  - Difference classification: Spelling
+- Code: `6163085`
+  - DCS English: Kotuhena
+  - MOHA English: Kotahena
+  - Difference classification: Spelling
+- Code: `6163105`
+  - DCS English: Diniminiyathenna
+  - MOHA English: Dinimiyathenna
+  - Difference classification: Spelling
+- Code: `6163125`
+  - DCS English: Dodamgaslanda
+  - MOHA English: Dodangaslanda
+  - Difference classification: Spelling
+- Code: `6163140`
+  - DCS English: Lihiniwehera
+  - MOHA English: Lihiniwehara
+  - Difference classification: Spelling
+- Code: `6163150`
+  - DCS English: Rambukandana
+  - MOHA English: Rambukanda
+  - Difference classification: Spelling
+- Code: `6163340`
+  - DCS English: Eriyagolla
+  - MOHA English: Iriyagolla
+  - Difference classification: Spelling
+- Code: `6163350`
+  - DCS English: Polwatta
+  - MOHA English: Polwaththa
+  - Difference classification: Spelling
+- Code: `6163375`
+  - DCS English: Ranthetikanda
+  - MOHA English: Ranthtikanda
+  - Difference classification: Spelling
+- Code: `6163525`
+  - DCS English: Gonigoda
+  - MOHA English: Ganigoda
+  - Difference classification: Spelling
+- Code: `6163540`
+  - DCS English: Ganegoda
+  - MOHA English: Gonegoda
+  - Difference classification: Spelling
+- Code: `6163550`
+  - DCS English: Kurukeppitiya
+  - MOHA English: Kurukeppetiya
+  - Difference classification: Spelling
+- Code: `6166010`
+  - DCS English: Medagama
+  - MOHA English: Madagama
+  - Difference classification: Spelling
+- Code: `6166015`
+  - DCS English: Pathinwatta
+  - MOHA English: Pathinwaththa
+  - Difference classification: Spelling
+- Code: `6166075`
+  - DCS English: Clovis Watta
+  - MOHA English: Kloviswaththa
+  - Difference classification: Spelling
+- Code: `6166095`
+  - DCS English: Huruggamuwa
+  - MOHA English: Hurukgamuwa
+  - Difference classification: Spelling
+- Code: `6166160`
+  - DCS English: Poogalla
+  - MOHA English: Pugalla
+  - Difference classification: Spelling
+- Code: `6169035`
+  - DCS English: Nettipolagedara
+  - MOHA English: Neththipolagedara
+  - Difference classification: Spelling
+- Code: `6169060`
+  - DCS English: Kekunagolla
+  - MOHA English: Kekunugolla
+  - Difference classification: Spelling
+- Code: `6169075`
+  - DCS English: Ambahenwewa
+  - MOHA English: Abahenwewa
+  - Difference classification: Spelling
+- Code: `6169120`
+  - DCS English: Konduruwapola
+  - MOHA English: Koduruwapola
+  - Difference classification: Spelling
+- Code: `6169165`
+  - DCS English: Nakkawatta
+  - MOHA English: Nakkawaththa
+  - Difference classification: Spelling
+- Code: `6169175`
+  - DCS English: Ihala Muruthenge
+  - MOHA English: Ihala Muruthange
+  - Difference classification: Spelling
+- Code: `6169215`
+  - DCS English: Panavitiya
+  - MOHA English: Panawitiya
+  - Difference classification: Spelling
+- Code: `6172085`
+  - DCS English: Kurudelpotha
+  - MOHA English: Kurudalpotha
+  - Difference classification: Spelling
+- Code: `6172090`
+  - DCS English: Thabbomulla
+  - MOHA English: Tabbomulla
+  - Difference classification: Spelling
+- Code: `6172120`
+  - DCS English: Assedduma
+  - MOHA English: Assadduma
+  - Difference classification: Spelling
+- Code: `6172125`
+  - DCS English: Kongahagedara
+  - MOHA English: Koongahagedara
+  - Difference classification: Spelling
+- Code: `6172165`
+  - DCS English: Beminigalla
+  - MOHA English: Baminigalla
+  - Difference classification: Spelling
+- Code: `6172230`
+  - DCS English: Madakumburumulla
+  - MOHA English: Madukumburumulla
+  - Difference classification: Spelling
+- Code: `6172310`
+  - DCS English: Ketawalegedara
+  - MOHA English: Ketawalgedara
+  - Difference classification: Spelling
+- Code: `6172330`
+  - DCS English: Edandewela
+  - MOHA English: Edandawela
+  - Difference classification: Spelling
+- Code: `6175025`
+  - DCS English: Wathuwatta
+  - MOHA English: Wathuwatha
+  - Difference classification: Spelling
+- Code: `6175070`
+  - DCS English: Gahalagaswala
+  - MOHA English: Gahalagaswela
+  - Difference classification: Spelling
+- Code: `6175085`
+  - DCS English: Dummalasooriya
+  - MOHA English: Dummalasuriya
+  - Difference classification: Spelling
+- Code: `6175105`
+  - DCS English: Karandavila
+  - MOHA English: Karandawila
+  - Difference classification: Spelling
+- Code: `6175110`
+  - DCS English: Bunnehepola
+  - MOHA English: Bunnehapola
+  - Difference classification: Spelling
+- Code: `6175150`
+  - DCS English: Polgaha Agara
+  - MOHA English: Polgaha ara
+  - Difference classification: Spelling
+- Code: `6175190`
+  - DCS English: Nawasigahawatta
+  - MOHA English: Nawasigahawatha
+  - Difference classification: Spelling
+- Code: `6175195`
+  - DCS English: Kootharippuwa
+  - MOHA English: Kutharippuwa
+  - Difference classification: Spelling
+- Code: `6178010`
+  - DCS English: Nabirittankadawara
+  - MOHA English: Nambirittankadawara
+  - Difference classification: Spelling
+- Code: `6178055`
+  - DCS English: Katugampala
+  - MOHA English: Katugampola
+  - Difference classification: Spelling
+- Code: `6178110`
+  - DCS English: Hengawa
+  - MOHA English: Hegawa
+  - Difference classification: Spelling
+- Code: `6178145`
+  - DCS English: Mutugalayayagama
+  - MOHA English: Mutugalayagama
+  - Difference classification: Spelling
+- Code: `6178170`
+  - DCS English: Hunuvila
+  - MOHA English: Hunuwila
+  - Difference classification: Spelling
+- Code: `6178215`
+  - DCS English: Konduruwawela
+  - MOHA English: Koduruwawela
+  - Difference classification: Spelling
+- Code: `6178290`
+  - DCS English: Indivinna
+  - MOHA English: Indiminna
+  - Difference classification: Spelling
+- Code: `6178425`
+  - DCS English: Wellewa
+  - MOHA English: Wellawa
+  - Difference classification: Spelling
+- Code: `6181080`
+  - DCS English: Senanayaka Colony
+  - MOHA English: Senanayaka Colany
+  - Difference classification: Spelling
+- Code: `6181155`
+  - DCS English: Godakooruwa
+  - MOHA English: Godakoruwa
+  - Difference classification: Spelling
+- Code: `6181175`
+  - DCS English: Maravita
+  - MOHA English: Marawita
+  - Difference classification: Spelling
+- Code: `6184055`
+  - DCS English: Ihala Wettewa
+  - MOHA English: Ihala Wethtewa
+  - Difference classification: Spelling
+- Code: `6184120`
+  - DCS English: Hinnarapola
+  - MOHA English: Hithtarapola
+  - Difference classification: Spelling
+- Code: `6184210`
+  - DCS English: Humbuluwa East
+  - MOHA English: Humuluwa East
+  - Difference classification: Spelling
+- Code: `6184240`
+  - DCS English: Nebadawathura
+  - MOHA English: Nebadawatura
+  - Difference classification: Spelling
+- Code: `6184280`
+  - DCS English: Galpottepola
+  - MOHA English: Galpothtepola
+  - Difference classification: Spelling
+- Code: `6184315`
+  - DCS English: Yattalgoda
+  - MOHA English: Yaththalgoda
+  - Difference classification: Spelling
+- Code: `6187020`
+  - DCS English: Pothuhera East
+  - MOHA English: Potuhera East
+  - Difference classification: Spelling
+- Code: `6187025`
+  - DCS English: Pothuhera West
+  - MOHA English: Potuhera West
+  - Difference classification: Spelling
+- Code: `6187050`
+  - DCS English: Hiripathwella
+  - MOHA English: Hiripatwella
+  - Difference classification: Spelling
+- Code: `6187070`
+  - DCS English: Embalawatta
+  - MOHA English: Embalawattha
+  - Difference classification: Spelling
+- Code: `6187145`
+  - DCS English: Kebilittawala
+  - MOHA English: Kebiliththawela
+  - Difference classification: Spelling
+- Code: `6187165`
+  - DCS English: Kaluhendiwala
+  - MOHA English: Kaluhendiwela
+  - Difference classification: Spelling
+- Code: `6187170`
+  - DCS English: Thalawattegedara
+  - MOHA English: Thalawaththegedara
+  - Difference classification: Spelling
+- Code: `6187215`
+  - DCS English: Hondella
+  - MOHA English: Hodella
+  - Difference classification: Spelling
+- Code: `6187310`
+  - DCS English: Mawatta
+  - MOHA English: Mawaththa
+  - Difference classification: Spelling
+- Code: `6187340`
+  - DCS English: Gorokgahapotta
+  - MOHA English: Gorokgahapoththa
+  - Difference classification: Spelling
+- Code: `6187410`
+  - DCS English: Serapees Watta
+  - MOHA English: Serapees Waththa
+  - Difference classification: Spelling
+- Code: `6203005`
+  - DCS English: Dutchbay
+  - MOHA English: Datchbay
+  - Difference classification: Spelling
+- Code: `6203020`
+  - DCS English: Sinnakudirippu
+  - MOHA English: Sinnakudieruppu
+  - Difference classification: Spelling
+- Code: `6203025`
+  - DCS English: Wanni Mundalama
+  - MOHA English: Vanni Mundalama
+  - Difference classification: Spelling
+- Code: `6203030`
+  - DCS English: Mandalakudawa
+  - MOHA English: Mandalakuda
+  - Difference classification: Spelling
+- Code: `6203035`
+  - DCS English: Periyakudirippu
+  - MOHA English: Periyakudieruppu
+  - Difference classification: Spelling
+- Code: `6203045`
+  - DCS English: Kandakuliya Kudawa
+  - MOHA English: Kandakuli Kudawa
+  - Difference classification: Spelling
+- Code: `6203060`
+  - DCS English: Kandakuliya
+  - MOHA English: Kandakuli
+  - Difference classification: Spelling
+- Code: `6203065`
+  - DCS English: Palliwasalthure
+  - MOHA English: Palliwasalthurai
+  - Difference classification: Spelling
+- Code: `6203070`
+  - DCS English: Musalpitiya
+  - MOHA English: Musalpiti
+  - Difference classification: Spelling
+- Code: `6203075`
+  - DCS English: Mudalappaliya
+  - MOHA English: Mudalappali
+  - Difference classification: Spelling
+- Code: `6203100`
+  - DCS English: Ettala
+  - MOHA English: Eatale
+  - Difference classification: Spelling
+- Code: `6203110`
+  - DCS English: Alankudawa
+  - MOHA English: Alankuda
+  - Difference classification: Spelling
+- Code: `6203125`
+  - DCS English: Narakkalliya
+  - MOHA English: Narakkalli
+  - Difference classification: Spelling
+- Code: `6203130`
+  - DCS English: Mampuriya
+  - MOHA English: Mampuri
+  - Difference classification: Spelling
+- Code: `6203135`
+  - DCS English: Nawakkaduwa
+  - MOHA English: Nawatkadu
+  - Difference classification: Spelling
+- Code: `6203155`
+  - DCS English: Karamba
+  - MOHA English: Karambe
+  - Difference classification: Spelling
+- Code: `6206050`
+  - DCS English: Vanathawilluwa North
+  - MOHA English: Wanathawilluwa North
+  - Difference classification: Spelling
+- Code: `6215035`
+  - DCS English: Pudukudirippuwa
+  - MOHA English: Pudukudiruppuwa
+  - Difference classification: Spelling
+- Code: `6215045`
+  - DCS English: Senakudirippuwa
+  - MOHA English: Chenaikudirippuwa
+  - Difference classification: Spelling
+- Code: `6215050`
+  - DCS English: Thiladiya
+  - MOHA English: Thilladiya
+  - Difference classification: Spelling
+- Code: `6215070`
+  - DCS English: Periyapalli Kudiyiruppuwa
+  - MOHA English: Periyapalli Kudiruppuwa
+  - Difference classification: Spelling
+- Code: `6215085`
+  - DCS English: Kaladiya
+  - MOHA English: Kalladiya
+  - Difference classification: Spelling
+- Code: `6215100`
+  - DCS English: Palaviya
+  - MOHA English: Palavi
+  - Difference classification: Spelling
+- Code: `6218005`
+  - DCS English: Puludiviyal
+  - MOHA English: Puladiviyal
+  - Difference classification: Spelling
+- Code: `6218025`
+  - DCS English: Madurankuliya
+  - MOHA English: Madurankuli
+  - Difference classification: Spelling
+- Code: `6218030`
+  - DCS English: Kanamulla North
+  - MOHA English: Kanamoolai North
+  - Difference classification: Spelling
+- Code: `6218035`
+  - DCS English: Kadayamotte
+  - MOHA English: Kadayamottai
+  - Difference classification: Spelling
+- Code: `6218060`
+  - DCS English: Kanamulla South
+  - MOHA English: Kanamoolai South
+  - Difference classification: Spelling
+- Code: `6218085`
+  - DCS English: Kottanthievu
+  - MOHA English: Kottantheevu
+  - Difference classification: Spelling
+- Code: `6218110`
+  - DCS English: Kattakaduwa
+  - MOHA English: Kattaikadu
+  - Difference classification: Spelling
+- Code: `6218115`
+  - DCS English: Sinnapaduwa
+  - MOHA English: Sinnapadu
+  - Difference classification: Spelling
+- Code: `6218120`
+  - DCS English: Poonapitiya
+  - MOHA English: Poonapiti
+  - Difference classification: Spelling
+- Code: `6224055`
+  - DCS English: Alankulama
+  - MOHA English: Alankulam
+  - Difference classification: Spelling
+- Code: `6227015`
+  - DCS English: Siyabalagaswewa
+  - MOHA English: Siyambalagaswewa
+  - Difference classification: Spelling
+- Code: `6227035`
+  - DCS English: Wilpatha West
+  - MOHA English: Wilpotha West
+  - Difference classification: Spelling
+- Code: `6227055`
+  - DCS English: Madawakkulama
+  - MOHA English: Madawakkulam
+  - Difference classification: Spelling
+- Code: `6227060`
+  - DCS English: Wetiya
+  - MOHA English: Watiya
+  - Difference classification: Spelling
+- Code: `6227065`
+  - DCS English: Nandimithtrapura
+  - MOHA English: Nandimithtrapuram
+  - Difference classification: Spelling
+- Code: `6227070`
+  - DCS English: Wendakaduwa
+  - MOHA English: Wendakadu
+  - Difference classification: Spelling
+- Code: `6227085`
+  - DCS English: Puliyankulama
+  - MOHA English: Puliyankulam
+  - Difference classification: Spelling
+- Code: `6233070`
+  - DCS English: Wattakkaliya
+  - MOHA English: Wattakkalliya
+  - Difference classification: Spelling
+- Code: `6233105`
+  - DCS English: Munneshwarama
+  - MOHA English: Munneshwaram
+  - Difference classification: Spelling
+- Code: `6233170`
+  - DCS English: Ilippadeniya
+  - MOHA English: Ilippandeniya
+  - Difference classification: Spelling
+- Code: `6233245`
+  - DCS English: Kakkapalliya
+  - MOHA English: Kakapalliya
+  - Difference classification: Spelling
+- Code: `6236050`
+  - DCS English: Thambagalla Watta
+  - MOHA English: Thambagalla Watte
+  - Difference classification: Spelling
+- Code: `6236125`
+  - DCS English: Kachchakaduwa
+  - MOHA English: Kachchakadduwa
+  - Difference classification: Spelling
+- Code: `6236160`
+  - DCS English: Maraggalagama
+  - MOHA English: Marakkalagama
+  - Difference classification: Spelling
+- Code: `6242130`
+  - DCS English: Yakdessawa
+  - MOHA English: Yakadessawa
+  - Difference classification: Spelling
+- Code: `6242205`
+  - DCS English: Pahala Katuneriya North
+  - MOHA English: Pahala Kauneriya North
+  - Difference classification: Spelling
+- Code: `6245030`
+  - DCS English: Sirigampola South
+  - MOHA English: Sirigampala South
+  - Difference classification: Spelling
+- Code: `6245160`
+  - DCS English: Hanathotupola
+  - MOHA English: Hanathotupala
+  - Difference classification: Spelling
+- Code: `6245230`
+  - DCS English: Aluttota
+  - MOHA English: Aluththota
+  - Difference classification: Spelling
+- Code: `6248085`
+  - DCS English: Pahala Bujjampola
+  - MOHA English: Pahala Bujjampala
+  - Difference classification: Spelling
+- Code: `7103010`
+  - DCS English: Elikimbulagala
+  - MOHA English: Elikibulagala
+  - Difference classification: Spelling
+- Code: `7103015`
+  - DCS English: Abhayapura
+  - MOHA English: Abayapura
+  - Difference classification: Spelling
+- Code: `7103040`
+  - DCS English: Sudarshanagama
+  - MOHA English: Sudharshanagama
+  - Difference classification: Spelling
+- Code: `7103060`
+  - DCS English: Kumbukwewa
+  - MOHA English: Kubukwewa
+  - Difference classification: Spelling
+- Code: `7106005`
+  - DCS English: Halmillawetiya
+  - MOHA English: Halmillawatiya
+  - Difference classification: Spelling
+- Code: `7106030`
+  - DCS English: D 06 Wahalkada
+  - MOHA English: Wahalkada D 6
+  - Difference classification: Spelling
+- Code: `7106035`
+  - DCS English: D 05 Wahalkada
+  - MOHA English: Wahalkada D 5
+  - Difference classification: Spelling
+- Code: `7106040`
+  - DCS English: D 04 Wahalkada
+  - MOHA English: Wahalkada D 4
+  - Difference classification: Spelling
+- Code: `7106050`
+  - DCS English: Thammennawa
+  - MOHA English: Thammannawa
+  - Difference classification: Spelling
+- Code: `7106065`
+  - DCS English: Thittagonewa
+  - MOHA English: Thiththagonewa
+  - Difference classification: Spelling
+- Code: `7106090`
+  - DCS English: Kebithigollewa
+  - MOHA English: Kabithigollewa
+  - Difference classification: Spelling
+- Code: `7106110`
+  - DCS English: Kiriketuwewa
+  - MOHA English: Kiriketuwawe
+  - Difference classification: Spelling
+- Code: `7106115`
+  - DCS English: Gonahathdenawa
+  - MOHA English: Gonuhaddenawa
+  - Difference classification: Spelling
+- Code: `7106120`
+  - DCS English: Thimbiriwewa
+  - MOHA English: Thibiriwewa
+  - Difference classification: Spelling
+- Code: `7106130`
+  - DCS English: Wattewewa
+  - MOHA English: Watthewewa
+  - Difference classification: Spelling
+- Code: `7109005`
+  - DCS English: Prabodhagama
+  - MOHA English: Prabodagama
+  - Difference classification: Spelling
+- Code: `7109010`
+  - DCS English: Paranahalmillewa
+  - MOHA English: Paranahalmillawa
+  - Difference classification: Spelling
+- Code: `7109015`
+  - DCS English: Lolugaswewa
+  - MOHA English: Loolugaswewa
+  - Difference classification: Spelling
+- Code: `7109020`
+  - DCS English: Puhudivula
+  - MOHA English: Puhudiula
+  - Difference classification: Spelling
+- Code: `7109025`
+  - DCS English: Heerallugama
+  - MOHA English: Hirallugama
+  - Difference classification: Spelling
+- Code: `7109030`
+  - DCS English: Ethakada
+  - MOHA English: Athakada
+  - Difference classification: Spelling
+- Code: `7109035`
+  - DCS English: Etaweeragollewa
+  - MOHA English: Ataweeragollewa
+  - Difference classification: Spelling
+- Code: `7109040`
+  - DCS English: Kadawath Rambewa
+  - MOHA English: Kadawathrambaya
+  - Difference classification: Spelling
+- Code: `7109065`
+  - DCS English: Poonewa
+  - MOHA English: Poonawa
+  - Difference classification: Spelling
+- Code: `7109075`
+  - DCS English: Maha Divulwewa
+  - MOHA English: Mahadiulwewa
+  - Difference classification: Spelling
+- Code: `7109090`
+  - DCS English: Unagaswewa
+  - MOHA English: Unagasewewa
+  - Difference classification: Spelling
+- Code: `7109100`
+  - DCS English: Angunochchiya
+  - MOHA English: Agunochchiya
+  - Difference classification: Spelling
+- Code: `7109105`
+  - DCS English: Ekirikanda
+  - MOHA English: Akirikanda
+  - Difference classification: Spelling
+- Code: `7109120`
+  - DCS English: Kuda Kumbukgollewa
+  - MOHA English: Kudakubukgollewa
+  - Difference classification: Spelling
+- Code: `7109130`
+  - DCS English: Thammenne Elawaka
+  - MOHA English: Thammennaelawaka
+  - Difference classification: Spelling
+- Code: `7109135`
+  - DCS English: Puleliya
+  - MOHA English: Pulelliya
+  - Difference classification: Spelling
+- Code: `7109140`
+  - DCS English: Viralmurippuwa
+  - MOHA English: Viralmuruppuwa
+  - Difference classification: Spelling
+- Code: `7109165`
+  - DCS English: Kanadara Divulwewa
+  - MOHA English: Kanadaradiulwewa
+  - Difference classification: Spelling
+- Code: `7109170`
+  - DCS English: Helambagaswewa
+  - MOHA English: Halabagaswewa
+  - Difference classification: Spelling
+- Code: `7109175`
+  - DCS English: Sangilikanadarawa
+  - MOHA English: Sangilikanandarawa
+  - Difference classification: Spelling
+- Code: `7112010`
+  - DCS English: Thanthirimale
+  - MOHA English: Thantirimale
+  - Difference classification: Spelling
+- Code: `7112015`
+  - DCS English: Nelumvila
+  - MOHA English: Nelumwila
+  - Difference classification: Spelling
+- Code: `7112020`
+  - DCS English: Sandamaleliya
+  - MOHA English: Sadamaleliya
+  - Difference classification: Spelling
+- Code: `7112030`
+  - DCS English: Ethdathkalla
+  - MOHA English: Athdathkalla
+  - Difference classification: Spelling
+- Code: `7112035`
+  - DCS English: Randoowa
+  - MOHA English: Randuwa
+  - Difference classification: Spelling
+- Code: `7112080`
+  - DCS English: Helambawewa
+  - MOHA English: Halabawewa
+  - Difference classification: Spelling
+- Code: `7115040`
+  - DCS English: Elayapattuwa
+  - MOHA English: Elayapatthuwa
+  - Difference classification: Spelling
+- Code: `7115055`
+  - DCS English: Galkadawala
+  - MOHA English: Galkadawela
+  - Difference classification: Spelling
+- Code: `7115060`
+  - DCS English: Poowarsankulama
+  - MOHA English: Puwarasankulama
+  - Difference classification: Spelling
+- Code: `7115070`
+  - DCS English: Parasangahawewa
+  - MOHA English: Parasangaswewa
+  - Difference classification: Spelling
+- Code: `7115125`
+  - DCS English: Dewanampiyathissa Pura
+  - MOHA English: Devanampiyatissa Pura
+  - Difference classification: Spelling
+- Code: `7115130`
+  - DCS English: Abhayawewa
+  - MOHA English: Abayawewa
+  - Difference classification: Spelling
+- Code: `7115170`
+  - DCS English: Thisawewa
+  - MOHA English: Tisawewa
+  - Difference classification: Spelling
+- Code: `7115185`
+  - DCS English: Pandulagama
+  - MOHA English: Pandulugama
+  - Difference classification: Spelling
+- Code: `7118020`
+  - DCS English: Siyambalagaswewa
+  - MOHA English: Siyabalagaswewa
+  - Difference classification: Spelling
+- Code: `7118030`
+  - DCS English: Wahamalgollewa Track 05
+  - MOHA English: Wahamalgollewa Trak 5
+  - Difference classification: Spelling
+- Code: `7118045`
+  - DCS English: Talgahawewa
+  - MOHA English: Thalgahawewa
+  - Difference classification: Spelling
+- Code: `7118055`
+  - DCS English: Balahondawewa
+  - MOHA English: Balahodawewa
+  - Difference classification: Spelling
+- Code: `7118060`
+  - DCS English: Pihimbiyagollewa
+  - MOHA English: Pihimbeyagollewa
+  - Difference classification: Spelling
+- Code: `7118090`
+  - DCS English: Konakumbukwewa
+  - MOHA English: Konakubukwewa
+  - Difference classification: Spelling
+- Code: `7118120`
+  - DCS English: Wahamalgollewa Track 03
+  - MOHA English: Wahamalgollewa Trak 3
+  - Difference classification: Spelling
+- Code: `7118135`
+  - DCS English: Pandukabhayapura
+  - MOHA English: Pandukabayapura
+  - Difference classification: Spelling
+- Code: `7118155`
+  - DCS English: Nebadagaswewa
+  - MOHA English: Nabadagaswewa
+  - Difference classification: Spelling
+- Code: `7118165`
+  - DCS English: Kapiriggama
+  - MOHA English: Kapirikgama
+  - Difference classification: Spelling
+- Code: `7121005`
+  - DCS English: Kirigallewa
+  - MOHA English: Kirigallawa
+  - Difference classification: Spelling
+- Code: `7121020`
+  - DCS English: Maha Kumbukwewa
+  - MOHA English: Maha Kubukwewa
+  - Difference classification: Spelling
+- Code: `7121035`
+  - DCS English: Thurukkuragama
+  - MOHA English: Turukkuragama
+  - Difference classification: Spelling
+- Code: `7121060`
+  - DCS English: Kumbukgollewa
+  - MOHA English: Kummukgollewa
+  - Difference classification: Spelling
+- Code: `7121075`
+  - DCS English: Thallattewa
+  - MOHA English: Thallaththewa
+  - Difference classification: Spelling
+- Code: `7121105`
+  - DCS English: Samadhigama
+  - MOHA English: Samadigama
+  - Difference classification: Spelling
+- Code: `7121115`
+  - DCS English: Ranpathvila
+  - MOHA English: Ranpathwila
+  - Difference classification: Spelling
+- Code: `7121125`
+  - DCS English: Maha Messalewa
+  - MOHA English: Maha Messallawa
+  - Difference classification: Spelling
+- Code: `7121130`
+  - DCS English: Kohombagaskada
+  - MOHA English: Kohobagaskada
+  - Difference classification: Spelling
+- Code: `7121135`
+  - DCS English: Konwewa
+  - MOHA English: Koonwewa
+  - Difference classification: Spelling
+- Code: `7121140`
+  - DCS English: Ambagahawewa
+  - MOHA English: Abagahawewa
+  - Difference classification: Spelling
+- Code: `7121170`
+  - DCS English: Divulwewa
+  - MOHA English: Diwulwewa
+  - Difference classification: Spelling
+- Code: `7121180`
+  - DCS English: Kelenikawewa
+  - MOHA English: Kelanikawewa
+  - Difference classification: Spelling
+- Code: `7124055`
+  - DCS English: Thawalanhalmillewa
+  - MOHA English: Thawalamhammillewa
+  - Difference classification: Spelling
+- Code: `7124060`
+  - DCS English: Thimbiriettawala
+  - MOHA English: Thimbiriathathawala
+  - Difference classification: Spelling
+- Code: `7124075`
+  - DCS English: Kivulekada
+  - MOHA English: Kiulekada
+  - Difference classification: Spelling
+- Code: `7124135`
+  - DCS English: Morakewa
+  - MOHA English: Morakewewa
+  - Difference classification: Spelling
+- Code: `7124165`
+  - DCS English: Vilewewa
+  - MOHA English: Wilewewa
+  - Difference classification: Spelling
+- Code: `7124190`
+  - DCS English: Diyatittawewa
+  - MOHA English: Diyathithawewa
+  - Difference classification: Spelling
+- Code: `7127015`
+  - DCS English: Kataranpuraya
+  - MOHA English: Katarampura
+  - Difference classification: Spelling
+- Code: `7127025`
+  - DCS English: Perettupala Gama
+  - MOHA English: Perattupalagama
+  - Difference classification: Spelling
+- Code: `7127035`
+  - DCS English: Dutuwewa Paranagama
+  - MOHA English: Dutuwewa Peranigama
+  - Difference classification: Spelling
+- Code: `7127040`
+  - DCS English: 21 Colony East
+  - MOHA English: 21 Colany East
+  - Difference classification: Spelling
+- Code: `7127045`
+  - DCS English: 21 Colony West
+  - MOHA English: 21 Colany West
+  - Difference classification: Spelling
+- Code: `7127095`
+  - DCS English: Getalawa
+  - MOHA English: Gatalawa
+  - Difference classification: Spelling
+- Code: `7127120`
+  - DCS English: Sivalakulama
+  - MOHA English: Siwalakulama
+  - Difference classification: Spelling
+- Code: `7127130`
+  - DCS English: Hurulunikawewa
+  - MOHA English: Hurulunikawewa Yaya 03
+  - Difference classification: Spelling
+- Code: `7127185`
+  - DCS English: Nuwaraeli Colony
+  - MOHA English: Nuwaraeliya Colany
+  - Difference classification: Spelling
+- Code: `7127205`
+  - DCS English: Wannamkulama
+  - MOHA English: Wannankulama
+  - Difference classification: Spelling
+- Code: `7130010`
+  - DCS English: Mahakanadarawa Track 3
+  - MOHA English: Mahakanadarawa - yaya 03
+  - Difference classification: Spelling
+- Code: `7130020`
+  - DCS English: Mahakanadarawa Track 1
+  - MOHA English: Mahakanadarawa - Yaya 01
+  - Difference classification: Spelling
+- Code: `7130035`
+  - DCS English: Kunchikulama
+  - MOHA English: Kunchikulam
+  - Difference classification: Spelling
+- Code: `7130040`
+  - DCS English: Henawatta
+  - MOHA English: Henawaththa
+  - Difference classification: Spelling
+- Code: `7130050`
+  - DCS English: Kurundankulama
+  - MOHA English: Kurundankulam
+  - Difference classification: Spelling
+- Code: `7130060`
+  - DCS English: Mihinthale
+  - MOHA English: Mihintale
+  - Difference classification: Spelling
+- Code: `7130090`
+  - DCS English: Thammmennawa
+  - MOHA English: Thammennawa
+  - Difference classification: Spelling
+- Code: `7130110`
+  - DCS English: Kahapathvilagama
+  - MOHA English: Kahapathwilagama
+  - Difference classification: Spelling
+- Code: `7133015`
+  - DCS English: Mahakalattewa
+  - MOHA English: Maha Kalaththawa
+  - Difference classification: Spelling
+- Code: `7133040`
+  - DCS English: Thammennapura
+  - MOHA English: Thammannapura
+  - Difference classification: Spelling
+- Code: `7133045`
+  - DCS English: Wannithammennawa
+  - MOHA English: Vannithammannawa
+  - Difference classification: Spelling
+- Code: `7133050`
+  - DCS English: Thammennakulama
+  - MOHA English: Thammannakulama
+  - Difference classification: Spelling
+- Code: `7133105`
+  - DCS English: Gnanikulama
+  - MOHA English: Ghanikulama
+  - Difference classification: Spelling
+- Code: `7136005`
+  - DCS English: Kimbulakada
+  - MOHA English: Kibulakada
+  - Difference classification: Spelling
+- Code: `7136010`
+  - DCS English: Shrawasthipura
+  - MOHA English: Srawasthipura
+  - Difference classification: Spelling
+- Code: `7136020`
+  - DCS English: Shrawasthiwatta
+  - MOHA English: Srawasthiwaththa
+  - Difference classification: Spelling
+- Code: `7136040`
+  - DCS English: Divulwewa
+  - MOHA English: Diwulwewa
+  - Difference classification: Spelling
+- Code: `7139145`
+  - DCS English: Navakkulama
+  - MOHA English: Nawakkulama
+  - Difference classification: Spelling
+- Code: `7139150`
+  - DCS English: Galadivulwewa
+  - MOHA English: Galadiulwewa
+  - Difference classification: Spelling
+- Code: `7142060`
+  - DCS English: Track 04
+  - MOHA English: Track 4
+  - Difference classification: Spelling
+- Code: `7142065`
+  - DCS English: Track 03
+  - MOHA English: Track 3
+  - Difference classification: Spelling
+- Code: `7142080`
+  - DCS English: Maha Thimbirikalla
+  - MOHA English: Maha Thibrikalla
+  - Difference classification: Spelling
+- Code: `7142100`
+  - DCS English: Panthiyawa
+  - MOHA English: Pantiyawa
+  - Difference classification: Spelling
+- Code: `7145005`
+  - DCS English: Kongollewa
+  - MOHA English: Koongollewa
+  - Difference classification: Spelling
+- Code: `7145010`
+  - DCS English: Kelegama
+  - MOHA English: Kalegama
+  - Difference classification: Spelling
+- Code: `7145040`
+  - DCS English: Kuda Bellankadawala
+  - MOHA English: Kuda Bellankada
+  - Difference classification: Spelling
+- Code: `7145045`
+  - DCS English: Konwewa
+  - MOHA English: Koonwewa
+  - Difference classification: Spelling
+- Code: `7145070`
+  - DCS English: Nallachchiya
+  - MOHA English: Nallachiya
+  - Difference classification: Spelling
+- Code: `7148010`
+  - DCS English: Pahala Thalawa
+  - MOHA English: Pahala Talawa
+  - Difference classification: Spelling
+- Code: `7148120`
+  - DCS English: Kiriamunukole
+  - MOHA English: Kiriamunakole
+  - Difference classification: Spelling
+- Code: `7148170`
+  - DCS English: Endagala
+  - MOHA English: Edagala
+  - Difference classification: Spelling
+- Code: `7151025`
+  - DCS English: Wannamkulama
+  - MOHA English: Wannankulama
+  - Difference classification: Spelling
+- Code: `7151090`
+  - DCS English: Thirappane Kadaweediya
+  - MOHA English: Tirappane Kadaweediya
+  - Difference classification: Spelling
+- Code: `7151115`
+  - DCS English: Idigahawewa
+  - MOHA English: Indigahawewa
+  - Difference classification: Spelling
+- Code: `7151155`
+  - DCS English: Pethis Rambewa
+  - MOHA English: Pethirambewa
+  - Difference classification: Spelling
+- Code: `7151195`
+  - DCS English: Amunichchiya
+  - MOHA English: Amunnichchiya
+  - Difference classification: Spelling
+- Code: `7151205`
+  - DCS English: Uttupitiya
+  - MOHA English: Uththupitiya
+  - Difference classification: Spelling
+- Code: `7154005`
+  - DCS English: Navakkulama
+  - MOHA English: Nawakkulama
+  - Difference classification: Spelling
+- Code: `7154015`
+  - DCS English: Mahadivulwewa
+  - MOHA English: Mahadiwulwewa
+  - Difference classification: Spelling
+- Code: `7154035`
+  - DCS English: Maradankadawala
+  - MOHA English: Maradankadawela
+  - Difference classification: Spelling
+- Code: `7154065`
+  - DCS English: Embulgaswewa
+  - MOHA English: Ebulgaswewa
+  - Difference classification: Spelling
+- Code: `7154070`
+  - DCS English: Olukarada
+  - MOHA English: Olukaranda
+  - Difference classification: Spelling
+- Code: `7154200`
+  - DCS English: Uduruwa
+  - MOHA English: Undurawa
+  - Difference classification: Spelling
+- Code: `7154215`
+  - DCS English: Pallehingura
+  - MOHA English: Pallehigura
+  - Difference classification: Spelling
+- Code: `7154220`
+  - DCS English: Nelbegama
+  - MOHA English: Nelbagama
+  - Difference classification: Spelling
+- Code: `7154235`
+  - DCS English: Bandarapothana
+  - MOHA English: Bandarapathana
+  - Difference classification: Spelling
+- Code: `7157005`
+  - DCS English: Maithreegama
+  - MOHA English: Mithreegama
+  - Difference classification: Spelling
+- Code: `7157035`
+  - DCS English: Senadhiriyagama
+  - MOHA English: Senadiriyagama
+  - Difference classification: Spelling
+- Code: `7157040`
+  - DCS English: Horivila
+  - MOHA English: Horovila
+  - Difference classification: Spelling
+- Code: `7157070`
+  - DCS English: Wayaulpatha
+  - MOHA English: Vayaulpatha
+  - Difference classification: Spelling
+- Code: `7160055`
+  - DCS English: Dampelessa Gama
+  - MOHA English: Dampelassagama
+  - Difference classification: Spelling
+- Code: `7160125`
+  - DCS English: Amunuwetiya
+  - MOHA English: Amunawetiya
+  - Difference classification: Spelling
+- Code: `7163015`
+  - DCS English: Otunupelandigama
+  - MOHA English: Otunupalandigama
+  - Difference classification: Spelling
+- Code: `7163035`
+  - DCS English: Kattaragama
+  - MOHA English: Kaththaragama
+  - Difference classification: Spelling
+- Code: `7163095`
+  - DCS English: Hadungama
+  - MOHA English: Handungama
+  - Difference classification: Spelling
+- Code: `7163125`
+  - DCS English: Verunkulama
+  - MOHA English: Werunkulama
+  - Difference classification: Spelling
+- Code: `7166025`
+  - DCS English: Karavilagala
+  - MOHA English: Karawilagala
+  - Difference classification: Spelling
+- Code: `7166060`
+  - DCS English: Kirindiwatta
+  - MOHA English: Kirindiwettha
+  - Difference classification: Spelling
+- Code: `7166080`
+  - DCS English: Katukeliyawa
+  - MOHA English: Katukelliyawa
+  - Difference classification: Spelling
+- Code: `7166095`
+  - DCS English: Hinguruwelpitiya
+  - MOHA English: Higuruwelpitiya
+  - Difference classification: Spelling
+- Code: `7166110`
+  - DCS English: Dambuluhalmillawewa
+  - MOHA English: Dammbuluhalmillawewa
+  - Difference classification: Spelling
+- Code: `7166160`
+  - DCS English: Pelbendiyawa
+  - MOHA English: Pelbediyawa
+  - Difference classification: Spelling
+- Code: `7166165`
+  - DCS English: Morottegama
+  - MOHA English: Morettegama
+  - Difference classification: Spelling
+- Code: `7203185`
+  - DCS English: Girithale Puranagama
+  - MOHA English: Girithale Purangama
+  - Difference classification: Spelling
+- Code: `7203255`
+  - DCS English: Katukeliyawa
+  - MOHA English: Katukaliyawa
+  - Difference classification: Spelling
+- Code: `7206015`
+  - DCS English: Ekamuthugama
+  - MOHA English: Ekemuthugama
+  - Difference classification: Spelling
+- Code: `7206020`
+  - DCS English: Meegaswewa
+  - MOHA English: Meegaswawe
+  - Difference classification: Spelling
+- Code: `7206050`
+  - DCS English: Meniksorowwa
+  - MOHA English: Menik Horowwa
+  - Difference classification: Spelling
+- Code: `7210075`
+  - DCS English: Malinda
+  - MOHA English: Mallinda
+  - Difference classification: Spelling
+- Code: `7210100`
+  - DCS English: Kadawathmaduwa
+  - MOHA English: Kadawathamaduwa
+  - Difference classification: Spelling
+- Code: `7210115`
+  - DCS English: Sevanapitiya
+  - MOHA English: Sewanapitiya
+  - Difference classification: Spelling
+- Code: `7212115`
+  - DCS English: Aralaganvila
+  - MOHA English: Aralaganwila
+  - Difference classification: Spelling
+- Code: `7212120`
+  - DCS English: Aralaganvila West
+  - MOHA English: Aralaganwila West
+  - Difference classification: Spelling
+- Code: `7212145`
+  - DCS English: Navagaha Ela
+  - MOHA English: Nawagaha Ela
+  - Difference classification: Spelling
+- Code: `7212250`
+  - DCS English: Kekulawela
+  - MOHA English: Kekuluwela
+  - Difference classification: Spelling
+- Code: `7212260`
+  - DCS English: Mewathpura
+  - MOHA English: Miewathpura
+  - Difference classification: Spelling
+- Code: `7212280`
+  - DCS English: Selasumgama
+  - MOHA English: Salasumgama
+  - Difference classification: Spelling
+- Code: `7215250`
+  - DCS English: Kotaleeya
+  - MOHA English: Kotaliya
+  - Difference classification: Spelling
+- Code: `7218080`
+  - DCS English: Somils
+  - MOHA English: Somiyals
+  - Difference classification: Spelling
+- Code: `7218085`
+  - DCS English: Gangeyaya
+  - MOHA English: Gageyaya
+  - Difference classification: Spelling
+- Code: `7218100`
+  - DCS English: Elahera
+  - MOHA English: Elahara
+  - Difference classification: Spelling
+- Code: `7218115`
+  - DCS English: Sirikanduruyaya
+  - MOHA English: Sirikanduyaya
+  - Difference classification: Spelling
+- Code: `8103015`
+  - DCS English: Aluyatawela
+  - MOHA English: Aluyatawala
+  - Difference classification: Spelling
+- Code: `8103060`
+  - DCS English: Viranegama
+  - MOHA English: Wiranegama
+  - Difference classification: Spelling
+- Code: `8103140`
+  - DCS English: Mahiyanganaya Town
+  - MOHA English: Mahiyangana Town
+  - Difference classification: Spelling
+- Code: `8106085`
+  - DCS English: Senevigama
+  - MOHA English: Senewigama
+  - Difference classification: Spelling
+- Code: `8106100`
+  - DCS English: Kuralewela
+  - MOHA English: Kooralewela
+  - Difference classification: Spelling
+- Code: `8106140`
+  - DCS English: Andaulpatha
+  - MOHA English: Andaulapatha
+  - Difference classification: Spelling
+- Code: `8109015`
+  - DCS English: Aggalaulpatha
+  - MOHA English: Aggalaulpotha
+  - Difference classification: Spelling
+- Code: `8112010`
+  - DCS English: Baduluoya West
+  - MOHA English: Badulluoya West
+  - Difference classification: Spelling
+- Code: `8112015`
+  - DCS English: Kandakepoo Ulpotha
+  - MOHA English: Kandakepu Ulpotha
+  - Difference classification: Spelling
+- Code: `8115060`
+  - DCS English: Ledgerwaththa
+  - MOHA English: Ledger Watta
+  - Difference classification: Spelling
+- Code: `8115110`
+  - DCS English: Kohovila
+  - MOHA English: Kohowila
+  - Difference classification: Spelling
+- Code: `8118080`
+  - DCS English: Sapuroda
+  - MOHA English: Supuroda
+  - Difference classification: Spelling
+- Code: `8118145`
+  - DCS English: Tholabowatta
+  - MOHA English: Tholabolawatta
+  - Difference classification: Spelling
+- Code: `8119085`
+  - DCS English: Aththanagolla
+  - MOHA English: Attanagolla
+  - Difference classification: Spelling
+- Code: `8124095`
+  - DCS English: Dickwella
+  - MOHA English: Dikwella
+  - Difference classification: Spelling
+- Code: `8124130`
+  - DCS English: Hinnarangolla
+  - MOHA English: Hinnaranagolla
+  - Difference classification: Spelling
+- Code: `8124190`
+  - DCS English: Wewalhinna
+  - MOHA English: Wewelhinna
+  - Difference classification: Spelling
+- Code: `8124230`
+  - DCS English: Dehivinna
+  - MOHA English: Dehiwinna
+  - Difference classification: Spelling
+- Code: `8127105`
+  - DCS English: Voldemar
+  - MOHA English: Vondmar
+  - Difference classification: Spelling
+- Code: `8127120`
+  - DCS English: Koradekumbura
+  - MOHA English: Korandekumbura
+  - Difference classification: Spelling
+- Code: `8127330`
+  - DCS English: Kotawera Udagama
+  - MOHA English: Kotawara Udagama
+  - Difference classification: Spelling
+- Code: `8130105`
+  - DCS English: Dayaraba Watta
+  - MOHA English: Dayabarawatta
+  - Difference classification: Spelling
+- Code: `8130120`
+  - DCS English: Dambawinna
+  - MOHA English: Dambawenna
+  - Difference classification: Spelling
+- Code: `8130170`
+  - DCS English: Mavithikumbura
+  - MOHA English: Mawithikumbura
+  - Difference classification: Spelling
+- Code: `8130200`
+  - DCS English: Mirahawatta
+  - MOHA English: Merahawatta
+  - Difference classification: Spelling
+- Code: `8130300`
+  - DCS English: Udakendagolla
+  - MOHA English: Udakandagolla
+  - Difference classification: Spelling
+- Code: `8133025`
+  - DCS English: Ettalapitiya
+  - MOHA English: Etthalapitiya
+  - Difference classification: Spelling
+- Code: `8133130`
+  - DCS English: Kebillewela South
+  - MOHA English: Kebillawela South
+  - Difference classification: Spelling
+- Code: `8133145`
+  - DCS English: Doolgolla
+  - MOHA English: Dulgolla
+  - Difference classification: Spelling
+- Code: `8136025`
+  - DCS English: Navulla
+  - MOHA English: Naulla
+  - Difference classification: Spelling
+- Code: `8136035`
+  - DCS English: Baddewela
+  - MOHA English: Beddewela
+  - Difference classification: Spelling
+- Code: `8136050`
+  - DCS English: Galtenhena
+  - MOHA English: Galtanhena
+  - Difference classification: Spelling
+- Code: `8139010`
+  - DCS English: Kahattewela
+  - MOHA English: Kahathewela
+  - Difference classification: Spelling
+- Code: `8139110`
+  - DCS English: Haputhale Town
+  - MOHA English: Haputala Town
+  - Difference classification: Spelling
+- Code: `8139115`
+  - DCS English: Pitarathmale
+  - MOHA English: Pitarathamale
+  - Difference classification: Spelling
+- Code: `8142065`
+  - DCS English: Poonagala
+  - MOHA English: Poonagalla
+  - Difference classification: Spelling
+- Code: `8142080`
+  - DCS English: Ampitithenna
+  - MOHA English: Ampitiyathenna
+  - Difference classification: Spelling
+- Code: `8142180`
+  - DCS English: Welanvita
+  - MOHA English: Welanwita
+  - Difference classification: Spelling
+- Code: `8203005`
+  - DCS English: Uravula
+  - MOHA English: Urawula
+  - Difference classification: Spelling
+- Code: `8203055`
+  - DCS English: Kokunnewa
+  - MOHA English: Kokunnawa
+  - Difference classification: Spelling
+- Code: `8203090`
+  - DCS English: Mallehewa
+  - MOHA English: Mallahawa
+  - Difference classification: Spelling
+- Code: `8203100`
+  - DCS English: Kehel Attawala
+  - MOHA English: Kehelattawela
+  - Difference classification: Spelling
+- Code: `8203110`
+  - DCS English: Udamallehewa
+  - MOHA English: Udamallahawa
+  - Difference classification: Spelling
+- Code: `8203130`
+  - DCS English: Kavudella
+  - MOHA English: Kawdella
+  - Difference classification: Spelling
+- Code: `8203135`
+  - DCS English: Rathupasketiya
+  - MOHA English: Rathupaskatiya
+  - Difference classification: Spelling
+- Code: `8203145`
+  - DCS English: Bibile
+  - MOHA English: Bibila
+  - Difference classification: Spelling
+- Code: `8203185`
+  - DCS English: Mudiyala
+  - MOHA English: Moodiyala
+  - Difference classification: Spelling
+- Code: `8206020`
+  - DCS English: Inginiyagala
+  - MOHA English: Iginiyagala
+  - Difference classification: Spelling
+- Code: `8209035`
+  - DCS English: Aiwela
+  - MOHA English: Iwela
+  - Difference classification: Spelling
+- Code: `8209065`
+  - DCS English: Kongolla
+  - MOHA English: Koongolla
+  - Difference classification: Spelling
+- Code: `8209085`
+  - DCS English: Ellekona
+  - MOHA English: Ellekoona
+  - Difference classification: Spelling
+- Code: `8209130`
+  - DCS English: Kinnarabowa
+  - MOHA English: Kinnaraboowa
+  - Difference classification: Spelling
+- Code: `8209155`
+  - DCS English: Kendavinna
+  - MOHA English: Kendawinna
+  - Difference classification: Spelling
+- Code: `8209165`
+  - DCS English: Rattanadeniya
+  - MOHA English: Raththanadeniaya
+  - Difference classification: Spelling
+- Code: `8212080`
+  - DCS English: Yakkadurawa
+  - MOHA English: Yakkandurawa
+  - Difference classification: Spelling
+- Code: `8212125`
+  - DCS English: Manabharana
+  - MOHA English: Manabarana
+  - Difference classification: Spelling
+- Code: `8212200`
+  - DCS English: Perakumpura
+  - MOHA English: Parakumpura
+  - Difference classification: Spelling
+- Code: `8215020`
+  - DCS English: Debeddekivula
+  - MOHA English: Debeddekivla
+  - Difference classification: Spelling
+- Code: `8215030`
+  - DCS English: Rattanapitiya
+  - MOHA English: Rathnapitiya
+  - Difference classification: Spelling
+- Code: `8215040`
+  - DCS English: Hidikivula
+  - MOHA English: Hidikiwla
+  - Difference classification: Spelling
+- Code: `8218005`
+  - DCS English: Gedavila
+  - MOHA English: Gadavila
+  - Difference classification: Spelling
+- Code: `8221025`
+  - DCS English: Kotikambokka
+  - MOHA English: Kotikanbokka
+  - Difference classification: Spelling
+- Code: `8221030`
+  - DCS English: Galbokka
+  - MOHA English: Gallbokka
+  - Difference classification: Spelling
+- Code: `8221035`
+  - DCS English: Dimbulamuraya
+  - MOHA English: Dimbulamure
+  - Difference classification: Spelling
+- Code: `8227005`
+  - DCS English: Sella Katharagama
+  - MOHA English: Sella Kataragama
+  - Difference classification: Spelling
+- Code: `8227010`
+  - DCS English: Katharagama
+  - MOHA English: Kataragama
+  - Difference classification: Spelling
+- Code: `8227015`
+  - DCS English: Datagamuwa
+  - MOHA English: Detagamuwa
+  - Difference classification: Spelling
+- Code: `8230010`
+  - DCS English: Kotavehera Mankada
+  - MOHA English: Kotaweheramankada
+  - Difference classification: Spelling
+- Code: `8230040`
+  - DCS English: Sooriyaara
+  - MOHA English: Suriya Ara
+  - Difference classification: Spelling
+- Code: `8230070`
+  - DCS English: Seenukkuwa
+  - MOHA English: Sienukkuwa
+  - Difference classification: Spelling
+- Code: `9103105`
+  - DCS English: Kendangamuwa Ihalagama
+  - MOHA English: Kendagamuwa Ihalagama
+  - Difference classification: Spelling
+- Code: `9103125`
+  - DCS English: Kendangamuwa
+  - MOHA English: Kandangamuwa
+  - Difference classification: Spelling
+- Code: `9103160`
+  - DCS English: Paleegala
+  - MOHA English: Paligala
+  - Difference classification: Spelling
+- Code: `9106075`
+  - DCS English: Sudagala
+  - MOHA English: Sudugala
+  - Difference classification: Spelling
+- Code: `9106085`
+  - DCS English: Kiragala
+  - MOHA English: Keeragala
+  - Difference classification: Spelling
+- Code: `9109050`
+  - DCS English: Munasinhapura
+  - MOHA English: Munasinghepura
+  - Difference classification: Spelling
+- Code: `9112135`
+  - DCS English: Amunuthenna
+  - MOHA English: Amunutenna
+  - Difference classification: Spelling
+- Code: `9112190`
+  - DCS English: Dewalegawa
+  - MOHA English: Dewalaya Gawa
+  - Difference classification: Spelling
+- Code: `9112230`
+  - DCS English: Mudduva East
+  - MOHA English: Mudduwa East
+  - Difference classification: Spelling
+- Code: `9115045`
+  - DCS English: Maddegama
+  - MOHA English: Madhdhegama
+  - Difference classification: Spelling
+- Code: `9115060`
+  - DCS English: Viharawela
+  - MOHA English: Wiharawela
+  - Difference classification: Spelling
+- Code: `9115065`
+  - DCS English: Kumburutheniwela
+  - MOHA English: Kuburutheniwala
+  - Difference classification: Spelling
+- Code: `9115075`
+  - DCS English: Yakdehiwela
+  - MOHA English: Yakdehiwala
+  - Difference classification: Spelling
+- Code: `9115080`
+  - DCS English: Muttettuwegama
+  - MOHA English: Muththettuwegama
+  - Difference classification: Spelling
+- Code: `9115100`
+  - DCS English: Nittamaluwa
+  - MOHA English: Niththamaluwa
+  - Difference classification: Spelling
+- Code: `9115145`
+  - DCS English: Kanathiriyanwala
+  - MOHA English: Kanathiriyanwela
+  - Difference classification: Spelling
+- Code: `9115155`
+  - DCS English: Gurubevila
+  - MOHA English: Gurubewila
+  - Difference classification: Spelling
+- Code: `9115160`
+  - DCS English: Pandeniya
+  - MOHA English: Pandheniya
+  - Difference classification: Spelling
+- Code: `9115165`
+  - DCS English: Pagalovita
+  - MOHA English: Pagalowita
+  - Difference classification: Spelling
+- Code: `9115170`
+  - DCS English: Maddethalawa
+  - MOHA English: Madhdhethalawa
+  - Difference classification: Spelling
+- Code: `9115235`
+  - DCS English: Rathmalavinna
+  - MOHA English: Rathmalawinna
+  - Difference classification: Spelling
+- Code: `9118015`
+  - DCS English: Wijanathkumbura
+  - MOHA English: Wijinathkumbura
+  - Difference classification: Spelling
+- Code: `9119030`
+  - DCS English: Uggalkalthota Left Bank Left
+  - MOHA English: Uggalkalthota Left Bank
+  - Difference classification: Spelling
+- Code: `9124040`
+  - DCS English: Dombagasvinna
+  - MOHA English: Dombagaswinna
+  - Difference classification: Spelling
+- Code: `9124105`
+  - DCS English: Dewalegama
+  - MOHA English: Devalegama
+  - Difference classification: Spelling
+- Code: `9124165`
+  - DCS English: Panawenna
+  - MOHA English: Panavenna
+  - Difference classification: Spelling
+- Code: `9124185`
+  - DCS English: Poronuwa
+  - MOHA English: Poranuwa
+  - Difference classification: Spelling
+- Code: `9130010`
+  - DCS English: Ketepola
+  - MOHA English: Katepola
+  - Difference classification: Spelling
+- Code: `9130025`
+  - DCS English: Pahala Galathura
+  - MOHA English: Pahala Galthura
+  - Difference classification: Spelling
+- Code: `9130050`
+  - DCS English: Gawaragiriya
+  - MOHA English: Gavaragiriya
+  - Difference classification: Spelling
+- Code: `9133110`
+  - DCS English: Kudumeeriya
+  - MOHA English: Kudumiriya
+  - Difference classification: Spelling
+- Code: `9136040`
+  - DCS English: Thuttiripitiya
+  - MOHA English: Thuththiripitiya
+  - Difference classification: Spelling
+- Code: `9136050`
+  - DCS English: Yakdehiwatta
+  - MOHA English: Yakdehiwaththa
+  - Difference classification: Spelling
+- Code: `9136095`
+  - DCS English: Kolombugama
+  - MOHA English: Colombagama
+  - Difference classification: Spelling
+- Code: `9139030`
+  - DCS English: Uda Hawpe
+  - MOHA English: Uwa Hawpe
+  - Difference classification: Spelling
+- Code: `9139090`
+  - DCS English: Miyanavita West
+  - MOHA English: Miyanawita West
+  - Difference classification: Spelling
+- Code: `9142125`
+  - DCS English: Bambaragasthenna
+  - MOHA English: Bambaragastenna
+  - Difference classification: Spelling
+- Code: `9145025`
+  - DCS English: Kongasthenna
+  - MOHA English: Kongastenna
+  - Difference classification: Spelling
+- Code: `9148040`
+  - DCS English: Miriswelpatha
+  - MOHA English: Miriswelpotha
+  - Difference classification: Spelling
+- Code: `9148055`
+  - DCS English: Udawalawa Track 02
+  - MOHA English: Udawalawa Track 2
+  - Difference classification: Spelling
+- Code: `9203050`
+  - DCS English: Hewadiwela
+  - MOHA English: Hewadiwala
+  - Difference classification: Spelling
+- Code: `9203055`
+  - DCS English: Nattambura
+  - MOHA English: Nattabura
+  - Difference classification: Spelling
+- Code: `9203070`
+  - DCS English: Medagaladeniya
+  - MOHA English: Madagaladeniya
+  - Difference classification: Spelling
+- Code: `9203080`
+  - DCS English: Udagaladeniya
+  - MOHA English: Udagaladaniya
+  - Difference classification: Spelling
+- Code: `9203085`
+  - DCS English: Dambulla
+  - MOHA English: Dabulla
+  - Difference classification: Spelling
+- Code: `9203090`
+  - DCS English: Deliwala
+  - MOHA English: Daliwala
+  - Difference classification: Spelling
+- Code: `9203150`
+  - DCS English: Eriyagolla
+  - MOHA English: Iriyagolla
+  - Difference classification: Spelling
+- Code: `9203155`
+  - DCS English: Werellapatha
+  - MOHA English: Warallapatha
+  - Difference classification: Spelling
+- Code: `9203160`
+  - DCS English: Weligamuwa
+  - MOHA English: Waligamuwa
+  - Difference classification: Spelling
+- Code: `9203165`
+  - DCS English: Thaldewa
+  - MOHA English: Thaldawa
+  - Difference classification: Spelling
+- Code: `9203285`
+  - DCS English: Naranbedda East
+  - MOHA English: Narambedda East
+  - Difference classification: Spelling
+- Code: `9203290`
+  - DCS English: Naranbedda West
+  - MOHA English: Narambedda West
+  - Difference classification: Spelling
+- Code: `9203310`
+  - DCS English: Kehelwathugoda
+  - MOHA English: Keselwathugoda
+  - Difference classification: Spelling
+- Code: `9203335`
+  - DCS English: Kottana Watta
+  - MOHA English: Koththana Watta
+  - Difference classification: Spelling
+- Code: `9203355`
+  - DCS English: Udugama Gondewala
+  - MOHA English: Udugama Gondawala
+  - Difference classification: Spelling
+- Code: `9203360`
+  - DCS English: Pattampitiya
+  - MOHA English: Paththampitiya
+  - Difference classification: Spelling
+- Code: `9203375`
+  - DCS English: Deegana Kanda
+  - MOHA English: Digana Kanda
+  - Difference classification: Spelling
+- Code: `9203390`
+  - DCS English: Yodhagama
+  - MOHA English: Yodagama
+  - Difference classification: Spelling
+- Code: `9203415`
+  - DCS English: Kumbaldiwela
+  - MOHA English: Kumbaldewela
+  - Difference classification: Spelling
+- Code: `9206015`
+  - DCS English: Keppetipola
+  - MOHA English: Keppitipola
+  - Difference classification: Spelling
+- Code: `9206180`
+  - DCS English: Edanduwawa
+  - MOHA English: Edaduwawa
+  - Difference classification: Spelling
+- Code: `9206195`
+  - DCS English: Uyanwatta
+  - MOHA English: Uyanwtta
+  - Difference classification: Spelling
+- Code: `9209005`
+  - DCS English: Deewela Udagama
+  - MOHA English: Deewala Udagama
+  - Difference classification: Spelling
+- Code: `9209020`
+  - DCS English: Uduwewela
+  - MOHA English: Uduwewala
+  - Difference classification: Spelling
+- Code: `9209065`
+  - DCS English: Devanagala
+  - MOHA English: Davanagala
+  - Difference classification: Spelling
+- Code: `9209120`
+  - DCS English: Hathgampala
+  - MOHA English: Hathgampola
+  - Difference classification: Spelling
+- Code: `9209140`
+  - DCS English: Pehinipeddara
+  - MOHA English: Pehinipaddera
+  - Difference classification: Spelling
+- Code: `9209160`
+  - DCS English: Habalakkawa
+  - MOHA English: Habalakawa
+  - Difference classification: Spelling
+- Code: `9209165`
+  - DCS English: Keerapana
+  - MOHA English: Keerapona
+  - Difference classification: Spelling
+- Code: `9209205`
+  - DCS English: Getaberi Kanda
+  - MOHA English: Gataberi Kanda
+  - Difference classification: Spelling
+- Code: `9209230`
+  - DCS English: Thelleka
+  - MOHA English: Thelleke
+  - Difference classification: Spelling
+- Code: `9209255`
+  - DCS English: Ganthuna Udagama
+  - MOHA English: Ganthne Udagama
+  - Difference classification: Spelling
+- Code: `9209260`
+  - DCS English: Ganthuna Medagama
+  - MOHA English: Ganthne Medagama
+  - Difference classification: Spelling
+- Code: `9212005`
+  - DCS English: Siyambalapitiya
+  - MOHA English: Siyabalabitiya
+  - Difference classification: Spelling
+- Code: `9212060`
+  - DCS English: Paranagampola
+  - MOHA English: Paranagampala
+  - Difference classification: Spelling
+- Code: `9212095`
+  - DCS English: Karandupotha
+  - MOHA English: Karandupana
+  - Difference classification: Spelling
+- Code: `9212135`
+  - DCS English: Deewela Medagama
+  - MOHA English: Deewela Madagama
+  - Difference classification: Spelling
+- Code: `9212155`
+  - DCS English: Kawudugama
+  - MOHA English: Kavudugama
+  - Difference classification: Spelling
+- Code: `9212170`
+  - DCS English: Thalewela
+  - MOHA English: Thalewala
+  - Difference classification: Spelling
+- Code: `9212230`
+  - DCS English: Nilapalagammana
+  - MOHA English: Neelapalagammana
+  - Difference classification: Spelling
+- Code: `9212235`
+  - DCS English: Eregama
+  - MOHA English: Eragama
+  - Difference classification: Spelling
+- Code: `9212275`
+  - DCS English: Bossella
+  - MOHA English: Bossalla
+  - Difference classification: Spelling
+- Code: `9215045`
+  - DCS English: Kandegedara
+  - MOHA English: Kandegedera
+  - Difference classification: Spelling
+- Code: `9215110`
+  - DCS English: Mayfield
+  - MOHA English: Maifield
+  - Difference classification: Spelling
+- Code: `9215120`
+  - DCS English: Dematanpitiya
+  - MOHA English: Dembatanpitiya
+  - Difference classification: Spelling
+- Code: `9215140`
+  - DCS English: Renapana
+  - MOHA English: Ranapana
+  - Difference classification: Spelling
+- Code: `9218370`
+  - DCS English: Polgampala
+  - MOHA English: Polgampola
+  - Difference classification: Spelling
+- Code: `9221095`
+  - DCS English: Gonaramba
+  - MOHA English: Gonaraba
+  - Difference classification: Spelling
+- Code: `9221130`
+  - DCS English: Puranpotta
+  - MOHA English: Puranpoththa
+  - Difference classification: Spelling
+- Code: `9221135`
+  - DCS English: Batuvita
+  - MOHA English: Batuwita
+  - Difference classification: Spelling
+- Code: `9224010`
+  - DCS English: Getiyamulla
+  - MOHA English: Gettiyamulla
+  - Difference classification: Spelling
+- Code: `9224020`
+  - DCS English: Puspane
+  - MOHA English: Pushpane
+  - Difference classification: Spelling
+- Code: `9224050`
+  - DCS English: Lewala
+  - MOHA English: Lawala
+  - Difference classification: Spelling
+- Code: `9227005`
+  - DCS English: Mattamagoda
+  - MOHA English: Maththamagoda
+  - Difference classification: Spelling
+- Code: `9227075`
+  - DCS English: Seepoth
+  - MOHA English: Seeforth
+  - Difference classification: Spelling
+- Code: `9230045`
+  - DCS English: Kahanwita
+  - MOHA English: Kahanawita
+  - Difference classification: Spelling
+- Code: `9230075`
+  - DCS English: Uduvila
+  - MOHA English: Uduwila
+  - Difference classification: Spelling
+- Code: `9230165`
+  - DCS English: Pukunuwala
+  - MOHA English: Pookunuwala
+  - Difference classification: Spelling
+- Code: `9230175`
+  - DCS English: Ambalampitiya
+  - MOHA English: Ambalanpitiya
+  - Difference classification: Spelling
+- Code: `9230195`
+  - DCS English: Elavulla
+  - MOHA English: Elawulla
+  - Difference classification: Spelling
+- Code: `9233005`
+  - DCS English: Ballahela
+  - MOHA English: Ballehela
+  - Difference classification: Spelling
+- Code: `9233040`
+  - DCS English: Wattegedara
+  - MOHA English: Wattegedera
+  - Difference classification: Spelling
+- Code: `9233110`
+  - DCS English: Demeda
+  - MOHA English: Demada
+  - Difference classification: Spelling
+- Code: `1103065`
+  - DCS English: Masangasweediya
+  - MOHA English: Massangar Street
+  - Difference classification: Substantive
+- Code: `1103130`
+  - DCS English: Kompagngnaweediya
+  - MOHA English: Slave Island
+  - Difference classification: Substantive
+- Code: `1115060`
+  - DCS English: Agra Pedesa
+  - MOHA English: Agra place
+  - Difference classification: Substantive
+- Code: `1203170`
+  - DCS English: Pitipana South East
+  - MOHA English: South Pitipana East
+  - Difference classification: Substantive
+- Code: `1209130`
+  - DCS English: Kaluwarippuwa East - Uthura
+  - MOHA English: East Kaluwarippuwa North
+  - Difference classification: Substantive
+- Code: `1209315`
+  - DCS English: Kaluwarippuwa East - Dakuna
+  - MOHA English: East Kaluwarippuwa South
+  - Difference classification: Substantive
+- Code: `1209435`
+  - DCS English: Kithulwala Ihala
+  - MOHA English: Ihala Kithulwala
+  - Difference classification: Substantive
+- Code: `1209440`
+  - DCS English: Kithulwala Pahala
+  - MOHA English: Pahala Kithulwala
+  - Difference classification: Substantive
+- Code: `1212185`
+  - DCS English: Halugama Ihala
+  - MOHA English: Ihala Halugama
+  - Difference classification: Substantive
+- Code: `1212195`
+  - DCS English: Halugama Pahala
+  - MOHA English: Pahala Halugama
+  - Difference classification: Substantive
+- Code: `1212220`
+  - DCS English: Neligama Ihala
+  - MOHA English: Ihala Neligama
+  - Difference classification: Substantive
+- Code: `1212250`
+  - DCS English: Lindara Pahala
+  - MOHA English: Pahala Lindara
+  - Difference classification: Substantive
+- Code: `1212335`
+  - DCS English: Lindara Ihala
+  - MOHA English: Ihala Lindara
+  - Difference classification: Substantive
+- Code: `1212385`
+  - DCS English: Kal/Pallewela
+  - MOHA English: Kal /Pallewela, Kotakanda
+  - Difference classification: Substantive
+- Code: `1212425`
+  - DCS English: Hirikuluwa
+  - MOHA English: Hirikuluwa,Ganemulla,Dathgama
+  - Difference classification: Substantive
+- Code: `1212515`
+  - DCS English: Hedidenikanda
+  - MOHA English: Hedidenikanda-Radawadunna
+  - Difference classification: Substantive
+- Code: `1212575`
+  - DCS English: Maligathenna Pahala
+  - MOHA English: Pahala Maligathenna
+  - Difference classification: Substantive
+- Code: `1212605`
+  - DCS English: Kumbaloluwa Ihala
+  - MOHA English: Ihala Kumbaloluwa
+  - Difference classification: Substantive
+- Code: `1212610`
+  - DCS English: Kumbaloluwa Pahala
+  - MOHA English: Pahala Kumbaloluwa
+  - Difference classification: Substantive
+- Code: `1212620`
+  - DCS English: Dumunnegedara
+  - MOHA English: Dumunnegedara - Kalatuwawa
+  - Difference classification: Substantive
+- Code: `1212660`
+  - DCS English: Radawadunna Pahala
+  - MOHA English: Pahala Radawadunna
+  - Difference classification: Substantive
+- Code: `1212715`
+  - DCS English: Kureekotuwa Pahala
+  - MOHA English: Pahala Kureekotuwa
+  - Difference classification: Substantive
+- Code: `1218015`
+  - DCS English: Delathura West
+  - MOHA English: West of Delathura
+  - Difference classification: Substantive
+- Code: `1218020`
+  - DCS English: Delathura East
+  - MOHA English: East of Delathura
+  - Difference classification: Substantive
+- Code: `1218100`
+  - DCS English: Kurukulawa North
+  - MOHA English: North of Kurukualawa
+  - Difference classification: Substantive
+- Code: `1218105`
+  - DCS English: Kurukulawa South
+  - MOHA English: South of Kurukulawa
+  - Difference classification: Substantive
+- Code: `1218165`
+  - DCS English: Nayakakanda North
+  - MOHA English: North of Nayaka Kanda
+  - Difference classification: Substantive
+- Code: `1224455`
+  - DCS English: Parakandeniya
+  - MOHA English: Parakandeniya South
+  - Difference classification: Substantive
+- Code: `1227165`
+  - DCS English: Hiripitiya Pahala
+  - MOHA English: Pahala Hiripitiya
+  - Difference classification: Substantive
+- Code: `1227220`
+  - DCS English: Ranpokunagama
+  - MOHA English: Ranpokunagama E Zone
+  - Difference classification: Substantive
+- Code: `1227250`
+  - DCS English: Orchardwatta North
+  - MOHA English: Orchardwatta
+  - Difference classification: Substantive
+- Code: `1227415`
+  - DCS English: Alawala North
+  - MOHA English: Alawala
+  - Difference classification: Substantive
+- Code: `1230050`
+  - DCS English: Millathe Ihala
+  - MOHA English: Ihala Millathe
+  - Difference classification: Substantive
+- Code: `1321190`
+  - DCS English: Pothupitiya North
+  - MOHA English: Kuda Waskaduwa South
+  - Difference classification: Substantive
+- Code: `1324165`
+  - DCS English: Akkara Asoowa
+  - MOHA English: Akkara 80
+  - Difference classification: Substantive
+- Code: `1333125`
+  - DCS English: Kalupahana
+  - MOHA English: Maha Kalupahana
+  - Difference classification: Substantive
+- Code: `1339250`
+  - DCS English: Walallavita East
+  - MOHA English: Walallawita
+  - Difference classification: Substantive
+- Code: `2103175`
+  - DCS English: Kinigama West
+  - MOHA English: Kinigama
+  - Difference classification: Substantive
+- Code: `2106055`
+  - DCS English: Pallegama Pahala
+  - MOHA English: Pahala Pallegama
+  - Difference classification: Substantive
+- Code: `2109160`
+  - DCS English: Thelambugahawatta
+  - MOHA English: Telambugahawatta Gama
+  - Difference classification: Substantive
+- Code: `2130220`
+  - DCS English: Hanthana Pedesa
+  - MOHA English: Hanthana Place
+  - Difference classification: Substantive
+- Code: `2133235`
+  - DCS English: Karanduwawala Ihala
+  - MOHA English: Ihala Karanduwawala
+  - Difference classification: Substantive
+- Code: `2133240`
+  - DCS English: Karanduwawala Pahala
+  - MOHA English: Pahala Karanduwawala
+  - Difference classification: Substantive
+- Code: `2133395`
+  - DCS English: Haloluwa Pallegama
+  - MOHA English: Hal Pallegama
+  - Difference classification: Substantive
+- Code: `2139060`
+  - DCS English: Ihala Koorukuttala
+  - MOHA English: Kurukuttala Ihala
+  - Difference classification: Substantive
+- Code: `2203010`
+  - DCS English: Dewahoowa Colony 2
+  - MOHA English: Dewahuwa Janapadaya 2
+  - Difference classification: Substantive
+- Code: `2203040`
+  - DCS English: Dewahoowa Colony 1
+  - MOHA English: Dewahuwa Janapadaya 1
+  - Difference classification: Substantive
+- Code: `2209045`
+  - DCS English: Thalagoda
+  - MOHA English: Maragamuwa
+  - Difference classification: Substantive
+- Code: `2209050`
+  - DCS English: Maragamuwa
+  - MOHA English: Haduwela
+  - Difference classification: Substantive
+- Code: `2209055`
+  - DCS English: Haduwela
+  - MOHA English: Dodamattawela
+  - Difference classification: Substantive
+- Code: `2209060`
+  - DCS English: Dodamattawela
+  - MOHA English: Karawila Hena
+  - Difference classification: Substantive
+- Code: `2209065`
+  - DCS English: Karavilahena
+  - MOHA English: Boballa
+  - Difference classification: Substantive
+- Code: `2209070`
+  - DCS English: Bobella
+  - MOHA English: Bibila
+  - Difference classification: Substantive
+- Code: `2209075`
+  - DCS English: Bibila
+  - MOHA English: Murutholuwa
+  - Difference classification: Substantive
+- Code: `2209080`
+  - DCS English: Murutholuwa
+  - MOHA English: Mailpitiya
+  - Difference classification: Substantive
+- Code: `2209085`
+  - DCS English: Mailpitiya
+  - MOHA English: Wewattawa
+  - Difference classification: Substantive
+- Code: `2209090`
+  - DCS English: Wewattawa
+  - MOHA English: Penalaboda
+  - Difference classification: Substantive
+- Code: `2209095`
+  - DCS English: Penalaboda
+  - MOHA English: Naula
+  - Difference classification: Substantive
+- Code: `2209100`
+  - DCS English: Naula
+  - MOHA English: Meegaha Ela
+  - Difference classification: Substantive
+- Code: `2209105`
+  - DCS English: Meegaha Ela
+  - MOHA English: Bowathenna Watta
+  - Difference classification: Substantive
+- Code: `2209110`
+  - DCS English: Bowathenna Watta
+  - MOHA English: Koombiyangaha Ela
+  - Difference classification: Substantive
+- Code: `2209115`
+  - DCS English: Koombiyangahaela
+  - MOHA English: Millagahamula Thenna
+  - Difference classification: Substantive
+- Code: `2209120`
+  - DCS English: Millagahamula Thenna
+  - MOHA English: Koongahawela
+  - Difference classification: Substantive
+- Code: `2209145`
+  - DCS English: Kongahawela
+  - MOHA English: Pilihudugolla Ihalagama
+  - Difference classification: Substantive
+- Code: `2209150`
+  - DCS English: Rajawela
+  - MOHA English: Arangala
+  - Difference classification: Substantive
+- Code: `2209155`
+  - DCS English: Gan Imayaya
+  - MOHA English: Habaragahamada
+  - Difference classification: Substantive
+- Code: `2209160`
+  - DCS English: Moragahamada
+  - MOHA English: Elhena
+  - Difference classification: Substantive
+- Code: `2209165`
+  - DCS English: Pilihudugolla Pahalagama
+  - MOHA English: Deeyankaduwa
+  - Difference classification: Substantive
+- Code: `2209170`
+  - DCS English: Pilihudugolla Ihalagama
+  - MOHA English: Alugolla
+  - Difference classification: Substantive
+- Code: `2209175`
+  - DCS English: Arangala
+  - MOHA English: Nalanda
+  - Difference classification: Substantive
+- Code: `2209180`
+  - DCS English: Habaragahamada
+  - MOHA English: Wambatuyaya
+  - Difference classification: Substantive
+- Code: `2209185`
+  - DCS English: Elhena
+  - MOHA English: Meegolla
+  - Difference classification: Substantive
+- Code: `2209190`
+  - DCS English: Diyankaduwa
+  - MOHA English: Ududeniya
+  - Difference classification: Substantive
+- Code: `2209195`
+  - DCS English: Alugolla
+  - MOHA English: Hapugasyaya
+  - Difference classification: Substantive
+- Code: `2209200`
+  - DCS English: Nalanda
+  - MOHA English: Lihinipitiya
+  - Difference classification: Substantive
+- Code: `2209205`
+  - DCS English: Wambatuyaya
+  - MOHA English: Senagama
+  - Difference classification: Substantive
+- Code: `2209210`
+  - DCS English: Meegolla
+  - MOHA English: Andawala
+  - Difference classification: Substantive
+- Code: `2209215`
+  - DCS English: Ududeniya
+  - MOHA English: Opalgala
+  - Difference classification: Substantive
+- Code: `2209220`
+  - DCS English: Hapugasyaya
+  - MOHA English: Ambana
+  - Difference classification: Substantive
+- Code: `2209225`
+  - DCS English: Lihinipitiya
+  - MOHA English: Moragolla
+  - Difference classification: Substantive
+- Code: `2209230`
+  - DCS English: Senagama
+  - MOHA English: Galboda
+  - Difference classification: Substantive
+- Code: `2212010`
+  - DCS English: Nilannoruwa Colony
+  - MOHA English: Nilannoruwa Janapathaya
+  - Difference classification: Substantive
+- Code: `2215025`
+  - DCS English: Matale North
+  - MOHA English: North Matale
+  - Difference classification: Substantive
+- Code: `2307110`
+  - DCS English: Happawara
+  - MOHA English: Rammalakandura
+  - Difference classification: Substantive
+- Code: `2307210`
+  - DCS English: Illagolla
+  - MOHA English: Ketahira
+  - Difference classification: Substantive
+- Code: `2307215`
+  - DCS English: Rammalakandura
+  - MOHA English: Wellagiriya
+  - Difference classification: Substantive
+- Code: `2307220`
+  - DCS English: Moragolla
+  - MOHA English: Metibembiya
+  - Difference classification: Substantive
+- Code: `2310010`
+  - DCS English: Morangathenna
+  - MOHA English: Watambe
+  - Difference classification: Substantive
+- Code: `2310015`
+  - DCS English: Hegasulla
+  - MOHA English: Thibbatugoda South
+  - Difference classification: Substantive
+- Code: `2310020`
+  - DCS English: Bolagandawela
+  - MOHA English: Rambuke
+  - Difference classification: Substantive
+- Code: `2310025`
+  - DCS English: Ambagahathenna
+  - MOHA English: Arampitiya
+  - Difference classification: Substantive
+- Code: `2310030`
+  - DCS English: Helagama
+  - MOHA English: Udamadura
+  - Difference classification: Substantive
+- Code: `2310035`
+  - DCS English: Mallagama
+  - MOHA English: Kosgolla
+  - Difference classification: Substantive
+- Code: `2310040`
+  - DCS English: Dulana
+  - MOHA English: Udamadura North
+  - Difference classification: Substantive
+- Code: `2310050`
+  - DCS English: Ellakumbura
+  - MOHA English: Kalagamwatta
+  - Difference classification: Substantive
+- Code: `2310055`
+  - DCS English: Muganagahapitiya
+  - MOHA English: Udawela
+  - Difference classification: Substantive
+- Code: `2310060`
+  - DCS English: Hapugahapitiya
+  - MOHA English: Yobuwelthenna
+  - Difference classification: Substantive
+- Code: `2310155`
+  - DCS English: Arampitiya
+  - MOHA English: Denabure
+  - Difference classification: Substantive
+- Code: `2310160`
+  - DCS English: Yombuwelthenna
+  - MOHA English: Dambagolla
+  - Difference classification: Substantive
+- Code: `2310165`
+  - DCS English: Udawela
+  - MOHA English: Gorandiyagolla
+  - Difference classification: Substantive
+- Code: `2310170`
+  - DCS English: Kalaganwatta
+  - MOHA English: Purankumbura
+  - Difference classification: Substantive
+- Code: `2310175`
+  - DCS English: Theripehe
+  - MOHA English: Dabbare
+  - Difference classification: Substantive
+- Code: `2310180`
+  - DCS English: Udamadura North
+  - MOHA English: Nildandaheenna
+  - Difference classification: Substantive
+- Code: `2310185`
+  - DCS English: Galkadawela
+  - MOHA English: Kumbukwela
+  - Difference classification: Substantive
+- Code: `2310190`
+  - DCS English: Yatimadura
+  - MOHA English: Udagama
+  - Difference classification: Substantive
+- Code: `2310195`
+  - DCS English: Kandeyaya
+  - MOHA English: Karandagolla
+  - Difference classification: Substantive
+- Code: `2310200`
+  - DCS English: Madulla North
+  - MOHA English: Kotambe
+  - Difference classification: Substantive
+- Code: `2310205`
+  - DCS English: Thunhitiyawa
+  - MOHA English: Madulla
+  - Difference classification: Substantive
+- Code: `2310210`
+  - DCS English: Wewathenna
+  - MOHA English: Madulla South
+  - Difference classification: Substantive
+- Code: `2310215`
+  - DCS English: Kosgolla
+  - MOHA English: Morahela
+  - Difference classification: Substantive
+- Code: `2310220`
+  - DCS English: Udamadura
+  - MOHA English: Kandeyaya
+  - Difference classification: Substantive
+- Code: `2310225`
+  - DCS English: Ambanella
+  - MOHA English: Roopaha
+  - Difference classification: Substantive
+- Code: `2310230`
+  - DCS English: Dabbare
+  - MOHA English: Pallewela
+  - Difference classification: Substantive
+- Code: `2310235`
+  - DCS English: Nildandaheenna
+  - MOHA English: Palugama
+  - Difference classification: Substantive
+- Code: `2310240`
+  - DCS English: Rambuke
+  - MOHA English: Maliyadda
+  - Difference classification: Substantive
+- Code: `2310245`
+  - DCS English: Watambe
+  - MOHA English: Meepanawa
+  - Difference classification: Substantive
+- Code: `2310250`
+  - DCS English: Thibbatugoda
+  - MOHA English: Roopaha East
+  - Difference classification: Substantive
+- Code: `2313005`
+  - DCS English: Bogahawatta
+  - MOHA English: Lindula
+  - Difference classification: Substantive
+- Code: `2313010`
+  - DCS English: Mount Vernon
+  - MOHA English: Hallbrook
+  - Difference classification: Substantive
+- Code: `2313015`
+  - DCS English: Watagoda
+  - MOHA English: Elbedda
+  - Difference classification: Substantive
+- Code: `2313020`
+  - DCS English: Hollyrood
+  - MOHA English: Agarapathana
+  - Difference classification: Substantive
+- Code: `2313025`
+  - DCS English: Great Western
+  - MOHA English: Dayagama West
+  - Difference classification: Substantive
+- Code: `2313085`
+  - DCS English: Barewell
+  - MOHA English: Sandrinhem
+  - Difference classification: Substantive
+- Code: `2313090`
+  - DCS English: Thalawakele
+  - MOHA English: Dayagama East
+  - Difference classification: Substantive
+- Code: `2313095`
+  - DCS English: Devon
+  - MOHA English: Weverly
+  - Difference classification: Substantive
+- Code: `2313100`
+  - DCS English: Dimbula
+  - MOHA English: Kotagala
+  - Difference classification: Substantive
+- Code: `2313105`
+  - DCS English: Stonycliff
+  - MOHA English: Kudu Oya
+  - Difference classification: Substantive
+- Code: `2313110`
+  - DCS English: Kuduoya
+  - MOHA English: Dimbula
+  - Difference classification: Substantive
+- Code: `2313115`
+  - DCS English: Kotagala
+  - MOHA English: Devon
+  - Difference classification: Substantive
+- Code: `2313120`
+  - DCS English: Drayton
+  - MOHA English: Watagoda
+  - Difference classification: Substantive
+- Code: `2313125`
+  - DCS English: Yulefield
+  - MOHA English: Thalawakele
+  - Difference classification: Substantive
+- Code: `2313130`
+  - DCS English: Coombewood
+  - MOHA English: Stonycliff
+  - Difference classification: Substantive
+- Code: `2313135`
+  - DCS English: Lindula
+  - MOHA English: Dreton
+  - Difference classification: Substantive
+- Code: `2313145`
+  - DCS English: Waltrim
+  - MOHA English: Mount Vernon
+  - Difference classification: Substantive
+- Code: `2315140`
+  - DCS English: Lakshapana
+  - MOHA English: Laxapana
+  - Difference classification: Substantive
+- Code: `3124160`
+  - DCS English: Keppitiyagoda South
+  - MOHA English: Keppitiyagoda
+  - Difference classification: Substantive
+- Code: `3127120`
+  - DCS English: Pilagoda
+  - MOHA English: Mahalapitiya
+  - Difference classification: Substantive
+- Code: `3127135`
+  - DCS English: Ganegama South
+  - MOHA English: Thilaka Udagama
+  - Difference classification: Substantive
+- Code: `3127140`
+  - DCS English: Ganegama West
+  - MOHA English: Pilagoda
+  - Difference classification: Substantive
+- Code: `3127145`
+  - DCS English: Lelkada
+  - MOHA English: Ganegama East
+  - Difference classification: Substantive
+- Code: `3127150`
+  - DCS English: Ginimellagaha West
+  - MOHA English: Ganegama South
+  - Difference classification: Substantive
+- Code: `3127155`
+  - DCS English: Ginimellagaha East
+  - MOHA English: Ganegama West
+  - Difference classification: Substantive
+- Code: `3127160`
+  - DCS English: Dodangoda
+  - MOHA English: Lelkada
+  - Difference classification: Substantive
+- Code: `3127165`
+  - DCS English: Keembiela
+  - MOHA English: Ginimellagaha West
+  - Difference classification: Substantive
+- Code: `3127170`
+  - DCS English: Kasideniya
+  - MOHA English: Ginimellagaha East
+  - Difference classification: Substantive
+- Code: `3127175`
+  - DCS English: Warakapitikanda
+  - MOHA English: Dodangoda
+  - Difference classification: Substantive
+- Code: `3127180`
+  - DCS English: Pahala Keembiya
+  - MOHA English: Thelikada
+  - Difference classification: Substantive
+- Code: `3127190`
+  - DCS English: Thelikada
+  - MOHA English: Keembi Ela
+  - Difference classification: Substantive
+- Code: `3127195`
+  - DCS English: Ginimellagaha South
+  - MOHA English: Kohombanadeniya
+  - Difference classification: Substantive
+- Code: `3127200`
+  - DCS English: Pituwalgoda
+  - MOHA English: Kasideniya
+  - Difference classification: Substantive
+- Code: `3128005`
+  - DCS English: Weihena
+  - MOHA English: Indurupathvila
+  - Difference classification: Substantive
+- Code: `3128010`
+  - DCS English: Indurupathvila
+  - MOHA English: Weihena
+  - Difference classification: Substantive
+- Code: `3128015`
+  - DCS English: Polgahavila
+  - MOHA English: Mabotuwana
+  - Difference classification: Substantive
+- Code: `3128020`
+  - DCS English: Kumbalamalahena
+  - MOHA English: Nattewela
+  - Difference classification: Substantive
+- Code: `3128025`
+  - DCS English: Ihala Lelwala
+  - MOHA English: Thalawa
+  - Difference classification: Substantive
+- Code: `3128035`
+  - DCS English: Kirindalahena
+  - MOHA English: Kumbalamalahena
+  - Difference classification: Substantive
+- Code: `3128040`
+  - DCS English: Kokawala
+  - MOHA English: Panvila
+  - Difference classification: Substantive
+- Code: `3128045`
+  - DCS English: Panvila
+  - MOHA English: Pahala Lelwala
+  - Difference classification: Substantive
+- Code: `3128050`
+  - DCS English: Wanduramba
+  - MOHA English: Kokawala
+  - Difference classification: Substantive
+- Code: `3128055`
+  - DCS English: Gulugahakanda
+  - MOHA English: Polgahavila
+  - Difference classification: Substantive
+- Code: `3128060`
+  - DCS English: Thalawa
+  - MOHA English: Deiyandara
+  - Difference classification: Substantive
+- Code: `3128065`
+  - DCS English: Mabotuwana
+  - MOHA English: Kirindalahena
+  - Difference classification: Substantive
+- Code: `3128070`
+  - DCS English: Wanduramba South
+  - MOHA English: Meda Keembiya
+  - Difference classification: Substantive
+- Code: `3128075`
+  - DCS English: Deiyandara
+  - MOHA English: Meda Keembiya East
+  - Difference classification: Substantive
+- Code: `3128080`
+  - DCS English: Meda Keembiya
+  - MOHA English: Pitiharawa
+  - Difference classification: Substantive
+- Code: `3128085`
+  - DCS English: Pitiharawa
+  - MOHA English: Thiruwanaketiya
+  - Difference classification: Substantive
+- Code: `3128090`
+  - DCS English: Thiruwanaketiya
+  - MOHA English: Ihala Keembiya
+  - Difference classification: Substantive
+- Code: `3128095`
+  - DCS English: Nattewela
+  - MOHA English: Ihala Keembiya South
+  - Difference classification: Substantive
+- Code: `3128100`
+  - DCS English: Meda Keembiya East
+  - MOHA English: Wanduramba
+  - Difference classification: Substantive
+- Code: `3128105`
+  - DCS English: Ihala Keembiya South
+  - MOHA English: Wanduramba South
+  - Difference classification: Substantive
+- Code: `3128110`
+  - DCS English: Ihala Keembiya
+  - MOHA English: Gulugahakanda
+  - Difference classification: Substantive
+- Code: `3130100`
+  - DCS English: Waduwelivitiya South
+  - MOHA English: Waduwelivitiya
+  - Difference classification: Substantive
+- Code: `3137005`
+  - DCS English: Thotavila
+  - MOHA English: Pitiwella North
+  - Difference classification: Substantive
+- Code: `3137010`
+  - DCS English: Mawadavila
+  - MOHA English: Pitiwella South
+  - Difference classification: Substantive
+- Code: `3137015`
+  - DCS English: Panvila Pahalagoda
+  - MOHA English: Kadurupe
+  - Difference classification: Substantive
+- Code: `3137020`
+  - DCS English: Imbula
+  - MOHA English: Kedala
+  - Difference classification: Substantive
+- Code: `3137025`
+  - DCS English: Katudampe
+  - MOHA English: Boossa
+  - Difference classification: Substantive
+- Code: `3137030`
+  - DCS English: Karawegoda
+  - MOHA English: Rupiwala
+  - Difference classification: Substantive
+- Code: `3137035`
+  - DCS English: Devinigoda
+  - MOHA English: Ganegoda
+  - Difference classification: Substantive
+- Code: `3137040`
+  - DCS English: Bopagoda
+  - MOHA English: Kapumulugoda
+  - Difference classification: Substantive
+- Code: `3137045`
+  - DCS English: Kandegoda
+  - MOHA English: Rathna Udagama
+  - Difference classification: Substantive
+- Code: `3137050`
+  - DCS English: Ranapanadeniya
+  - MOHA English: Dolikanda
+  - Difference classification: Substantive
+- Code: `3137055`
+  - DCS English: Rejjipura
+  - MOHA English: Mahahegoda
+  - Difference classification: Substantive
+- Code: `3137060`
+  - DCS English: Medawala
+  - MOHA English: Maliduwa
+  - Difference classification: Substantive
+- Code: `3137065`
+  - DCS English: Maliduwa
+  - MOHA English: Medawala
+  - Difference classification: Substantive
+- Code: `3137075`
+  - DCS English: Ganegoda
+  - MOHA English: Hegoda
+  - Difference classification: Substantive
+- Code: `3137080`
+  - DCS English: Rathgama Hegoda
+  - MOHA English: Rejjipura
+  - Difference classification: Substantive
+- Code: `3137085`
+  - DCS English: Palliyapitiya
+  - MOHA English: Rathgama Hegoda
+  - Difference classification: Substantive
+- Code: `3137090`
+  - DCS English: Gammeddegoda
+  - MOHA English: Ranapanadeniya
+  - Difference classification: Substantive
+- Code: `3137095`
+  - DCS English: Gammeddegoda East
+  - MOHA English: Kandegoda
+  - Difference classification: Substantive
+- Code: `3137100`
+  - DCS English: Gammeddegoda-Rajgama
+  - MOHA English: Palliyapitiya
+  - Difference classification: Substantive
+- Code: `3137105`
+  - DCS English: Owakanda
+  - MOHA English: Gammeddagoda
+  - Difference classification: Substantive
+- Code: `3137110`
+  - DCS English: Kapumulugoda
+  - MOHA English: Gammeddagoda Rathgama
+  - Difference classification: Substantive
+- Code: `3137115`
+  - DCS English: Rathna Udagama
+  - MOHA English: Gammeddagoda East
+  - Difference classification: Substantive
+- Code: `3137120`
+  - DCS English: Mahahegoda
+  - MOHA English: Owakanda
+  - Difference classification: Substantive
+- Code: `3137125`
+  - DCS English: Hegoda
+  - MOHA English: Katudampe
+  - Difference classification: Substantive
+- Code: `3137130`
+  - DCS English: Kedala
+  - MOHA English: Thotavila
+  - Difference classification: Substantive
+- Code: `3137135`
+  - DCS English: Rupeewala
+  - MOHA English: Imbula
+  - Difference classification: Substantive
+- Code: `3137140`
+  - DCS English: Dolikanda
+  - MOHA English: Mawadawila
+  - Difference classification: Substantive
+- Code: `3137145`
+  - DCS English: Boossa
+  - MOHA English: Panvila Pahalagoda
+  - Difference classification: Substantive
+- Code: `3137150`
+  - DCS English: Kadurupe
+  - MOHA English: Krawegoda
+  - Difference classification: Substantive
+- Code: `3137155`
+  - DCS English: Pitiwella South
+  - MOHA English: Devinigoda
+  - Difference classification: Substantive
+- Code: `3137160`
+  - DCS English: Pitiwella North
+  - MOHA English: Bopagoda
+  - Difference classification: Substantive
+- Code: `3139225`
+  - DCS English: Cheena Koratuwa
+  - MOHA English: China Garden
+  - Difference classification: Substantive
+- Code: `3142215`
+  - DCS English: Kerenvila
+  - MOHA English: Karanwila
+  - Difference classification: Substantive
+- Code: `3148055`
+  - DCS English: Pahala Thellambura
+  - MOHA English: Thellambura Pahala
+  - Difference classification: Substantive
+- Code: `3148060`
+  - DCS English: Ihala Thellambura
+  - MOHA English: Thellambura Iahala
+  - Difference classification: Substantive
+- Code: `3148100`
+  - DCS English: Ihala Karagoda
+  - MOHA English: Karagoda Ihala
+  - Difference classification: Substantive
+- Code: `3148135`
+  - DCS English: Pahala Karagoda
+  - MOHA English: Karagoda Pahala
+  - Difference classification: Substantive
+- Code: `3148215`
+  - DCS English: Pahala Walpola
+  - MOHA English: Walpola Pahala
+  - Difference classification: Substantive
+- Code: `3154155`
+  - DCS English: Koggala Athireka 1
+  - MOHA English: Koggala Additional I
+  - Difference classification: Substantive
+- Code: `3154160`
+  - DCS English: Koggala Athireka 2
+  - MOHA English: Koggala Additional II
+  - Difference classification: Substantive
+- Code: `3239060`
+  - DCS English: Aluth Weediya
+  - MOHA English: New Street
+  - Difference classification: Substantive
+- Code: `3242315`
+  - DCS English: Gandarawatta
+  - MOHA English: Gandarawatta South
+  - Difference classification: Substantive
+- Code: `3245115`
+  - DCS English: Gandarawatta South
+  - MOHA English: Gandarawaththa Kotasak
+  - Difference classification: Substantive
+- Code: `3245185`
+  - DCS English: Devinuwara Pradeepagara Pedesa
+  - MOHA English: Devinuwara Light House Place
+  - Difference classification: Substantive
+- Code: `3324025`
+  - DCS English: Alupothdeniya Pahala
+  - MOHA English: Pahala Alupothdeniya
+  - Difference classification: Substantive
+- Code: `3327060`
+  - DCS English: Thalahagamwaduwa Pahala
+  - MOHA English: Pahala Thalahagamwaduwa
+  - Difference classification: Substantive
+- Code: `3327065`
+  - DCS English: Thalahagamwaduwa Ihala
+  - MOHA English: Ihala Thalahagamwaduwa
+  - Difference classification: Substantive
+- Code: `3327130`
+  - DCS English: Pahala Yatigala
+  - MOHA English: Yatigala Pahala
+  - Difference classification: Substantive
+- Code: `3330355`
+  - DCS English: Wevudatta
+  - MOHA English: Wewdaththa
+  - Difference classification: Substantive
+- Code: `4106050`
+  - DCS English: Vaddukoddai South West
+  - MOHA English: Vadducoddai South West (North)
+  - Difference classification: Substantive
+- Code: `4109090`
+  - DCS English: Pandatheruppu
+  - MOHA English: Pandaththarippu
+  - Difference classification: Substantive
+- Code: `4118120`
+  - DCS English: Vatharavattai
+  - MOHA English: Watharawaththai
+  - Difference classification: Substantive
+- Code: `4118135`
+  - DCS English: Iddaikkadu
+  - MOHA English: Idaikaddu
+  - Difference classification: Substantive
+- Code: `4130155`
+  - DCS English: Meesalai East
+  - MOHA English: Meesalai North
+  - Difference classification: Substantive
+- Code: `4130170`
+  - DCS English: Meesalai North
+  - MOHA English: Meesalai East
+  - Difference classification: Substantive
+- Code: `4133020`
+  - DCS English: Ariyalai West (Centre)
+  - MOHA English: Ariyalai Center West
+  - Difference classification: Substantive
+- Code: `4133025`
+  - DCS English: Ariyalai S. W.
+  - MOHA English: Ariyalai South West(East)
+  - Difference classification: Substantive
+- Code: `4133055`
+  - DCS English: Vannarpannai N.W.
+  - MOHA English: Vannarponnai North West
+  - Difference classification: Substantive
+- Code: `4133060`
+  - DCS English: Vannarpannai N.E.
+  - MOHA English: Vannarpannai North East ( Part )
+  - Difference classification: Substantive
+- Code: `4133065`
+  - DCS English: Neeraviyady
+  - MOHA English: Vannarponnai N.E.(South)
+  - Difference classification: Substantive
+- Code: `4133095`
+  - DCS English: Nallur Irajathani
+  - MOHA English: Nallur Rajadaniya
+  - Difference classification: Substantive
+- Code: `4136090`
+  - DCS English: Attiaddy
+  - MOHA English: Aththiady
+  - Difference classification: Substantive
+- Code: `4139050`
+  - DCS English: Velanai East Centre
+  - MOHA English: Velanai Center East
+  - Difference classification: Substantive
+- Code: `4139060`
+  - DCS English: Velanai West Centre
+  - MOHA English: Velanai center west
+  - Difference classification: Substantive
+- Code: `4203005`
+  - DCS English: Talaimannar North
+  - MOHA English: Talaimannar Village North
+  - Difference classification: Substantive
+- Code: `4203025`
+  - DCS English: Talaimannar South
+  - MOHA English: Talaimannar Village South
+  - Difference classification: Substantive
+- Code: `4203135`
+  - DCS English: Pattithoddam
+  - MOHA English: Paddithottam
+  - Difference classification: Substantive
+- Code: `4212095`
+  - DCS English: Nannattan
+  - MOHA English: Nanaddan
+  - Difference classification: Substantive
+- Code: `4303065`
+  - DCS English: Anandar Pulliyankulam
+  - MOHA English: Anantha Puliyakulam
+  - Difference classification: Substantive
+- Code: `4306020`
+  - DCS English: Maradanmaduwa
+  - MOHA English: Maruthammaduwa
+  - Difference classification: Substantive
+- Code: `4306025`
+  - DCS English: Pavakkulam South Bank, Track 07
+  - MOHA English: Track 7
+  - Difference classification: Substantive
+- Code: `4312050`
+  - DCS English: Unit 4 Pavatkulam
+  - MOHA English: Pavatkulam Unit - 04
+  - Difference classification: Substantive
+- Code: `4312055`
+  - DCS English: Unit 2 Pavatkulam
+  - MOHA English: Pavatkulam Unit - 02
+  - Difference classification: Substantive
+- Code: `4312090`
+  - DCS English: Unit 9 & 10 Pavatkulam
+  - MOHA English: Pavatkulam Unit 09 & 10
+  - Difference classification: Substantive
+- Code: `4406045`
+  - DCS English: Ponnagar/Kuttymulai
+  - MOHA English: Ponnagar
+  - Difference classification: Substantive
+- Code: `4415210`
+  - DCS English: Thanneerudru East
+  - MOHA English: Thanniyoottu East
+  - Difference classification: Substantive
+- Code: `4415215`
+  - DCS English: Thanneerudru West
+  - MOHA English: Thaniyoottu West
+  - Difference classification: Substantive
+- Code: `4418005`
+  - DCS English: Gajabapura
+  - MOHA English: Kalyanipura
+  - Difference classification: Substantive
+- Code: `4418010`
+  - DCS English: Kalayanapura
+  - MOHA English: Kiriebbanwewa
+  - Difference classification: Substantive
+- Code: `4418015`
+  - DCS English: Ehetugaswewa
+  - MOHA English: Nikawewa - South
+  - Difference classification: Substantive
+- Code: `4418020`
+  - DCS English: Kiriebbanwewa
+  - MOHA English: Ahatugaswewa
+  - Difference classification: Substantive
+- Code: `4418025`
+  - DCS English: Janakapura
+  - MOHA English: Ethawatunu wewa
+  - Difference classification: Substantive
+- Code: `4418030`
+  - DCS English: Nawagajabapura
+  - MOHA English: Nikawewa - Left
+  - Difference classification: Substantive
+- Code: `4418035`
+  - DCS English: Nikawewa Left
+  - MOHA English: New Gajabhapura
+  - Difference classification: Substantive
+- Code: `4418040`
+  - DCS English: Ethawatunawewa
+  - MOHA English: Janakapura
+  - Difference classification: Substantive
+- Code: `4418045`
+  - DCS English: Nikawewa South
+  - MOHA English: Gajabhapura
+  - Difference classification: Substantive
+- Code: `4506035`
+  - DCS English: Paranthan Town
+  - MOHA English: Paranthan
+  - Difference classification: Substantive
+- Code: `4509060`
+  - DCS English: Kilinochchi Town
+  - MOHA English: Kili Town
+  - Difference classification: Substantive
+- Code: `5103030`
+  - DCS English: Ooriyankattu
+  - MOHA English: Uriyankaddu
+  - Difference classification: Substantive
+- Code: `5112005`
+  - DCS English: Sittandy 3
+  - MOHA English: Siththandi 3
+  - Difference classification: Substantive
+- Code: `5112010`
+  - DCS English: Sittandy 2
+  - MOHA English: Siththandi 2
+  - Difference classification: Substantive
+- Code: `5112015`
+  - DCS English: Sittandy 4
+  - MOHA English: Siththandi 4
+  - Difference classification: Substantive
+- Code: `5112020`
+  - DCS English: Sittandy 1
+  - MOHA English: Siththandi I
+  - Difference classification: Substantive
+- Code: `5112050`
+  - DCS English: Iyankerny Tamil
+  - MOHA English: Iyankerny
+  - Difference classification: Substantive
+- Code: `5112115`
+  - DCS English: Meerakerny
+  - MOHA English: Eravur 4
+  - Difference classification: Substantive
+- Code: `5112180`
+  - DCS English: Rugam
+  - MOHA English: Urugamam
+  - Difference classification: Substantive
+- Code: `5115005`
+  - DCS English: Ellainagar
+  - MOHA English: Eravur 02A
+  - Difference classification: Substantive
+- Code: `5115010`
+  - DCS English: Eravur 04
+  - MOHA English: Meerakerny
+  - Difference classification: Substantive
+- Code: `5115075`
+  - DCS English: Eravur 05
+  - MOHA English: Mich Nagar
+  - Difference classification: Substantive
+- Code: `5118035`
+  - DCS English: Panichalady
+  - MOHA English: Panichchayadi
+  - Difference classification: Substantive
+- Code: `5118055`
+  - DCS English: Karuvappankerny
+  - MOHA English: Karuweppankeney
+  - Difference classification: Substantive
+- Code: `5118090`
+  - DCS English: Thissaveerasingam Sathukam
+  - MOHA English: Thissaveerasingam Squre
+  - Difference classification: Substantive
+- Code: `5118115`
+  - DCS English: Gnasooriyam Sathukam
+  - MOHA English: Gnasooriyam Squre
+  - Difference classification: Substantive
+- Code: `5118150`
+  - DCS English: Thiruchendhoor
+  - MOHA English: Thiruchchenthur
+  - Difference classification: Substantive
+- Code: `5124015`
+  - DCS English: Kattankudy Division 2
+  - MOHA English: Kattankudy 2
+  - Difference classification: Substantive
+- Code: `5124030`
+  - DCS English: New Kattankudy Division South
+  - MOHA English: New Kattankudy South
+  - Difference classification: Substantive
+- Code: `5124040`
+  - DCS English: Kattankudy Division 3
+  - MOHA English: Kattankudy 3
+  - Difference classification: Substantive
+- Code: `5124045`
+  - DCS English: Kattankudy 3 West
+  - MOHA English: 165 A Div.3 West Kattankudy
+  - Difference classification: Substantive
+- Code: `5124055`
+  - DCS English: Kattankudy Division 4
+  - MOHA English: Division 04, Kattankudy
+  - Difference classification: Substantive
+- Code: `5124060`
+  - DCS English: Kattankudy Division 6
+  - MOHA English: Kattankudy 6 south
+  - Difference classification: Substantive
+- Code: `5124065`
+  - DCS English: New Kattankudy Division West
+  - MOHA English: New Kattankudy West
+  - Difference classification: Substantive
+- Code: `5124070`
+  - DCS English: New Kattankudy Division East
+  - MOHA English: New Kattankudy East
+  - Difference classification: Substantive
+- Code: `5124075`
+  - DCS English: Kattankudy 6 South
+  - MOHA English: Kattankudy Division 6 South
+  - Difference classification: Substantive
+- Code: `5124085`
+  - DCS English: Kattankudy Division 5
+  - MOHA English: Kattankudy 5
+  - Difference classification: Substantive
+- Code: `5124090`
+  - DCS English: Kattankudy 5 South
+  - MOHA English: Div.05, South Kattankudy
+  - Difference classification: Substantive
+- Code: `5127090`
+  - DCS English: Araipattai South
+  - MOHA English: Araiyampathy South
+  - Difference classification: Substantive
+- Code: `5127125`
+  - DCS English: Araipattai North
+  - MOHA English: Arayampathy North
+  - Difference classification: Substantive
+- Code: `5127130`
+  - DCS English: Araipattai 1
+  - MOHA English: Arayampathy 01
+  - Difference classification: Substantive
+- Code: `5127135`
+  - DCS English: Araipattai West
+  - MOHA English: Arayampathy West
+  - Difference classification: Substantive
+- Code: `5133120`
+  - DCS English: Munaitivu
+  - MOHA English: Munaiththeevu
+  - Difference classification: Substantive
+- Code: `5136030`
+  - DCS English: Thettathivu North
+  - MOHA English: Thettaththatheevu North
+  - Difference classification: Substantive
+- Code: `5136045`
+  - DCS English: Thettathivu South 1
+  - MOHA English: Thetthaththeevu South - 01
+  - Difference classification: Substantive
+- Code: `5212265`
+  - DCS English: Palam Kandavura
+  - MOHA English: Bridge Camp
+  - Difference classification: Substantive
+- Code: `5215030`
+  - DCS English: NawagampuraNawagamp
+  - MOHA English: Nawagampura
+  - Difference classification: Substantive
+- Code: `5215095`
+  - DCS English: Polwaga Janapadaya
+  - MOHA English: Polwaga coloney
+  - Difference classification: Substantive
+- Code: `5224045`
+  - DCS English: Natpiddimunai (M.P ) 03
+  - MOHA English: Natpittimanai Muslim Division 03
+  - Difference classification: Substantive
+- Code: `5224050`
+  - DCS English: Natpiddimunai (M.P ) 02
+  - MOHA English: Natpittimunai Muslim Division 02
+  - Difference classification: Substantive
+- Code: `5224055`
+  - DCS English: Natpiddimunai (M.P ) 01
+  - MOHA English: Natpittimunai Muslim Division 01
+  - Difference classification: Substantive
+- Code: `5224060`
+  - DCS English: Natpiddimunai (M.P ) 05
+  - MOHA English: Natpittimunai Muslim Division 05
+  - Difference classification: Substantive
+- Code: `5224065`
+  - DCS English: Natpiddimunai (M.P ) 04
+  - MOHA English: Natpittimunai Muslim Division 04
+  - Difference classification: Substantive
+- Code: `5236010`
+  - DCS English: Easankanichcheemai
+  - MOHA English: Issanganicheemai
+  - Difference classification: Substantive
+- Code: `5245005`
+  - DCS English: Thambiluvil 2
+  - MOHA English: Thambattai 2
+  - Difference classification: Substantive
+- Code: `5245010`
+  - DCS English: Thambiluvil 1
+  - MOHA English: Thambattai 1
+  - Difference classification: Substantive
+- Code: `5248025`
+  - DCS English: Vaddively
+  - MOHA English: Vattivelly
+  - Difference classification: Substantive
+- Code: `5248060`
+  - DCS English: Pakkiyawatta 2
+  - MOHA English: Pakkiyawathe Unit 2
+  - Difference classification: Substantive
+- Code: `5248080`
+  - DCS English: Komarie 02
+  - MOHA English: Komari Unit 02
+  - Difference classification: Substantive
+- Code: `5248085`
+  - DCS English: Komarie 01
+  - MOHA English: Komari unit 01
+  - Difference classification: Substantive
+- Code: `5248100`
+  - DCS English: Hidayapuram 2
+  - MOHA English: Hithayapuram Unit 2
+  - Difference classification: Substantive
+- Code: `5248105`
+  - DCS English: Hidayapuram 1
+  - MOHA English: Hithayapuram Unit1
+  - Difference classification: Substantive
+- Code: `5248125`
+  - DCS English: Pothuvil 01/Unit III
+  - MOHA English: Madhuranchenai
+  - Difference classification: Substantive
+- Code: `5251020`
+  - DCS English: Perani Lahugala
+  - MOHA English: Lahugala Peranigama
+  - Difference classification: Substantive
+- Code: `5306010`
+  - DCS English: Pulmoddai Division No 03
+  - MOHA English: Pulmoddai 03
+  - Difference classification: Substantive
+- Code: `5306015`
+  - DCS English: Pulmoddai Division No 02
+  - MOHA English: Pulmoddai 02
+  - Difference classification: Substantive
+- Code: `5306020`
+  - DCS English: Pulmoddai Division No 01
+  - MOHA English: Pulmoddai 01
+  - Difference classification: Substantive
+- Code: `5306025`
+  - DCS English: Pulmoddai Division No 04
+  - MOHA English: Pulmoddai 04
+  - Difference classification: Substantive
+- Code: `5306120`
+  - DCS English: Valayoothu
+  - MOHA English: Valaiyuttu
+  - Difference classification: Substantive
+- Code: `5312010`
+  - DCS English: Mahadivulwewa Stage I
+  - MOHA English: Mahathulwewa
+  - Difference classification: Substantive
+- Code: `5312050`
+  - DCS English: Pankulama
+  - MOHA English: Morawewa Pankulama
+  - Difference classification: Substantive
+- Code: `5315055`
+  - DCS English: Mankaiyoottu
+  - MOHA English: Mangaiyuthu
+  - Difference classification: Substantive
+- Code: `5318020`
+  - DCS English: Pokkuruni
+  - MOHA English: Potkerny
+  - Difference classification: Substantive
+- Code: `5324030`
+  - DCS English: Maharoof Gramam
+  - MOHA English: Magaru Gramam
+  - Difference classification: Substantive
+- Code: `5324050`
+  - DCS English: Alankerny
+  - MOHA English: Alenkany
+  - Difference classification: Substantive
+- Code: `5324065`
+  - DCS English: Kuddikarachchi
+  - MOHA English: Kuttikarach
+  - Difference classification: Substantive
+- Code: `6103015`
+  - DCS English: Sandagala Palatha
+  - MOHA English: Sandagala
+  - Difference classification: Substantive
+- Code: `6109050`
+  - DCS English: Kuda Kathnoruwa
+  - MOHA English: Kathnoruwa
+  - Difference classification: Substantive
+- Code: `6115005`
+  - DCS English: Palugolla Track 10 A
+  - MOHA English: Palugolla Yaya 10 A
+  - Difference classification: Substantive
+- Code: `6115010`
+  - DCS English: Palugolla Track 10 B
+  - MOHA English: Palugolla Yaya 10 B
+  - Difference classification: Substantive
+- Code: `6130075`
+  - DCS English: Kimbulwana Oya Unit 3
+  - MOHA English: Unit 03
+  - Difference classification: Substantive
+- Code: `6130160`
+  - DCS English: Neketta
+  - MOHA English: Nekaththa
+  - Difference classification: Substantive
+- Code: `6148020`
+  - DCS English: Medagama
+  - MOHA English: Hanwella
+  - Difference classification: Substantive
+- Code: `6148025`
+  - DCS English: Kosdeniya
+  - MOHA English: Palavitiya
+  - Difference classification: Substantive
+- Code: `6148030`
+  - DCS English: Wilbagedara
+  - MOHA English: Kolambagama
+  - Difference classification: Substantive
+- Code: `6148035`
+  - DCS English: Hanwella
+  - MOHA English: Gallehepitiya
+  - Difference classification: Substantive
+- Code: `6148040`
+  - DCS English: Palavitiya
+  - MOHA English: Ranorawa
+  - Difference classification: Substantive
+- Code: `6148045`
+  - DCS English: Kolambagama
+  - MOHA English: Katumuluwa
+  - Difference classification: Substantive
+- Code: `6148050`
+  - DCS English: Gallehepitiya
+  - MOHA English: Maveehena
+  - Difference classification: Substantive
+- Code: `6148055`
+  - DCS English: Ranorawa
+  - MOHA English: Rathmalla
+  - Difference classification: Substantive
+- Code: `6148060`
+  - DCS English: Katumuluwa
+  - MOHA English: Dunupotha
+  - Difference classification: Substantive
+- Code: `6148065`
+  - DCS English: Maveehena
+  - MOHA English: Beddegama
+  - Difference classification: Substantive
+- Code: `6148070`
+  - DCS English: Rathmalla
+  - MOHA English: Thissawa
+  - Difference classification: Substantive
+- Code: `6148075`
+  - DCS English: Dunupotha
+  - MOHA English: Nelibewa
+  - Difference classification: Substantive
+- Code: `6148080`
+  - DCS English: Beddegama
+  - MOHA English: Dematawa
+  - Difference classification: Substantive
+- Code: `6148085`
+  - DCS English: Thissawa
+  - MOHA English: Kanduboda
+  - Difference classification: Substantive
+- Code: `6148090`
+  - DCS English: Nelibewa
+  - MOHA English: Henegedara
+  - Difference classification: Substantive
+- Code: `6148095`
+  - DCS English: Dematawa
+  - MOHA English: Magulagama
+  - Difference classification: Substantive
+- Code: `6148100`
+  - DCS English: Kanduboda
+  - MOHA English: Angamuwa
+  - Difference classification: Substantive
+- Code: `6148105`
+  - DCS English: Henegedara
+  - MOHA English: Anukkanhena
+  - Difference classification: Substantive
+- Code: `6148110`
+  - DCS English: Magulagama
+  - MOHA English: Moragane
+  - Difference classification: Substantive
+- Code: `6148115`
+  - DCS English: Angamuwa
+  - MOHA English: Kanapothuhera
+  - Difference classification: Substantive
+- Code: `6148125`
+  - DCS English: Moragane
+  - MOHA English: Kanogama
+  - Difference classification: Substantive
+- Code: `6148130`
+  - DCS English: Kanapothuhera
+  - MOHA English: Galagedara
+  - Difference classification: Substantive
+- Code: `6148135`
+  - DCS English: Kanogama
+  - MOHA English: Adukkane
+  - Difference classification: Substantive
+- Code: `6148140`
+  - DCS English: Kandegedara
+  - MOHA English: Udugampolagedara
+  - Difference classification: Substantive
+- Code: `6148145`
+  - DCS English: Galagedara
+  - MOHA English: Weliwehera
+  - Difference classification: Substantive
+- Code: `6148150`
+  - DCS English: Adukkane
+  - MOHA English: Gonnawa
+  - Difference classification: Substantive
+- Code: `6148155`
+  - DCS English: Udugampalagedara
+  - MOHA English: Bodhimulla
+  - Difference classification: Substantive
+- Code: `6148160`
+  - DCS English: Weliwehera
+  - MOHA English: Nindawela
+  - Difference classification: Substantive
+- Code: `6148165`
+  - DCS English: Gonnawa
+  - MOHA English: Wijaya Udagama
+  - Difference classification: Substantive
+- Code: `6148170`
+  - DCS English: Bodhimulla
+  - MOHA English: Wetehepitiya
+  - Difference classification: Substantive
+- Code: `6148175`
+  - DCS English: Nindawela
+  - MOHA English: Hindawa
+  - Difference classification: Substantive
+- Code: `6148180`
+  - DCS English: Wijaya Udagama
+  - MOHA English: Kanoyaya
+  - Difference classification: Substantive
+- Code: `6148185`
+  - DCS English: Wetehepitiya
+  - MOHA English: Kandegedara
+  - Difference classification: Substantive
+- Code: `6154150`
+  - DCS English: Iluppugedara
+  - MOHA English: Theliyagonna
+  - Difference classification: Substantive
+- Code: `6163075`
+  - DCS English: Udattapola Pahala
+  - MOHA English: Pahala Udaththapola
+  - Difference classification: Substantive
+- Code: `6175165`
+  - DCS English: Meegahapelessa
+  - MOHA English: Meegaha Place
+  - Difference classification: Substantive
+- Code: `6181115`
+  - DCS English: Dampelessa
+  - MOHA English: DamPalace
+  - Difference classification: Substantive
+- Code: `6184140`
+  - DCS English: Henduwawa
+  - MOHA English: Henduwawa Colony
+  - Difference classification: Substantive
+- Code: `6187030`
+  - DCS English: Ahugoda Meda
+  - MOHA English: Meda Ahugoda
+  - Difference classification: Substantive
+- Code: `6203090`
+  - DCS English: Palakudawa
+  - MOHA English: Palakkuda
+  - Difference classification: Substantive
+- Code: `6203105`
+  - DCS English: Andankanniya
+  - MOHA English: Andankeny
+  - Difference classification: Substantive
+- Code: `6203115`
+  - DCS English: Norochchola
+  - MOHA English: Nuraichcholai
+  - Difference classification: Substantive
+- Code: `6203120`
+  - DCS English: Paniyadiya
+  - MOHA English: Panayadi
+  - Difference classification: Substantive
+- Code: `6206015`
+  - DCS English: Parana Eluwankulama
+  - MOHA English: Old Eluwankulam
+  - Difference classification: Substantive
+- Code: `6209125`
+  - DCS English: Paleegama
+  - MOHA English: Neliwewa (Paleegama)
+  - Difference classification: Substantive
+- Code: `6215060`
+  - DCS English: Parana Jumma Palli
+  - MOHA English: Old Jumma Mosque
+  - Difference classification: Substantive
+- Code: `6218105`
+  - DCS English: Kudirippuwa
+  - MOHA English: Kudieruppu
+  - Difference classification: Substantive
+- Code: `6230020`
+  - DCS English: Wijayakatupatha Elen Megoda
+  - MOHA English: Wijayakatupatha
+  - Difference classification: Substantive
+- Code: `6248065`
+  - DCS English: Pansal Handiya
+  - MOHA English: Pansal Junction
+  - Difference classification: Substantive
+- Code: `7103030`
+  - DCS English: Track B
+  - MOHA English: 'B' yaya
+  - Difference classification: Substantive
+- Code: `7106125`
+  - DCS English: Handagala Kirimetiyawa
+  - MOHA English: Kirimatiyawa
+  - Difference classification: Substantive
+- Code: `7115165`
+  - DCS English: Shuddha Nagaraya
+  - MOHA English: Scared City
+  - Difference classification: Substantive
+- Code: `7118160`
+  - DCS English: Mahakanadarawa R.B. Track 02
+  - MOHA English: Mahakandarawa South canal Tank 02
+  - Difference classification: Substantive
+- Code: `7118190`
+  - DCS English: Mahakanadarawa R.B. Track 01
+  - MOHA English: Mahakandarawa South Canal Trak 1
+  - Difference classification: Substantive
+- Code: `7124125`
+  - DCS English: Walahaviddawewa
+  - MOHA English: Sinhala Walahaviddawewa
+  - Difference classification: Substantive
+- Code: `7130015`
+  - DCS English: Mahakanadarawa Track 2
+  - MOHA English: Mahakandarawa - Yaya 02
+  - Difference classification: Substantive
+- Code: `7133010`
+  - DCS English: Step 1 part 1
+  - MOHA English: Stage (I) part (I)
+  - Difference classification: Substantive
+- Code: `7133055`
+  - DCS English: Step 1 part 2
+  - MOHA English: Stage (I) part (II)
+  - Difference classification: Substantive
+- Code: `7133060`
+  - DCS English: Step 2 part 3
+  - MOHA English: Stage (II) part (III)
+  - Difference classification: Substantive
+- Code: `7133065`
+  - DCS English: Step 2 part 2
+  - MOHA English: Stage (II) part (II)
+  - Difference classification: Substantive
+- Code: `7133075`
+  - DCS English: Step 3 part 3
+  - MOHA English: Stage (III) part (III)
+  - Difference classification: Substantive
+- Code: `7133080`
+  - DCS English: Step2 part 1
+  - MOHA English: Stage (II) part (I)
+  - Difference classification: Substantive
+- Code: `7133085`
+  - DCS English: Step 2 part 4
+  - MOHA English: Stage (II) part (IV)
+  - Difference classification: Substantive
+- Code: `7133090`
+  - DCS English: Wanniyankulama Kotasa 4
+  - MOHA English: Vanniyankulama (IV)
+  - Difference classification: Substantive
+- Code: `7133095`
+  - DCS English: Wanniyankulama Kotasa 5
+  - MOHA English: Vanniyankulama (V)
+  - Difference classification: Substantive
+- Code: `7133100`
+  - DCS English: Wanniyankulama Kotasa 6
+  - MOHA English: Vanniyankulama (VI)
+  - Difference classification: Substantive
+- Code: `7133120`
+  - DCS English: Step 3 part 1
+  - MOHA English: Stage(III) part (I)
+  - Difference classification: Substantive
+- Code: `7133125`
+  - DCS English: Step 3 part 2
+  - MOHA English: Stage(III) part (II)
+  - Difference classification: Substantive
+- Code: `7133130`
+  - DCS English: Wanniyankulama kotasa 3
+  - MOHA English: Vanniyankulama (III)
+  - Difference classification: Substantive
+- Code: `7133135`
+  - DCS English: Wanniyankulama kotasa 1
+  - MOHA English: Vanniyankulama (I)
+  - Difference classification: Substantive
+- Code: `7133140`
+  - DCS English: Wanniyankulama kotasa 2
+  - MOHA English: Vanniyankulama (II)
+  - Difference classification: Substantive
+- Code: `7136055`
+  - DCS English: Kaluvila North
+  - MOHA English: Uthuru Kaluwila
+  - Difference classification: Substantive
+- Code: `7139085`
+  - DCS English: Ralapanawa Colony
+  - MOHA English: Ralapanawa Jnapadaya
+  - Difference classification: Substantive
+- Code: `7142005`
+  - DCS English: Thulana Track 18
+  - MOHA English: Track 13 - 18
+  - Difference classification: Substantive
+- Code: `7142025`
+  - DCS English: Track 09 - 10
+  - MOHA English: Thulana Track 9 - 10
+  - Difference classification: Substantive
+- Code: `7151120`
+  - DCS English: Perimiyankulama
+  - MOHA English: Paindikulama
+  - Difference classification: Substantive
+- Code: `7157060`
+  - DCS English: Demuththewa
+  - MOHA English: Demunnewa
+  - Difference classification: Substantive
+- Code: `7160110`
+  - DCS English: Kagama 5 Ela
+  - MOHA English: R.B. 2 Ela Kagama
+  - Difference classification: Substantive
+- Code: `7163150`
+  - DCS English: Siyambalangamuwa South
+  - MOHA English: Dakunu Siyambalagamuwa
+  - Difference classification: Substantive
+- Code: `7206045`
+  - DCS English: Kavuduluwewa (Ralapanawa)
+  - MOHA English: Kavuduluwewa
+  - Difference classification: Substantive
+- Code: `8121050`
+  - DCS English: Thelbedda
+  - MOHA English: Thelbedda Estate
+  - Difference classification: Substantive
+- Code: `8130315`
+  - DCS English: Ohiya Estate
+  - MOHA English: Ohiya Watta
+  - Difference classification: Substantive
+- Code: `8139090`
+  - DCS English: Glenanore
+  - MOHA English: Glananor Watta
+  - Difference classification: Substantive
+- Code: `9118105`
+  - DCS English: Meddekanda
+  - MOHA English: Rajawaka
+  - Difference classification: Substantive
+- Code: `9118110`
+  - DCS English: Ellewatta
+  - MOHA English: Bowatta
+  - Difference classification: Substantive
+- Code: `9118115`
+  - DCS English: Polwathugoda
+  - MOHA English: Wikiliya
+  - Difference classification: Substantive
+- Code: `9118120`
+  - DCS English: Durakanda
+  - MOHA English: Thotupalathenna
+  - Difference classification: Substantive
+- Code: `9118125`
+  - DCS English: Rassagala
+  - MOHA English: Kirimetithenna
+  - Difference classification: Substantive
+- Code: `9118130`
+  - DCS English: Ampitiyawatta
+  - MOHA English: Dehigastalawa
+  - Difference classification: Substantive
+- Code: `9118135`
+  - DCS English: Massenna
+  - MOHA English: Balangoda Town
+  - Difference classification: Substantive
+- Code: `9118140`
+  - DCS English: Pettigala
+  - MOHA English: Balangoda
+  - Difference classification: Substantive
+- Code: `9118145`
+  - DCS English: Pallekanda
+  - MOHA English: Jahinkanda
+  - Difference classification: Substantive
+- Code: `9118150`
+  - DCS English: Ellepola
+  - MOHA English: Meddekanda
+  - Difference classification: Substantive
+- Code: `9118155`
+  - DCS English: Thalangama
+  - MOHA English: Ellewatta
+  - Difference classification: Substantive
+- Code: `9118160`
+  - DCS English: Kumara Gama
+  - MOHA English: Polwathugoda
+  - Difference classification: Substantive
+- Code: `9118165`
+  - DCS English: Damahana
+  - MOHA English: Durakanda
+  - Difference classification: Substantive
+- Code: `9118170`
+  - DCS English: Godakumbura
+  - MOHA English: Rassagala
+  - Difference classification: Substantive
+- Code: `9118175`
+  - DCS English: Imbulamura
+  - MOHA English: Ampitiyawatta
+  - Difference classification: Substantive
+- Code: `9118180`
+  - DCS English: Mahawalathenna
+  - MOHA English: Massenna
+  - Difference classification: Substantive
+- Code: `9118185`
+  - DCS English: Theladiriya
+  - MOHA English: Pettigala
+  - Difference classification: Substantive
+- Code: `9118190`
+  - DCS English: Mawela
+  - MOHA English: Pallekanda
+  - Difference classification: Substantive
+- Code: `9118195`
+  - DCS English: Welage
+  - MOHA English: Ellepola
+  - Difference classification: Substantive
+- Code: `9118200`
+  - DCS English: Gawaranhena
+  - MOHA English: Thalangama
+  - Difference classification: Substantive
+- Code: `9118205`
+  - DCS English: Horaketiya
+  - MOHA English: Kumara Gama
+  - Difference classification: Substantive
+- Code: `9119005`
+  - DCS English: Thanjanthenna
+  - MOHA English: Kalthota
+  - Difference classification: Substantive
+- Code: `9119010`
+  - DCS English: Kalthota
+  - MOHA English: Medabedda
+  - Difference classification: Substantive
+- Code: `9119015`
+  - DCS English: Uggalkalthota Left Bank South
+  - MOHA English: Thanjanthenna
+  - Difference classification: Substantive
+- Code: `9119020`
+  - DCS English: Medabedda
+  - MOHA English: Neluyaya
+  - Difference classification: Substantive
+- Code: `9119025`
+  - DCS English: Neluyaya
+  - MOHA English: Kuragala
+  - Difference classification: Substantive
+- Code: `9119035`
+  - DCS English: Welipathayaya
+  - MOHA English: Uggalkalthota Left Bank South
+  - Difference classification: Substantive
+- Code: `9119040`
+  - DCS English: Kuragala
+  - MOHA English: Diyavinna
+  - Difference classification: Substantive
+- Code: `9119045`
+  - DCS English: Molamura
+  - MOHA English: Welipathayaya
+  - Difference classification: Substantive
+- Code: `9119050`
+  - DCS English: Kongahamankada
+  - MOHA English: Molamure
+  - Difference classification: Substantive
+- Code: `9119060`
+  - DCS English: Diyavinna
+  - MOHA English: Kongahamankada
+  - Difference classification: Substantive
+- Code: `9203065`
+  - DCS English: Kudagama South
+  - MOHA English: Kudagama dakuna
+  - Difference classification: Substantive
+- Code: `9203215`
+  - DCS English: Rambukkana Town
+  - MOHA English: Rambukkana City
+  - Difference classification: Substantive
+- Code: `9209275`
+  - DCS English: Deiyanwala
+  - MOHA English: Deiyanwala gama
+  - Difference classification: Substantive
+- Code: `9224065`
+  - DCS English: Nevismiyar Ihala
+  - MOHA English: Knews Mior Ihala
+  - Difference classification: Substantive
+- Code: `9224110`
+  - DCS English: Punehela
+  - MOHA English: Poonahela
+  - Difference classification: Substantive
+- Code: `9227020`
+  - DCS English: Garagoda Pahala
+  - MOHA English: Pahala Garagoda
+  - Difference classification: Substantive
+- Code: `9227025`
+  - DCS English: Garagoda Ihala
+  - MOHA English: Ihala Garagoda
+  - Difference classification: Substantive
+- Code: `9230085`
+  - DCS English: Pahala Thaldoowa
+  - MOHA English: Lower Thalduwa
+  - Difference classification: Substantive
+- Code: `9230090`
+  - DCS English: Ihala Thaldoowa
+  - MOHA English: Upper Thalduwa
+  - Difference classification: Substantive
+- Code: `1212450`
+  - DCS English: Weragoda/Kakkele
+  - MOHA English: Weragoda / Kakkele
+  - Difference classification: WhitespaceOnly
+- Code: `1212510`
+  - DCS English: Ilukpatha/Weragoda
+  - MOHA English: Ilukpatha / Weragoda
+  - Difference classification: WhitespaceOnly
+- Code: `1215575`
+  - DCS English: Kotugoda 2
+  - MOHA English: Kotugoda2
+  - Difference classification: WhitespaceOnly
+- Code: `1215580`
+  - DCS English: Kotugoda 1
+  - MOHA English: Kotugoda1
+  - Difference classification: WhitespaceOnly
+- Code: `1224250`
+  - DCS English: Moragoda 1
+  - MOHA English: Moragoda1
+  - Difference classification: WhitespaceOnly
+- Code: `1224425`
+  - DCS English: Parakandeniya North 1
+  - MOHA English: Parakandeniya North1
+  - Difference classification: WhitespaceOnly
+- Code: `1224430`
+  - DCS English: Kossinna West 1
+  - MOHA English: Kossinna West1
+  - Difference classification: WhitespaceOnly
+- Code: `1224440`
+  - DCS English: Kossinna West 2
+  - MOHA English: Kossinna West2
+  - Difference classification: WhitespaceOnly
+- Code: `1224450`
+  - DCS English: Parakandeniya North 2
+  - MOHA English: Parakandeniya North2
+  - Difference classification: WhitespaceOnly
+- Code: `1224500`
+  - DCS English: Embaraluwa South 1
+  - MOHA English: Embaraluwa South1
+  - Difference classification: WhitespaceOnly
+- Code: `2106070`
+  - DCS English: Kovilamuduna
+  - MOHA English: Kovila muduna
+  - Difference classification: WhitespaceOnly
+- Code: `2206210`
+  - DCS English: Angunawel pelessa
+  - MOHA English: Angunawelpelessa
+  - Difference classification: WhitespaceOnly
+- Code: `3106060`
+  - DCS English: Hegalla-Piyagama
+  - MOHA English: Hegalla - Piyagama
+  - Difference classification: WhitespaceOnly
+- Code: `3109070`
+  - DCS English: Lenagal Palatha
+  - MOHA English: LenagalPalatha
+  - Difference classification: WhitespaceOnly
+- Code: `3309160`
+  - DCS English: Rana Keliya
+  - MOHA English: RanaKeliya
+  - Difference classification: WhitespaceOnly
+- Code: `4509005`
+  - DCS English: Akkarayankulam
+  - MOHA English: Akkarayan kulam
+  - Difference classification: WhitespaceOnly
+- Code: `4509140`
+  - DCS English: Skanthapuram
+  - MOHA English: Skantha puram
+  - Difference classification: WhitespaceOnly
+- Code: `5112190`
+  - DCS English: Periyapullumalai
+  - MOHA English: Periya pullumalai
+  - Difference classification: WhitespaceOnly
+- Code: `5218165`
+  - DCS English: Udanga02
+  - MOHA English: Udanga 02
+  - Difference classification: WhitespaceOnly
+- Code: `5306040`
+  - DCS English: Kaddukulam
+  - MOHA English: Kaddu kulam
+  - Difference classification: WhitespaceOnly
+- Code: `5324145`
+  - DCS English: Sinna Kinniya
+  - MOHA English: SinnaKinniya
+  - Difference classification: WhitespaceOnly
+- Code: `6109115`
+  - DCS English: Ihala Embogama
+  - MOHA English: IhalaEmbogama
+  - Difference classification: WhitespaceOnly
+- Code: `6118125`
+  - DCS English: Kadigawa Track 1
+  - MOHA English: Kadigawa Track1
+  - Difference classification: WhitespaceOnly
+- Code: `6118130`
+  - DCS English: Kadigawa Track 3
+  - MOHA English: Kadigawa Track3
+  - Difference classification: WhitespaceOnly
+- Code: `6133195`
+  - DCS English: Kirindiwelmada / Galagedara
+  - MOHA English: Kirindiwelmada/Galagedara
+  - Difference classification: WhitespaceOnly
+- Code: `6160170`
+  - DCS English: Mee/ Pallegama West
+  - MOHA English: Mee/Pallegama West
+  - Difference classification: WhitespaceOnly
+- Code: `6160175`
+  - DCS English: Mee/ Medagamgoda
+  - MOHA English: Mee/Medagamgoda
+  - Difference classification: WhitespaceOnly
+- Code: `6160180`
+  - DCS English: Mee/ Wambugamgoda
+  - MOHA English: Mee/Wambugamgoda
+  - Difference classification: WhitespaceOnly
+- Code: `6181035`
+  - DCS English: Meewewa / Bemmullegedara
+  - MOHA English: Meewewa/Bemmullegedara
+  - Difference classification: WhitespaceOnly
+- Code: `7121070`
+  - DCS English: Sampathgama
+  - MOHA English: Sampath gama
+  - Difference classification: WhitespaceOnly
+- Code: `7124005`
+  - DCS English: Wahalkada D 2
+  - MOHA English: Wahalkada D2
+  - Difference classification: WhitespaceOnly
+- Code: `7163075`
+  - DCS English: Pitiye Yaya
+  - MOHA English: PitiyeYaya
+  - Difference classification: WhitespaceOnly
+- Code: `7203175`
+  - DCS English: C.P.Pura
+  - MOHA English: C.P. Pura
+  - Difference classification: WhitespaceOnly
+- Code: `8203125`
+  - DCS English: Badullagammana
+  - MOHA English: Badulla gammana
+  - Difference classification: WhitespaceOnly
+- Code: `9203295`
+  - DCS English: Marukwathura
+  - MOHA English: Maruk wathura
+  - Difference classification: WhitespaceOnly
+
