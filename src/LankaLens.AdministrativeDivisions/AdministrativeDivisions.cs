@@ -19,8 +19,14 @@ public static class AdministrativeDivisions
     /// Loaded once from the embedded assembly resource on first access.
     /// </summary>
     /// <remarks>
+    /// <para>
+    /// Initialization is thread-safe (<see cref="LazyThreadSafetyMode.ExecutionAndPublication"/>).
+    /// The provider is immutable after load and safe for concurrent reads.
+    /// </para>
+    /// <para>
     /// Throws <see cref="InvalidOperationException"/> if the embedded package data cannot be loaded
     /// or violates required runtime invariants. This indicates a broken package, not normal user input.
+    /// </para>
     /// </remarks>
     public static IAdministrativeDivisionProvider Default => DefaultProvider.Value;
 }

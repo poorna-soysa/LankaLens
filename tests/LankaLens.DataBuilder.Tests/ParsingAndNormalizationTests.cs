@@ -71,8 +71,10 @@ public sealed class ParsingAndNormalizationTests
         Assert.Equal(json1, json2);
         Assert.Equal(["1", "2"], dataset.Provinces.Select(p => p.Code));
         Assert.Equal(["11", "21"], dataset.Districts.Select(d => d.Code));
-        Assert.True(dataset.GramaNiladhariDivisions[0].Code.CompareTo(
-            dataset.GramaNiladhariDivisions[^1].Code, StringComparison.Ordinal) < 0);
+        Assert.True(string.Compare(
+            dataset.GramaNiladhariDivisions[0].Code,
+            dataset.GramaNiladhariDivisions[^1].Code,
+            StringComparison.Ordinal) < 0);
     }
 
     [Fact]

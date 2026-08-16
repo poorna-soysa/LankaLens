@@ -38,5 +38,7 @@ Place gitignored snapshots under `source/` using the filenames in `sources.json`
 
 See also:
 
+- [`DATA-NOTICE.md`](../DATA-NOTICE.md) — software vs data licence boundary; data-source notice
+- [`docs/data-licensing-review.md`](../docs/data-licensing-review.md) — Phase 5.1 redistribution analysis (historical)
 - [`docs/data-sources.md`](../docs/data-sources.md)
 - [`docs/contributing-data.md`](../docs/contributing-data.md)

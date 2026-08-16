@@ -1,0 +1,264 @@
+name: Publish
+
+# Intentional release only — never publish from ordinary push/PR CI.
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type publish to push packages to NuGet.org"
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    if: >
+      github.event_name == 'release' ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.confirm == 'publish')
+    outputs:
+      package_id: ${{ steps.identity.outputs.package_id }}
+      package_version: ${{ steps.identity.outputs.package_version }}
+      package_sha256: ${{ steps.identity.outputs.package_sha256 }}
+      package_size: ${{ steps.identity.outputs.package_size }}
+      package_path: ${{ steps.identity.outputs.package_path }}
+      tests_passed: ${{ steps.identity.outputs.tests_passed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore
+        run: dotnet restore LankaLens.sln
+
+      - name: Build
+        run: dotnet build LankaLens.sln -c Release --no-restore
+
+      - name: Test
+        run: dotnet test LankaLens.sln -c Release --no-build --verbosity normal
+
+      - name: Pack
+        run: dotnet pack src/LankaLens.AdministrativeDivisions/LankaLens.AdministrativeDivisions.csproj -c Release --no-build
+
+      - name: Inspect package identity and safety dump
+        id: identity
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          EXPECTED_ID="LankaLens.AdministrativeDivisions"
+          EXPECTED_VERSION="0.1.0-preview.1"
+
+          if [[ "${{ github.event_name }}" == "release" ]]; then
+            TAG="${{ github.event.release.tag_name }}"
+            EXPECTED_VERSION="${TAG#v}"
+          fi
+
+          NUPKG="artifacts/packages/${EXPECTED_ID}.${EXPECTED_VERSION}.nupkg"
+          SNUPKG="artifacts/packages/${EXPECTED_ID}.${EXPECTED_VERSION}.snupkg"
+
+          if [[ ! -f "$NUPKG" ]]; then
+            echo "Expected package not found: $NUPKG"
+            ls -la artifacts/packages || true
+            exit 1
+          fi
+
+          if [[ ! -f "$SNUPKG" ]]; then
+            echo "Expected symbol package not found: $SNUPKG"
+            exit 1
+          fi
+
+          EXTRACT=$(mktemp -d)
+          unzip -q "$NUPKG" -d "$EXTRACT"
+          NUSPEC=$(find "$EXTRACT" -name "*.nuspec" | head -n 1)
+
+          META=$(NUSPEC_PATH="$NUSPEC" python3 -c '
+          import os, xml.etree.ElementTree as ET
+          root = ET.parse(os.environ["NUSPEC_PATH"]).getroot()
+
+          def local(tag: str) -> str:
+              return tag.split("}")[-1] if "}" in tag else tag
+
+          md = None
+          for child in root:
+              if local(child.tag) == "metadata":
+                  md = child
+                  break
+          if md is None:
+              raise SystemExit("nuspec metadata missing")
+
+          fields = {}
+          for child in md:
+              name = local(child.tag)
+              if name in ("id", "version"):
+                  fields[name] = (child.text or "").strip()
+              elif name == "license":
+                  fields["license"] = (child.text or "").strip()
+              elif name == "repository":
+                  fields["repo_url"] = child.attrib.get("url", "")
+                  fields["repo_commit"] = child.attrib.get("commit", "")
+
+          for key in ("id", "version", "license", "repo_url", "repo_commit"):
+              print(f"{key}={fields.get(key, '')}")
+          ')
+
+          PACKAGE_ID=$(echo "$META" | sed -n 's/^id=//p')
+          PACKAGE_VERSION=$(echo "$META" | sed -n 's/^version=//p')
+          LICENSE=$(echo "$META" | sed -n 's/^license=//p')
+          REPO_URL=$(echo "$META" | sed -n 's/^repo_url=//p')
+          REPO_COMMIT=$(echo "$META" | sed -n 's/^repo_commit=//p')
+
+          if [[ "$PACKAGE_ID" != "$EXPECTED_ID" ]]; then
+            echo "Package ID mismatch: got '$PACKAGE_ID', expected '$EXPECTED_ID'"
+            exit 1
+          fi
+          if [[ "$PACKAGE_VERSION" != "$EXPECTED_VERSION" ]]; then
+            echo "Package version mismatch: got '$PACKAGE_VERSION', expected '$EXPECTED_VERSION'"
+            exit 1
+          fi
+          if [[ "$LICENSE" != "MIT" ]]; then
+            echo "Expected MIT license expression, got '$LICENSE'"
+            exit 1
+          fi
+          if [[ "$REPO_URL" != *"github.com/poorna-soysa/LankaLens"* ]]; then
+            echo "Unexpected repository URL: '$REPO_URL'"
+            exit 1
+          fi
+          if [[ -z "$REPO_COMMIT" ]]; then
+            echo "Repository commit metadata missing (Source Link / checkout depth?)"
+            exit 1
+          fi
+          if [[ ! -f "$EXTRACT/README.md" ]]; then
+            echo "Package missing README.md"
+            exit 1
+          fi
+          if [[ ! -f "$EXTRACT/DATA-NOTICE.md" ]]; then
+            echo "Package missing DATA-NOTICE.md"
+            exit 1
+          fi
+          if [[ ! -f "$EXTRACT/lib/net8.0/${EXPECTED_ID}.dll" ]]; then
+            echo "Package missing runtime DLL"
+            exit 1
+          fi
+
+          SHA256=$(sha256sum "$NUPKG" | awk '{print $1}')
+          SIZE=$(stat -c%s "$NUPKG")
+
+          {
+            echo "### Publication safety dump (pre-push)"
+            echo ""
+            echo "| Field | Value |"
+            echo "|-------|-------|"
+            echo "| Package path | \`$NUPKG\` |"
+            echo "| Package ID | \`$PACKAGE_ID\` |"
+            echo "| Version | \`$PACKAGE_VERSION\` |"
+            echo "| SHA-256 | \`$SHA256\` |"
+            echo "| Package size | $SIZE bytes |"
+            echo "| Symbol package | \`$SNUPKG\` |"
+            echo "| Tests | passed |"
+            echo "| License | MIT |"
+            echo "| Repository commit | \`$REPO_COMMIT\` |"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          echo "package_id=$PACKAGE_ID" >> "$GITHUB_OUTPUT"
+          echo "package_version=$PACKAGE_VERSION" >> "$GITHUB_OUTPUT"
+          echo "package_sha256=$SHA256" >> "$GITHUB_OUTPUT"
+          echo "package_size=$SIZE" >> "$GITHUB_OUTPUT"
+          echo "package_path=$NUPKG" >> "$GITHUB_OUTPUT"
+          echo "tests_passed=true" >> "$GITHUB_OUTPUT"
+
+          echo "PACKAGE_PATH=$NUPKG"
+          echo "PACKAGE_ID=$PACKAGE_ID"
+          echo "VERSION=$PACKAGE_VERSION"
+          echo "SHA-256=$SHA256"
+          echo "SIZE=$SIZE"
+          echo "TESTS=passed"
+
+          rm -rf "$EXTRACT"
+
+      - name: Upload packages
+        uses: actions/upload-artifact@v4
+        with:
+          name: nuget-packages
+          path: |
+            artifacts/packages/LankaLens.AdministrativeDivisions.${{ steps.identity.outputs.package_version }}.nupkg
+            artifacts/packages/LankaLens.AdministrativeDivisions.${{ steps.identity.outputs.package_version }}.snupkg
+          if-no-files-found: error
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: verify
+    environment: nuget-publish
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - name: Download packages
+        uses: actions/download-artifact@v4
+        with:
+          name: nuget-packages
+          path: artifacts/packages
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Pre-push confirmation dump
+        shell: bash
+        run: |
+          set -euo pipefail
+          NUPKG="artifacts/packages/LankaLens.AdministrativeDivisions.${{ needs.verify.outputs.package_version }}.nupkg"
+          SNUPKG="artifacts/packages/LankaLens.AdministrativeDivisions.${{ needs.verify.outputs.package_version }}.snupkg"
+          if [[ ! -f "$NUPKG" || ! -f "$SNUPKG" ]]; then
+            echo "Downloaded packages missing."
+            ls -la artifacts/packages || true
+            exit 1
+          fi
+          ACTUAL_SHA=$(sha256sum "$NUPKG" | awk '{print $1}')
+          EXPECTED_SHA="${{ needs.verify.outputs.package_sha256 }}"
+          if [[ "$ACTUAL_SHA" != "$EXPECTED_SHA" ]]; then
+            echo "SHA-256 mismatch after download. expected=$EXPECTED_SHA actual=$ACTUAL_SHA"
+            exit 1
+          fi
+          {
+            echo "### Publication safety dump (awaiting Trusted Publishing push)"
+            echo ""
+            echo "| Field | Value |"
+            echo "|-------|-------|"
+            echo "| Package path | \`$NUPKG\` |"
+            echo "| Package ID | \`${{ needs.verify.outputs.package_id }}\` |"
+            echo "| Version | \`${{ needs.verify.outputs.package_version }}\` |"
+            echo "| SHA-256 | \`$ACTUAL_SHA\` |"
+            echo "| Package size | ${{ needs.verify.outputs.package_size }} bytes |"
+            echo "| Tests | ${{ needs.verify.outputs.tests_passed }} |"
+            echo "| Method | NuGet.org Trusted Publishing (OIDC) |"
+          } >> "$GITHUB_STEP_SUMMARY"
+          echo "Ready to authenticate via Trusted Publishing and push the exact package above."
+
+      - name: NuGet login (OIDC → temporary API key)
+        uses: NuGet/login@v1
+        id: login
+        with:
+          user: ${{ secrets.NUGET_USER }}
+
+      - name: Push package and symbols to NuGet.org
+        shell: bash
+        run: |
+          set -euo pipefail
+          NUPKG="artifacts/packages/LankaLens.AdministrativeDivisions.${{ needs.verify.outputs.package_version }}.nupkg"
+          # Push the exact .nupkg; the NuGet client publishes the sibling .snupkg when present.
+          dotnet nuget push "$NUPKG" \
+            --api-key "${{ steps.login.outputs.NUGET_API_KEY }}" \
+            --source https://api.nuget.org/v3/index.json \
+            --skip-duplicate

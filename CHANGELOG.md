@@ -7,28 +7,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
-
-- Phase 4 production canonical dataset generation and runtime embedding
-- Internal `EmbeddedAdministrativeDivisionLoader` with fail-fast package-data errors
-- Production integration tests against the embedded snapshot
-- `data/source/snapshot-expectations.json` for versioned counts and coverage gates
-
 ### Changed
 
-- `LocalizedName.Sinhala` and `LocalizedName.Tamil` are nullable (`null` = no verified authoritative value)
-- `AdministrativeDivisions.Default` loads the embedded production dataset once (lazy, thread-safe)
-- DataBuilder `build` materializes DCS + MOHA + mappings + overlays into canonical JSON
-- README and data-sources documentation describe real multilingual coverage limitations
+- Removed the permission-based NuGet publication gate (DCS/MOHA written permission is no longer required before publish); technical release gates remain
 
-### Removed
+### Planned
 
-- Runtime `DevelopmentDataset` / `DEV-*` fixture from the library (tests retain a synthetic fixture)
+- First public NuGet prerelease **`0.1.0-preview.1`** (not yet published to NuGet.org)
+
+### Added
+
+- Phase 5 release hardening: NuGet metadata, Source Link, symbols, deterministic CI packaging
+- SDK package validation baseline under `eng/api-compat/`
+- Package-oriented README for NuGet.org rendering
+- Immutability, concurrency, culture-independence, and Unicode integrity tests
+- Dataset SHA-256 fingerprint in `data/source/snapshot-expectations.json`
+- Manual-only GitHub Actions publish workflow (disabled for automatic pushes)
+- Public API review (`docs/api-review.md`)
 
 ### Data
 
-- Bundled snapshot: 9 provinces, 25 districts, 340 DS, 14,008 GN
-- Sinhala/Tamil: Province/District/DS complete; GN 13,723/14,008 (285 documented unresolved)
+- Bundled production snapshot: 9 provinces, 25 districts, 340 DS, 14,008 GN
+- Multilingual support with authoritative Sinhala/Tamil (GN 13,723/14,008; 285 GN values intentionally null)
+- Offline embedded dataset, hierarchy navigation, and multilingual search
+- Known limitation: 285 GN Sinhala/Tamil values remain unresolved (no machine translation)
 
 ## [0.1.0] - TBD
 
@@ -42,3 +44,4 @@ Bootstrap through Phase 4. Remains pre-1.0; not published to NuGet.org.
 - Phase 2 public domain models, `IAdministrativeDivisionProvider`, and multilingual search
 - Phase 3 DataBuilder CLI (`inspect` / `validate` / `build` / `acquire-moha`)
 - Phase 3.5–3.8 multilingual source discovery, MOHA join, mappings, overlays, and gap documentation
+- Phase 4 production canonical dataset generation and runtime embedding

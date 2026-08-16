@@ -25,17 +25,22 @@ Because multiple authoritative sources contribute fields, public `DatasetMetadat
 
 ## Licensing and redistribution
 
-MIT applies to LankaLens **source code**, not automatically to government datasets.
+The MIT License applies to LankaLens **source code** only. It does **not** relicense Department of Census and Statistics or Ministry of Home Affairs source datasets, and does not grant MIT-style rights to those originals.
 
-DCS publishes Administrative Division Codes and related count tables on its public website. A formal open-data / redistribution licence for these published Excel/PDF files was not clearly identified on the download pages during Phase 3 inspection. The DCS microdata dissemination policy governs microdata access and does **not** grant MIT-style reuse of published administrative code lists.
+Package notice: [`DATA-NOTICE.md`](../DATA-NOTICE.md). Field authority and provenance live here and in `data/source/sources.json`.
 
-Until redistribution terms are clarified:
+**Phase 5.1 historical finding:** redistribution terms for the embedded production dataset were classified **UNCLEAR** during investigation. Full analysis (historical): [`docs/data-licensing-review.md`](data-licensing-review.md). Unsent agency drafts (historical): [`docs/data-permission-request.md`](data-permission-request.md). Those documents are research records, not current publication gates.
+
+DCS publishes Administrative Division Codes and related count tables on its public website. A formal open-data / redistribution licence for these published Excel/PDF files was not clearly identified on the download pages or inside the GNDList workbook during inspection. The DCS microdata dissemination policy governs microdata access and does **not** grant MIT-style reuse of published administrative code lists. MOHA LIFe reports are publicly reachable; no reuse/redistribution licence was identified on the LIFe application.
+
+Repository practice for original materials:
 
 - Do **not** commit the original `.xlsx` / `.pdf` workbooks to the public repository.
 - Do **not** commit MOHA cached HTML reports.
 - Commit provenance metadata (`data/source/sources.json`: URL, filename, retrieved date, SHA-256, purpose).
 - Commit the generated canonical JSON used for embedding (derived data), mappings, overlays, and gap reports.
 - Keep local snapshots under `data/source/` (gitignored binaries) for DataBuilder regeneration.
+- Keep [`DATA-NOTICE.md`](../DATA-NOTICE.md) accurate and packed with the package when packing locally.
 
 ## Required provenance (per dataset release)
 

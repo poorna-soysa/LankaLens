@@ -25,6 +25,10 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+## Committed API compatibility baseline (PackageValidationBaselinePath)
+!eng/api-compat/
+!eng/api-compat/*.nupkg
+
 ## Test results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*

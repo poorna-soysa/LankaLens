@@ -6,6 +6,19 @@ namespace LankaLens.AdministrativeDivisions;
 /// Read-only access to the bundled Sri Lankan administrative division dataset.
 /// Lookups are in-memory; methods are synchronous because no network or database I/O is performed.
 /// </summary>
+/// <remarks>
+/// <para>
+/// Code lookups use ordinal, case-sensitive comparison. Required string arguments are not trimmed.
+/// Null arguments throw <see cref="ArgumentNullException"/>. Empty or whitespace-only arguments throw
+/// <see cref="ArgumentException"/>. A non-empty code that differs only by surrounding spaces does not match
+/// and is treated as unknown (lookup returns <see langword="null"/> / <see langword="false"/>).
+/// </para>
+/// <para>
+/// Implementations returned by <see cref="AdministrativeDivisions.Default"/> are immutable after
+/// construction and safe for concurrent reads from multiple threads. Search and hierarchy methods
+/// allocate per call and do not mutate shared state.
+/// </para>
+/// </remarks>
 public interface IAdministrativeDivisionProvider
 {
     /// <summary>
@@ -22,7 +35,7 @@ public interface IAdministrativeDivisionProvider
     /// <summary>
     /// Looks up a province by its authoritative code.
     /// </summary>
-    /// <param name="code">Province code. Must not be null, empty, or whitespace.</param>
+    /// <param name="code">Province code. Must not be null, empty, or whitespace. Compared using ordinal, case-sensitive equality; not trimmed.</param>
     /// <returns>The matching province, or <see langword="null"/> when the code is unknown.</returns>
     /// <exception cref="ArgumentNullException"><paramref name="code"/> is <see langword="null"/>.</exception>
     /// <exception cref="ArgumentException"><paramref name="code"/> is empty or whitespace.</exception>

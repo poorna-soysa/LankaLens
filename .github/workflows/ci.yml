@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
@@ -30,15 +32,19 @@ jobs:
       - name: Test
         run: dotnet test LankaLens.sln -c Release --no-build --verbosity normal
 
+      - name: NuGet vulnerability audit
+        run: dotnet list LankaLens.sln package --vulnerable --include-transitive
+
       - name: Pack
         run: dotnet pack src/LankaLens.AdministrativeDivisions/LankaLens.AdministrativeDivisions.csproj -c Release --no-build
 
       - name: Validate package contents
         shell: pwsh
         run: |
-          $packages = Get-ChildItem artifacts/packages -Filter "*.nupkg" -ErrorAction Stop
-          if ($packages.Count -lt 1) {
-            throw "Expected at least one .nupkg in artifacts/packages"
+          $pkg = Get-ChildItem artifacts/packages -Filter "LankaLens.AdministrativeDivisions.0.1.0-preview.1.nupkg" |
+            Select-Object -First 1
+          if (-not $pkg) {
+            throw "Expected artifacts/packages/LankaLens.AdministrativeDivisions.0.1.0-preview.1.nupkg"
           }
 
           $symbols = Get-ChildItem artifacts/packages -Filter "*.snupkg" -ErrorAction SilentlyContinue
@@ -46,49 +52,81 @@ jobs:
             throw "Expected at least one .snupkg in artifacts/packages"
           }
 
-          foreach ($pkg in $packages) {
-            $extractDir = Join-Path $env:RUNNER_TEMP ("nupkg-" + [guid]::NewGuid().ToString("n"))
-            New-Item -ItemType Directory -Path $extractDir | Out-Null
-            Copy-Item $pkg.FullName (Join-Path $extractDir "package.zip")
-            Expand-Archive (Join-Path $extractDir "package.zip") -DestinationPath $extractDir
+          $extractDir = Join-Path $env:RUNNER_TEMP ("nupkg-" + [guid]::NewGuid().ToString("n"))
+          New-Item -ItemType Directory -Path $extractDir | Out-Null
+          Copy-Item $pkg.FullName (Join-Path $extractDir "package.zip")
+          Expand-Archive (Join-Path $extractDir "package.zip") -DestinationPath $extractDir
 
-            $dll = Join-Path $extractDir "lib/net8.0/LankaLens.AdministrativeDivisions.dll"
-            if (-not (Test-Path $dll)) {
-              throw "Package missing lib/net8.0/LankaLens.AdministrativeDivisions.dll: $($pkg.Name)"
-            }
-
-            $readme = Join-Path $extractDir "README.md"
-            if (-not (Test-Path $readme)) {
-              throw "Package missing README.md: $($pkg.Name)"
-            }
-
-            $forbidden = @(
-              "tools/",
-              "tests/",
-              "samples/",
-              "data/source/",
-              "moha-life",
-              ".xlsx",
-              ".xls",
-              ".html"
-            )
-            $allFiles = Get-ChildItem $extractDir -Recurse -File | ForEach-Object {
-              $_.FullName.Substring($extractDir.Length).TrimStart('\','/').Replace('\','/')
-            }
-            foreach ($pattern in $forbidden) {
-              $hit = $allFiles | Where-Object { $_ -like "*$pattern*" }
-              if ($hit) {
-                throw "Package unexpectedly contains '$pattern': $($hit -join ', ')"
-              }
-            }
-
-            Add-Type -AssemblyName System.Reflection
-            $asm = [System.Reflection.Assembly]::LoadFrom($dll)
-            $resourceName = "LankaLens.AdministrativeDivisions.Data.administrative-divisions.json"
-            $resourceNames = $asm.GetManifestResourceNames()
-            if ($resourceNames -notcontains $resourceName) {
-              throw "Package DLL missing embedded resource '$resourceName'. Found: $($resourceNames -join ', ')"
-            }
-
-            Write-Host "Validated $($pkg.Name)"
+          $dll = Join-Path $extractDir "lib/net8.0/LankaLens.AdministrativeDivisions.dll"
+          if (-not (Test-Path $dll)) {
+            throw "Package missing lib/net8.0/LankaLens.AdministrativeDivisions.dll: $($pkg.Name)"
           }
+
+          $xml = Join-Path $extractDir "lib/net8.0/LankaLens.AdministrativeDivisions.xml"
+          if (-not (Test-Path $xml)) {
+            throw "Package missing XML documentation: $($pkg.Name)"
+          }
+
+          $readme = Join-Path $extractDir "README.md"
+          if (-not (Test-Path $readme)) {
+            throw "Package missing README.md: $($pkg.Name)"
+          }
+
+          $dataNotice = Join-Path $extractDir "DATA-NOTICE.md"
+          if (-not (Test-Path $dataNotice)) {
+            throw "Package missing DATA-NOTICE.md: $($pkg.Name)"
+          }
+
+          $nuspec = Get-ChildItem $extractDir -Filter "*.nuspec" | Select-Object -First 1
+          [xml]$doc = Get-Content $nuspec.FullName
+          $repoUrl = $doc.package.metadata.repository.url
+          if ([string]::IsNullOrWhiteSpace($repoUrl) -or $repoUrl -notlike "*github.com/poorna-soysa/LankaLens*") {
+            throw "Package repository URL missing or unexpected: '$repoUrl'"
+          }
+          if ([string]::IsNullOrWhiteSpace($doc.package.metadata.repository.commit)) {
+            throw "Package repository commit metadata missing (Source Link / CI checkout depth?)"
+          }
+
+          $forbidden = @(
+            "tools/",
+            "tests/",
+            "samples/",
+            "data/source/",
+            "moha-life",
+            ".xlsx",
+            ".xls",
+            ".html"
+          )
+          $allFiles = Get-ChildItem $extractDir -Recurse -File | ForEach-Object {
+            $_.FullName.Substring($extractDir.Length).TrimStart('\','/').Replace('\','/')
+          }
+          foreach ($pattern in $forbidden) {
+            $hit = $allFiles | Where-Object { $_ -like "*$pattern*" }
+            if ($hit) {
+              throw "Package unexpectedly contains '$pattern': $($hit -join ', ')"
+            }
+          }
+
+          Add-Type -AssemblyName System.Reflection
+          $asm = [System.Reflection.Assembly]::LoadFrom($dll)
+          $resourceName = "LankaLens.AdministrativeDivisions.Data.administrative-divisions.json"
+          $resourceNames = $asm.GetManifestResourceNames()
+          if ($resourceNames -notcontains $resourceName) {
+            throw "Package DLL missing embedded resource '$resourceName'. Found: $($resourceNames -join ', ')"
+          }
+
+          $deps = $doc.package.metadata.dependencies
+          $packageDeps = @()
+          if ($deps) {
+            $packageDeps = @($deps.SelectNodes("//*[local-name()='dependency']"))
+          }
+          if ($packageDeps.Count -gt 0) {
+            $ids = ($packageDeps | ForEach-Object { $_.id }) -join ', '
+            throw "Runtime package must remain dependency-free. Found: $ids"
+          }
+
+          Write-Host "Validated $($pkg.Name)"
+
+      - name: Local package consumer smoke test
+        shell: pwsh
+        run: ./scripts/smoke-local-package.ps1

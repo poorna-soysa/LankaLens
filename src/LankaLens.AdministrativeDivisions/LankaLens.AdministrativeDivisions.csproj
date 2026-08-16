@@ -6,28 +6,49 @@
     <AssemblyName>LankaLens.AdministrativeDivisions</AssemblyName>
     <IsPackable>true</IsPackable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn)</NoWarn>
+    <WarningsAsErrors>$(WarningsAsErrors);CS1591</WarningsAsErrors>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+
     <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSuffix>preview.1</VersionSuffix>
     <PackageId>LankaLens.AdministrativeDivisions</PackageId>
     <Title>LankaLens Administrative Divisions</Title>
     <Authors>Poorna Soysa</Authors>
+    <Copyright>Copyright (c) 2026 Poorna Soysa</Copyright>
     <Description>
       Sri Lanka administrative divisions for .NET, including provinces,
       districts, divisional secretariats, and Grama Niladhari divisions
       with English names and authoritative Sinhala/Tamil names when available.
     </Description>
-    <PackageTags>sri-lanka;administrative-divisions;province;district;divisional-secretariat;grama-niladhari</PackageTags>
+    <PackageTags>sri-lanka;administrative-divisions;province;district;divisional-secretariat;grama-niladhari;sinhala;tamil</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/poorna-soysa/LankaLens</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/poorna-soysa/LankaLens</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <PackageReleaseNotes>
+      First public preview of LankaLens.AdministrativeDivisions.
+      Bundled production snapshot: 9 provinces, 25 districts, 340 DS, 14,008 GN.
+      Multilingual names from DCS (English) and MOHA/verified overlays (Sinhala/Tamil).
+      Offline hierarchy navigation and multilingual search. Not yet 1.0.
+    </PackageReleaseNotes>
     <PackageOutputPath>$(RepoRoot)artifacts/packages/</PackageOutputPath>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <EmbedUntrackedSources>true</EmbedUntrackedSources>
-    <PublishRepositoryUrl>true</PublishRepositoryUrl>
-    <!-- RepositoryUrl intentionally omitted until a real public GitHub URL is available. -->
+    <EnablePackageValidation>true</EnablePackageValidation>
+  </PropertyGroup>
+
+  <!-- Baseline is optional until eng/api-compat package is committed after first pack. -->
+  <PropertyGroup Condition="Exists('$(RepoRoot)eng/api-compat/LankaLens.AdministrativeDivisions.0.1.0-preview.1.nupkg')">
+    <PackageValidationBaselinePath>$(RepoRoot)eng/api-compat/LankaLens.AdministrativeDivisions.0.1.0-preview.1.nupkg</PackageValidationBaselinePath>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="$(RepoRoot)README.md" Pack="true" PackagePath="\" />
+    <None Include="README.md" Pack="true" PackagePath="\" />
+    <None Include="..\..\DATA-NOTICE.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>
