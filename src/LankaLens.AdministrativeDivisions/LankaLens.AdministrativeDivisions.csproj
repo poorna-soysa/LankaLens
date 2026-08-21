@@ -11,7 +11,7 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 
     <VersionPrefix>0.1.0</VersionPrefix>
-    <VersionSuffix>preview.1</VersionSuffix>
+    <VersionSuffix>preview.2</VersionSuffix>
     <PackageId>LankaLens.AdministrativeDivisions</PackageId>
     <Title>LankaLens Administrative Divisions</Title>
     <Authors>Poorna Soysa</Authors>
@@ -30,15 +30,35 @@
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <PackageReleaseNotes>
-      First public preview of LankaLens.AdministrativeDivisions.
-      Bundled production snapshot: 9 provinces, 25 districts, 340 DS, 14,008 GN.
-      Multilingual names from DCS (English) and MOHA/verified overlays (Sinhala/Tamil).
-      Offline hierarchy navigation and multilingual search. Not yet 1.0.
-    </PackageReleaseNotes>
+  LankaLens.AdministrativeDivisions 0.1.0-preview.2
+
+  Changes in this preview:
+  - Added the official LankaLens NuGet package icon.
+  - Improved NuGet package metadata and presentation.
+  - Kept Poorna Soysa as the package author.
+  - No breaking changes to the public API.
+  - No changes to the administrative hierarchy or bundled dataset.
+
+  Bundled administrative snapshot:
+  - 9 Provinces
+  - 25 Districts
+  - 340 Divisional Secretariat Divisions
+  - 14,008 Grama Niladhari Divisions
+  - Complete English names
+  - Sinhala and Tamil names for all Provinces, Districts, and Divisional Secretariat Divisions
+  - Sinhala and Tamil names for 13,723 of 14,008 Grama Niladhari Divisions
+
+  Unverified Sinhala/Tamil GN names remain null rather than being machine-generated.
+
+  The package continues to provide offline hierarchy navigation, code-based lookups, and multilingual search with no database or network dependency.
+
+  This is a prerelease version and the public API may still evolve before 1.0.0.
+</PackageReleaseNotes>
     <PackageOutputPath>$(RepoRoot)artifacts/packages/</PackageOutputPath>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <EnablePackageValidation>true</EnablePackageValidation>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <!-- Baseline is optional until eng/api-compat package is committed after first pack. -->
@@ -46,10 +66,11 @@
     <PackageValidationBaselinePath>$(RepoRoot)eng/api-compat/LankaLens.AdministrativeDivisions.0.1.0-preview.1.nupkg</PackageValidationBaselinePath>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="README.md" Pack="true" PackagePath="\" />
-    <None Include="..\..\DATA-NOTICE.md" Pack="true" PackagePath="\" />
-  </ItemGroup>
+ <ItemGroup>
+  <None Include="README.md" Pack="true" PackagePath="\" />
+  <None Include="..\..\DATA-NOTICE.md" Pack="true" PackagePath="\" />
+  <None Include="$(RepoRoot)assets\icon.png" Pack="true" PackagePath="\" />
+</ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Data\administrative-divisions.json">
